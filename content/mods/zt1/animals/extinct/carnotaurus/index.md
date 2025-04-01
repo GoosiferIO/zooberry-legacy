@@ -19,6 +19,8 @@ summary: "Adds the abelisaurid Carnotaurus to your zoo. This large, distinctive 
 zt1tags: ["All", "Animals", "ZT1", "Extinct", "Dinosaurs"]
 ---
 
+> Warning: This mod is not compatible with Khaydar's Carnotaurus mod.
+
 Adds the abelisaurid Carnotaurus to your zoo. This large, distinctive theropod, with its great speed and horned face, is sure to thrill guests. Carnotaurus enjoyed a coastal forest habitat during its time near the end of the Cretaceous.
 
 # Credits

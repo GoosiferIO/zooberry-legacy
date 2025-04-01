@@ -17,6 +17,15 @@ languages:
 - English
 summary: "The Killer Penguin has arrived on new shores. Can you satiate it?"
 zt1tags: ["All", "ZT1", "Animals", "Aquatic", "Birds", "Fictional"]
+dependencies:
+- title: LANG-ZBorsato.dll
+  url: /mods/zt1/tools-utilities/lang-zborsato/
+  description: Required for animal eras to display properly.
+  external: false
+- title: ui99.ztd
+  url: /mods/zt1/tools-utilities/ui99/
+  description: Required for the new location graphics and configurations to display properly.
+  external: false
 ---
 
 The Killer Penguin has arrived on new shores. Can you satiate it?
