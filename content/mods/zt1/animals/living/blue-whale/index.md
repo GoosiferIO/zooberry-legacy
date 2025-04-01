@@ -1,5 +1,5 @@
 ---
-title: Piscobalaena
+title: Blue Whale
 author: 
 - Buffzoo
 game: Zoo Tycoon 1
