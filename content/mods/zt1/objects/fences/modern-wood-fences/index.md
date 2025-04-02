@@ -8,7 +8,7 @@ file_size: 112 KB
 orig_rel_date: 2025-04-01
 date: 2025-04-01T18:00:00-07:00
 draft: false
-license: Unknown
+license: 'Yes'
 orig_rel_at: 
 - ZooBerry
 alt_text: 
