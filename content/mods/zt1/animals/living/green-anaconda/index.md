@@ -23,7 +23,6 @@ mod_list:
   title: Green Anaconda
   uploaded: 2025-04-05
   category: Files
-  description: "Green Anaconda by Serpyderpy."
   file_size: 7.95 MB
 ---
 

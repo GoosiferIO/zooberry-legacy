@@ -14,7 +14,8 @@
 {{ $fileSize := .Params.file_size }}
 {{ $date := .Date.Format "2 Jan 2006" }}
 {{ $cdn := .Site.Params.cdn }}
-{{ if gt $fileCount 1 }}
+{{/*  if there is 1 file or modList exists  */}}
+{{ if (ne $modList nil) }}
     {{ range $categories }}
         {{ $curCategory := . }}
         <table class="mod-list-table" style="margin-bottom: 1rem;">
