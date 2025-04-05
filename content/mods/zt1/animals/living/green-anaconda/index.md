@@ -18,6 +18,13 @@ languages:
 - English
 summary: Adds the green anaconda for adoption in your zoo, a large, semi-aquatic snake that is sure to delight your guests. They enjoy a mix of both rainforest and aquatic foliage in their exhibit and they can go in tanks!
 zt1tags: ["All", "Animals", "ZT1", "Reptiles", "Living"]
+mod_list:
+- name: SerpyAnacondav2
+  title: Green Anaconda
+  uploaded: 2025-04-05
+  category: Files
+  description: "Green Anaconda by Serpyderpy."
+  file_size: 7.95 MB
 ---
 
 Adds the green anaconda for adoption in your zoo, a large, semi-aquatic snake that is sure to delight your guests. They enjoy a mix of both rainforest and aquatic foliage in their exhibit and they can go in tanks! Marine Mania is required for both the tank behaviour sets and animations to work, but this animal should theoretically work fine in base Zoo Tycoon as well.
@@ -25,3 +32,7 @@ Adds the green anaconda for adoption in your zoo, a large, semi-aquatic snake th
 # Credits
 - Hendrix for the original red-tailed boa mesh and animations, which was further edited into a green anaconda mod for ZT2 by Scott and Buffzoo, which was used as a base for this animal. Frontier textures were adapted for said ZT2 mod.
 - Serpyderpy for rendering and creating the animal, the plaque, the icons, all the usual stuff.
+
+# Updates
+
+- **2025-04-05**: Adds fixes for some missing shadow graphics on male + young sprites.
