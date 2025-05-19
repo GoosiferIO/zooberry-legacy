@@ -2,6 +2,7 @@
 title: "Giganotosaurus"
 author: 
 - Buffzoo
+- Serpyderpy
 game: Zoo Tycoon 1
 exp_req:
 - DD
