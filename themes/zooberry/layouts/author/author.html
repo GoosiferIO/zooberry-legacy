@@ -116,7 +116,7 @@
         <div style="margin-right: 2rem;">
 
             <p><h1 style="margin-top:-1rem;padding:0;">Mods Published</h1> 
-                {{ $paginator := .Paginate $modsByAuthor }}
+                {{ $paginator := .Paginate $modsByAuthor 30 }}
                 {{ template "_internal/pagination.html" (dict "paginator" $paginator "page" .) }}
 
                 <ul class="box-card-list">

@@ -20,7 +20,7 @@
 {{/*  sort mods by title  */}}
 
 {{ $sortedMods := sort $filteredMods "Title" "asc" }}
-{{ $paginator := .Paginate $sortedMods }}
+{{ $paginator := .Paginate $sortedMods 30 }}
 {{ template "_internal/pagination.html" (dict "paginator" $paginator "page" .) }}
 
 <div class="box-card-list">
