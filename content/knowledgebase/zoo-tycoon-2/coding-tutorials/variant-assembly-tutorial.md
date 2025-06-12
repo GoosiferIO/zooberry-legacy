@@ -1,7 +1,7 @@
 ---
 title: Variant Assembly Tutorial
 draft: false
-date: 2007-07-10T02:35+00:00
+date: 2007-07-10T02:35:00+0700
 author: Penguinman
 ---
 
