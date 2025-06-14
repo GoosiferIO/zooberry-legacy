@@ -37,6 +37,7 @@ contents:
   - Grey Crowned Crane
   - Scimitar Oryx
   - Aardvark
+  - Barbary Ape
 ---
 
 A diverse group of iconic African species including predators like the Ethiopian Wolf and Caracal, graceful antelopes such as gazelles and kudus, distinctive birds like the Sacred Ibis and Grey Crowned Crane, charismatic primates including the Ring-tailed Lemur, and unique mammals like the Aardvark.
@@ -54,6 +55,7 @@ A diverse group of iconic African species including predators like the Ethiopian
   - Grey Crowned Crane
   - Scimitar Oryx
   - Aardvark
+  - Barbary Ape
 
 # Credits
 
