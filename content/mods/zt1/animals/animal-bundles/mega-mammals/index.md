@@ -1,5 +1,5 @@
 ---
-title: Extinct Species
+title: Mega Mammals
 has_author: true
 author: 
 - Borsato

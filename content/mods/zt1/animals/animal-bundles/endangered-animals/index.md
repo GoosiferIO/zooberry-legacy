@@ -1,5 +1,5 @@
 ---
-title: Extinct Species
+title: Endangered Animals
 has_author: true
 author: 
 - Borsato
@@ -83,5 +83,5 @@ Encounter some of the world's most threatened wildlife with this collection of c
 | Baird's Tapir | [Dwyqyjt](http://zt2downloadlibrary.wikia.com/wiki/Baird's_Tapir_(Dwyqyjt)) | [ARKive](http://www.arkive.org/bairds-tapir/tapirus-bairdii/) | | HENDRIX |
 | Bactrian Camel | [Ludozoo](http://zt2downloadlibrary.wikia.com/wiki/Bactrian_Camel_(Ludozoo)) | [Blackpool Zoo](https://www.blackpoolzoo.org.uk/animals/bactrian-camel) | | HENDRIX |
 | Amur Leopard | [Lgcfm & Zebrasorus](http://zt2downloadlibrary.wikia.com/wiki/Amur_Leopard_(Lgcfm_%26_Zebrasorus)) | [Our Endangered World](http://www.ourendangeredworld.com/species/land-mammals/amur-leopard/) | | |
-| Amazon River Dolphin | [Eryel & Zerosvalmont](http://zt2downloadlibrary.wikia.com/wiki/Araguaian_River_Dolphin_(Eryel_%26_Zerosvalmont)?%2520Zerosvalmont).png=undefined&%25252520Zerosvalmont)2.png=undefined) | [Dolphins World](https://www.dolphins-world.com/pink-amazon-river-dolphin/) | [Mundo Educação](http://mundoeducacao.bol.uol.com.br/folclore/boto-corderosa.htm) | HENDRIX |
+| Amazon River Dolphin | [Eryel & Zerosvalmont](https://zt2downloadlibrary.fandom.com/wiki/Araguaian_River_Dolphin_(Eryel_%26_Zerosvalmont)?%2520Zerosvalmont=) | [Dolphins World](https://www.dolphins-world.com/pink-amazon-river-dolphin/) | [Mundo Educação](http://mundoeducacao.bol.uol.com.br/folclore/boto-corderosa.htm) | HENDRIX |
 | Amazonian Manatee | [Titan](http://zt2downloadlibrary.wikia.com/wiki/Amazonian_Manatee_(Titan)) | [Unicover](http://www.unicover.com/EF4UH4FE.htm) | [Unicover](http://www.unicover.com/EF4UH4FE.htm) | HENDRIX |
