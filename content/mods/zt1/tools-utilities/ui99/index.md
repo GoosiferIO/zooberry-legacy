@@ -23,6 +23,7 @@ mod_list:
     uploaded: 2024-10-03
 dependencies:
   - name: LANG--ZBorsato
+    title: Borsato Language File
     url: /mods/zt1/tools-utilities/lang-zborsato/
     description: This language file contains the location strings referenced by this mod and is required for it to work properly.
     external: false
