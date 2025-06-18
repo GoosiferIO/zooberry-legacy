@@ -25,7 +25,7 @@ mod_list:
 dependencies:
 - title: LANG--ZBorsato.dll
   url: /mods/zt1/tools-utilities/lang-zborsato/
-  description: Required for animal eras to display properly.
+  description: Contains required text strings for the mod to work properly.
   external: false
 - title: ui99.ztd
   url: /mods/zt1/tools-utilities/ui99/
