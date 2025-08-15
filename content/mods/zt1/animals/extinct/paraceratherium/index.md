@@ -14,7 +14,7 @@ alt_text:
 languages:
 - English
 summary: The largest land mammal that ever lived, standing 18 feet tall and using its massive size to browse treetops across ancient Asian forests.
-zt1tags: ["All", "Animals", "Mammals", "Ungulates", "Prehistoric", "Extinct", "Asian"]
+zt1tags: ["All", "ZT1", "Animals", "Mammals", "Ungulates", "Prehistoric", "Extinct", "Asian"]
 mod_list: 
   - name: BR_Paraceratherium_V1
     title: Paraceratherium

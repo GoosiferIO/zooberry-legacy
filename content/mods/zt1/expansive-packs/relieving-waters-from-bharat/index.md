@@ -15,28 +15,30 @@ orig_rel_at:
 alt_text: 
 languages:
 - English
-summary: "Two new tankable animals and a new foliage item for India themed parks. Screenshot displays items not created by me, credits below."
+summary: "Three new tankable animals and a new foliage item for India themed parks. Screenshot displays items not created by me, credits below."
 zt1tags: ["All", "Animals", "ZT1", "Packs", "Aquatic", "Foliage", "Cretaceans", "Objects"]
 mod_list: 
-  - name: ZwRelievingWaters
+  - name: ZwRelievingWatersFromBharatV2
     title: Relieving Waters from Bharat
     category: Files
     description: "Includes single files for each item and a combined file with all items. Feel free to only use the combined file if you want all items at once."
-    file_size: 3.05 MB
+    file_size: 4.22 MB
     uploaded: 2025-08-02
 contents:
 - Dugong
 - Ganges River Dolphin
 - Mango Tree
+- Irrawaddy River Dolphin
 ---
 
-Two new tankable animals and a new foliage item for India themed parks. Screenshot displays items not created by me, credits below.
+Three new tankable animals and a new foliage item for India themed parks. Screenshot displays items not created by me, credits below.
 
 # Content List
 
 -> Dugong. Salt water
 -> Ganges river dolphin. Fresh water
 -> Mango tree. Rainforest exhibit foliage.
+-> Irrawaddy river dolphin. Fresh water
 
 # Notes
 
@@ -51,6 +53,10 @@ Two new tankable animals and a new foliage item for India themed parks. Screensh
 - All mango tree sprites made using Flux Schnell algorithm
 - Dugong made using *Bunyupy's* base model.
 - Ganges river Dolphin made using *Whalebite's* base model.
+- Irrawaddy river dolphin base model by Platypus. Text & plaque background generated with stable diffusion algorithm.
+
+# Changelog
+- 2025-08-15: Added Irrawaddy river dolphin to the pack.
 
 Please report any bug on my projects thread at Zoo Tek Phoenix:
 
