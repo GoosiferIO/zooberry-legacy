@@ -17,13 +17,17 @@ languages:
 summary: Adds the biggest land lizard of all time to your zoo.
 zt1tags: ["All", "ZT1", "Animals", "Reptiles", "Prehistoric", "Extinct", "Australian"]
 mod_list: 
-  - name: LapisMegalania
-    title: Megalania
+  - name: LapisMegalaniaV2
+    title: Megalania v2.0
     category: Files
     file_size: 9.19 MB
-    uploaded: 2025-08-15
+    uploaded: 2025-08-22
 ---
 Adds the biggest land lizard of all time to your zoo.
+
+# Updates
+
+- *2025-08-22* - v2 fixes bug where Megalania eggs were not hatching.
 
 ## Credits
 
