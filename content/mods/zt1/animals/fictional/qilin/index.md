@@ -17,17 +17,24 @@ languages:
 summary: Better known as chinese unicorn. Your zoo will accommodate the forthcoming sage's ambassador.
 zt1tags: ["All", "ZT1", "Animals", "Fictional", "Asian"]
 mod_list: 
-  - name: LapisSuchomimu
-    title: Suchomimus
+  - name: ZwQilinV2
+    title: ZwQilinV2.zip
     category: Files
-    file_size: 37.2 MB
-    uploaded: 2025-09-19
+    file_size: 6.78 MB
+    uploaded: 2025-09-22
 ---
 Better known as chinese unicorn. Your zoo will accommodate the forthcoming sage's ambassador.
 
 "I read the credit of the qilin and I feel like nothing belongs to me at all despite the time spent xd.
 
 Base model by Tamara Henson, Whalebite, & WorkowatyWilczek. Includes sprites from Metal Slug (SNK, 1996) and The King of Fighters 2003 (SNK, 2003). Includes sounds from Fantastic Beasts: The Secrets of Dumbledore (Warner Bros. Pictures, 2022). Qilin statue model by Sakchai.Sompila, available at sketchfab.com (available at: https://skfb.ly/6X6Fq). Plaque made with Flux Schnell algorithm. Text made using GPT-5."
+
+## Changelog
+
+### Sep 16th, 2025:
+
+Changelog:
+- Qilin now like bamboo and gingko tree as much as their prefered items.
 
 Current compatibility items list:
 
