@@ -1,49 +1,99 @@
 ---
-title: Chinese Charms
+title: "五德神兽苑 \"Five Virtues Heavenly Realm Menagerie\""
 has_author: true
 author: 
 - Zarawatto
 game: Zoo Tycoon 1
 exp_req: 
-- MM
 - DD
-file_size: 28.5 MB
-orig_rel_date: 2025-09-22
-date: 2025-09-22T01:15:53-07:00
+- MM
+orig_rel_date: 2025-10-27
+date: 2025-10-27T01:15:53-07:00
 orig_rel_at: 
 - ZooBerry
 draft: false
-license: 'Yes'
+license: Unknown
 alt_text: 
 languages:
 - English
-summary: "Adds four mythical creatures from China yo your zoo: Loong, qilin fenghuang & nian. Temporary name until the file gets their last items."
+summary: A.K.A. Chinese Charms. Adds five mythical China creatures to your zoo and some new bonus items. This is the ultimate version that is meant to overwritte all the previous ones!
 mod_list: 
-  - name: ZwChineseCharmsCombinedV2
-    title: ZwChineseCharmsCombinedV2.zip
-    category: Files
-    file_size: 49.8 MB
-    uploaded: 2025-10-05
-zt1tags: ["All", "Animals", "Fictional", "Asian"]
+  - name: ZwFiveVirtuesMenagerieV2
+    title: ZwFiveVirtuesMenagerieV2.zip
+    category: Combined Version
+    description: "A.K.A. Chinese Charms. Adds five mythical China creatures to your zoo and some new bonus items. This is the ultimate version that is meant to overwritte all the previous ones!"
+    file_size: 55.0 MB
+    uploaded: 2025-10-27
+zt1tags: ["All", "Animals", "Fictional", "Asian", "Foliage", "Shelters", "Scenery", "Mammals", "Ursids", "Living"]
 contents:
 - Loong
 - Qilin
 - Fenghuang
 - Nian
+- Pixiu
+- God House Shelter
+- Qinling Brown Panda
+- Wuxing Banners
+dependencies:
+- title: LANG--ZTCDD.dll
+  url: http://www.ztcdd.org/DG/index.php?topic=3734.0
+  description: God House shelter uses strings from LANG--ZTCDD language file
+  external: true
 ---
-Adds four mythical creatures from China yo your zoo: Loong, qilin, fenghuang & nian. Temporary name until the file gets their last items.
 
-Included:
-- Loong
-- Qilin
-- Fenghuang
-- Nian
+Thanks for downloading 五德神兽苑!
+Pinyin: Wǔ Dé Shénshòu Yuàn
+Translation: Five Virtues Heavenly Realm Menagerie
+
+A.K.A. *Chinese Charms*
+
+~~Content List~~
+
+=> Loong. Highland, tankable. Compatible with Taz's Baiji, Hawkkeye's Koi & Hawkkeye's Chinese giant salamander.
+=> Qilin. Highland.
+=> Fenghuang. Highland, water placeable.
+=> Nian. Highland, tankable.
+=> Pixiu. Highland, water placeable.
+
+Nian likes salt water. The other ones are compatible together.
+
+Bonus items:
+
+=> God house shelter. *Water & land placeable*.
+Uses FancyShelter strings in LANG--ZTCDD language file! 
+=> Qinling brown panda. Highland. Compatible with in-game giant panda.
+=> Wuxing banners. One for each wuxing elements:
+==> Water, 水 (Purple).
+==> Fire, 火 (Blue).
+==> Wood, 木 (Orange).
+==> Earth, 土 (Red).
+==> Metal, 金 (Green).
+
+=> Screenshot displays YinYang path designed by Genkicoll, available here: https://zootekphoenix.com/forums/files/file/1028-yin-yang-path-by-genkicoll/
+=> Screenshot displays the main sprite for sleeping animals, these are not actual items in game.
+
+Last Changelog, October 25th 2025:
+- Audio issues correced. Thanks to Jay and Fern who promptly advised about how to fix this!
+- Efficiency corrections.
+- Size improvement.
+- Minor detail changes.
+
+Zarawatto, October 19th 2025:
+
+Changelog
+- Added the pixiu.
+- Added the brown panda.
+- Added the scenery items.
+- Animals configured to like new items into their exhibits.
+- Fixed nian swimming animation.
+
+"To me, each of these mythical beasts included represent one of the confucian virutes. Loong, wisdom (智, zhì); Qilin, benevolence (仁, rén); Fenghuang, propriety (禮, lǐ); Nian, righteousness (義, yì); Pixiu, trustworthiness (信, xìn). Also, each of them represent an element from Wuxing. Long, water (水, shuǐ); Qiin, fire (火, huǒ); Fenghuang, wood (木, mù); Nian, earth (土, tǔ); Pixiu, metal (金, jīn). You can notice this with their animations, which drives me to the next point: This all started in a thread about transfiguration animals like in-game mermaid, so this is my attempt to do so. Some of you were following the constant updates of this, so I'll keep the notes I wrote each time. Btw, I tried to fix the audio, unsuccessfully. Also, I discovered some time ago that there are BROWN pandas! They're cute as hell! I made a simple recolor of in game panda and changed their configuration in order to display animations not used by the in game panda. Hope you like it! No more updates on this, so I'll upload this file in both ZooTek and ZooBerry unless some fix needs to be done. It's been a fun trip! See you on next works!"
 
 Zarawatto, August 31st, 2025:
 
 "Three days ago, I woke up around 4:30 am with the idea to take my works again. Some of this are made from zero because, while I was reading, the ideas were coming to my head and I gotta add them to it. That's why this was the individual project that toke longer than usual.
 
-Loong, protector of the rivers and the weather, swims in water and underwater. Will also turn itself into water when angry or sleepy. Will battle any tiger that dares to obstruct its way. Its elevated cost represents how number nine was a lucky number for chinese traditions of the nine children of dragons. Naturally hard to please, will rampage anything inside their exhibit until you bring the ultimate offerings. As a prize, when fully satisfied, they will unfold their majesty in exchange. I was tempted to make scenery items for this, but you can find out there several chinese themed items made by various designers, which I configured to add suitability. The original model belongs to New Athens expansion pack created by *Tamara Henson & WorkowatyWilczek*, the same that contains the peryton I also crafted some time ago. I just modified the model a bit to make it longer. The urn where the water dragon hides itself is made with FluxSchnell algorithm. This is my most personal work to date. Enjoy!"
+Loong, protector of the rivers and the weather, swims in water and underwater. Will also turn itself into water when angry or sleepy. Will battle any tiger that dares to obstruct its way. Its elevated cost represents how number nine was a lucky number for chinese traditions of the nine children of dragons. Naturally hard to please, will rampage anything inside their exhibit until you bring the ultimate offerings. As a prize, when fully satisfied, they will unfold their majesty in exchange. I was tempted to make scenery items for this, but you can find out there several chinese themed items made by various designers, which I configured to add suitability. The original model belongs to New Athens expansion pack created by *Tamara Henson & WorkowatyWilczek*, the same that contains the peryton I also crafted some time ago. I just modified the model a bit to make it longer. The urn where the water dragon hides itself is made with FluxSchnell algorithm. This is my most personal work to date. Enjoy!"
 
 Zarawatto, Sep 16th, 2025:
 
@@ -122,14 +172,18 @@ https://zootekphoenix.com/forums/files/file/5838-2020-arches-pack-by-devona/
 - Dragon Garden by Devona, not currently available since ZooAdmin no longer exists. ZooTek Will eventually upload it.
 
 Credits:
-- Loong made with base model by Tamara Henson & WorkowatyWilczek. Includes sprites from Metal Slug X (SNK, 1999). Plaque made with Flux Schnell algorithm. Water cloud graphics from BlueFang. Text made using GPT-5. Chinese vase model by M3D, available at sketchfab.com. Link to get: https://skfb.ly/oPROo
+- Loong made with base model by Tamara Henson & WorkowatyWilczek. Includes sprites from Metal Slug X (SNK, 1999). Plaque made with Flux Schnell algorithm. Water cloud graphics from BlueFang. Text made using GPT-5. Chinese vase model by M3D, available at sketchfab.com. Link to get: https://skfb.ly/oPROo
 - Qilin made with base model by Tamara Henson, Whalebite, & WorkowatyWilczek. Includes sprites from Metal Slug (SNK, 1996), Real Bout Fatal Fury 2: The Newcomers (SNK, 1998) and The King of Fighters 2003 (SNK, 2003). Includes sounds from Fantastic Beasts: The Secrets of Dumbledore (Warner Bros. Pictures, 2022). Plaque made with Flux Schnell algorithm. Text made using GPT-5. Qilin statue model by Sakchai.Sompila, available at sketchfab.com. Link to get: https://skfb.ly/6X6Fq
 - Fenghuang made with base model by Ulquiorra & Hendrix. Includes sprites from The King of Fighters 2003 (SNK, 2003). Uses sounds from Pokemon Sword & Shield (Nintendo, 2019). Plaque and texture made with Flux Schnell algorithm. Text made using GPT-5. Wooden vessel model (last version) by Yale Peabody Museum, available at sketchfab.com. Link to get: https://skfb.ly/oxMJZ
 - Fenghuand Bonsai model (first version, now unused) by Vermos, available at sketchfab.com. Link to get: https://skfb.ly/6XnsZ
 - Nian made with base model by Ultamateterex2. Includes sprites from The King of Fighters 2003 (SNK, 2003). Includes sounds from Pokemon Sword & Shield (Nintendo, 2019). Plaque made with Flux Schnell algorithm. Text made using GPT-5. Lion temple statue model by polarathene, available at sketchfab.com. Link to get: https://skfb.ly/6AZJz
+- Pixiu made with base model by Tamara Henson & WorkowatyWilczek. Includes sprites from Metal Slug 3 (SNK, 2000). Uses sounds from Pokemon Sword & Shield (Nintendo, 2019). Plaque made with Flux Schnell algorithm. Dragon coin model by Alazur & Pixiu figurine model by Mofashi, both available at sketchfab.com. Links to get: https://skfb.ly/ZGPv https://skfb.ly/pzEIG
+- Wuxing banners made with base model by Wolfy23, available at sketchfab.com. Link to get: https://skfb.ly/6WTSv
+- God House Shelter made with base model by ANO9s, available at sketchfab.com. Link to get: https://skfb.ly/pCvKq
+
 
 Please report any bug on my projects thread at Zoo Tek Phoenix:
 
 https://zootekphoenix.com/forums/topic/38245-my-works-on-lacking-stuff
 
-Zarawatto, Sep 21st 2025
+Zarawatto, October 19th 2025
