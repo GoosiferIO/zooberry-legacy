@@ -2,7 +2,7 @@
 title: "Common Snapping Turtle"
 has_author: true
 author: 
-- LapizLazuli77
+- LapisLazuli77
 game: Zoo Tycoon 1
 exp_req:
 - MM

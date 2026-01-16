@@ -21,3 +21,8 @@ zt1tags: ["All", "Animals", "ZT1", "Extinct", "Reptiles"]
 ---
 
 Adds the giant ichthyosaur from the 1810s to your zoo. More startling than Jules Verne!
+
+- Created by LapisLazuli77
+- Original model from Jurassic World: The Game
+- Ported to ZT2 by Casus
+- Sounds from Spore
