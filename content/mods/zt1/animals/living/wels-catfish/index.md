@@ -1,5 +1,5 @@
 ---
-title: Wels Cuttle Fish
+title: Wels Catfish
 author: 
 - LapisLazuli77
 game: Zoo Tycoon 1
