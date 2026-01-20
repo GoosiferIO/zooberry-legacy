@@ -23,6 +23,7 @@ Adds the bigboi catfish to your zoo.
 
 # Credits
 - Created by LapisLazuli77
-- Original model from Jurassic World Alive by Ludia
-- Ported to ZT2 by Serpyderpy
-- Sounds from Carnivores
+- Original model from Lgcfm & Ulquiorra's Extinct Animals Remakes
+- https://zt2downloadlibrary.fandom.com/wiki/Utahraptor_(Lgcfm_%26_Ulquiorra)
+- Textures edited by Lapis
+- Sounds from Zoo Tycoon 2's Stokesosaurus (not Utahraptor)

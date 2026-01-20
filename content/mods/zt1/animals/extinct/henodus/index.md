@@ -24,5 +24,5 @@ Adds the almighty turtlen't to your zoo.
 
 # Credits
 - Created by LapisLazuli77
-- Original model by Alvin_Abreu
-- https://zt2downloadlibrary.fandom.com/wiki/Jurassic_World_Brachiosaurus_(Alvin_Abreu)
+- Original model from Jurassic World: The Game
+- Ported to ZT2 by Casus
