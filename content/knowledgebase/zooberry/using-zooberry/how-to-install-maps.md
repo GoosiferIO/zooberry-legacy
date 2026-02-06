@@ -39,6 +39,6 @@ This is where you will drop your `.z2f` save file.
 
 # Questions?
 
-ZooBerry doesn't have a discussion community of its own. Join our [Discord](https://discord.gg/ATqFYVsjkc).
+ZooBerry doesn't have a discussion community of its own. Join our [Discord](https://discord.gg/g5FvNrRQGC).
 
 You can also visit the [Other Websites](/knowledgebase/zooberry/community/other-websites) page for other Zoo Tycoon websites that can help with installation problems or shoot me an email if you would like to report a bug.

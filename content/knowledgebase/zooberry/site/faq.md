@@ -73,6 +73,6 @@ ZooBerry believes in mod ownership and therefore if you are an author to a mod h
 
 ## Do you have a forum?
 
-We used to, but it's quite expensive and frankly they're just not as popular as they used to be. Since ZooBerry is one of our main projects at OpenZT, you are welcome to communicate with us on the [OpenZT Discord](https://discord.gg/ATqFYVsjkc).
+We used to, but it's quite expensive and frankly they're just not as popular as they used to be. Since ZooBerry is one of our main projects at OpenZT, you are welcome to communicate with us on the [ZooBerry Discord](https://discord.gg/g5FvNrRQGC).
 
 For other ZT forum communities around the internet, please see the [Other Websites](/knowledgebase/zooberry/community/other-websites) page.
