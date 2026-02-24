@@ -9,7 +9,7 @@ exp_req:
 file_size: 606 KB
 orig_rel_date: 2026-02-23
 date: 2026-02-23T07:34:23-07:00
-draft: true
+draft: false
 license: 'Yes'
 orig_rel_at: 
 - ZooBerry
