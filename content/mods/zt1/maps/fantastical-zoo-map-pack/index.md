@@ -7,7 +7,7 @@ exp_req:
 - MM
 - DD
 file_size: "110 KB"
-orig_rel_date: 2026-03-02T00:15:00-07:00
+orig_rel_date: 2026-03-02
 date: 2026-03-02T00:15:00-07:00
 orig_rel_at: 
 - ZooBerry
