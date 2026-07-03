@@ -30,3 +30,4 @@ He uses the BF Ibex icon, The baby uses the same model the adult, so it has horn
 
 # Other Credits
 - Simba (RR Ibex model)
+
