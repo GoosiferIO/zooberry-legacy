@@ -1,23 +1,22 @@
 ---
 title: "White Wolverine Variant"
 has_author: true
-author: 
+author:
 - Goosifer
 game: Zoo Tycoon 2
-exp_req: 
+exp_req:
 - ES
-file_size: 459 KB
-file_date: 2006-04-25
 orig_rel_date: 2006-04-25
-date: 2023-10-30T20:27:31-07:00
-orig_rel_at: 
+date: 2006-04-25T20:27:31-07:00
+orig_rel_at:
 - ZooMania
 draft: false
-license: Unknown
-alt_text: 
-languages:
+license: 'Unknown'
 summary: "A white wolverine variant skin made by Catc."
-
+file_size: 459 KB
+file_date: 2006-04-25
+alt_text: null
+zt2tags: ["All"]
 ---
 
 A white wolverine variant skin made by Catc.

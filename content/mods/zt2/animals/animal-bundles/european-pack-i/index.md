@@ -1,35 +1,35 @@
 ---
-alt_text: null
+title: "European Pack I"
+has_author: true
 author:
 - ShenTirag
 - Goosifer
 - Steenbok28
-date: '2024-01-14T01:51:12'
-draft: false
-exp_req:
-- ES
-- AA
-- EA
-file_date: 2008-08-25
-file_size: 9.80 MB
 game: Zoo Tycoon 2
-has_author: true
-languages:
-- English
-license: 'Yes'
+exp_req:
+- AA
+- ES
+- EA
+orig_rel_date: 2008-08-25
+date: 2008-08-25T01:51:12
 orig_rel_at:
 - Shen's Den
 - ZooMania
-orig_rel_date: 2008-08-25
-summary: The first part of our little project, contains the European Mouflon, the
-  Highland Cow and the Shire Horse!
-title: European Pack I
+draft: false
+license: 'Yes'
+languages:
+- English
+summary: "The first part of our little project, contains the European Mouflon, the Highland Cow and the Shire Horse!"
+alt_text: null
+file_date: 2008-08-25
+file_size: 9.80 MB
 zt2tags: ["All", "Animals", "Animal Bundles", "Mammals", "Ungulates"]
 contents:
 - European Mouflon
 - Highland Cow
 - Shire Horse
 ---
+
 "The first part of our little project, contains the European Mouflon, the Highland Cow and the Shire Horse! Each animal has a variety of variants!"
 
 =

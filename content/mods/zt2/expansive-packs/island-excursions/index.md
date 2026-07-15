@@ -1,6 +1,7 @@
 ---
 title: "Island Excursions"
-author: 
+has_author: true
+author:
 - Penguinman
 - Koala Komander
 - Mikaboshi
@@ -11,26 +12,25 @@ author:
 - Gloria
 - Steenbok28
 - SilesianTomcat
-team: Artifex
 game: Zoo Tycoon 2
-exp_req: 
+exp_req:
+- MM2
+- AA
 - ES
 - EA
-- AA
-- MM2
-file_size: 12.5 MB
 orig_rel_date: 2008-01-01
-date: "2024-10-04 19:40:23"
-orig_rel_at: 
-- Artifex
+date: 2008-01-01T19:40:23
+orig_rel_at:
+- ZooBerry
 draft: false
 license: 'Yes'
-alt_text: 
-summary: "Embark upon an excursion to travel the oceans in search of tropical paradise! Discover the isles hiding within the Hawaiian Islands and Papua New Guinea, seeing such animals as the Hawaiian Monk Seal and the Northern Cassowary as they live in their lush and vibrant homes."
 languages:
 - English
-zt2tags: ["All", "Animals", "Foliage", "Scenery", "ZT2", "Packs", "Buildings", "Paths", "Fences", "Tables", "Benches", "Lamps", "Arches", "Food Stands", "Mammals", "Birds", "Reptiles", "Fish", "Invertebrates", "Objects", "Living", "Expansive Packs"]
-mod_list: 
+summary: "Embark upon an excursion to travel the oceans in search of tropical paradise! Discover the isles hiding within the Hawaiian Islands and Papua New Guinea, seeing such animals as the Hawaiian Monk Seal and the Northern Cassowary as they live in their lush and vibrant homes."
+team: Artifex
+file_size: 12.5 MB
+alt_text: null
+mod_list:
   - name: Y IE Information
     title: Y IE Information
     category: Download This First!
@@ -175,81 +175,82 @@ mod_list:
   - name: IE Complete Foliage Pack
     title: Complete Foliage Pack
     category: Foliage
+    description: "This pack contains all of the foliage from the Island Excursions pack. You must have all expansions to use it. If you only have certain expansions, you can download the individual foliage packs instead."
     file_size: 14.2 MB
     uploaded: 2024-10-04
-    description: "This pack contains all of the foliage from the Island Excursions pack. You must have all expansions to use it. If you only have certain expansions, you can download the individual foliage packs instead."
   - name: IE Foliage Any
     title: Foliage Pack (Any)
     category: Foliage
+    description: "This pack has only the foliage compatible with the just the base game. Therefore it is compatible with any expansions. It contains: Basket Fern, California Fern, Candelabra Cactus, Malayan Sword, New Guinea Palmyra Palm, Palmetto Cuban, Pineapple Palm, Rafflesia, Roysdunl, and the Swamp Lily."
     file_size: 2.96 MB
     uploaded: 2024-10-04
-    description: "This pack has only the foliage compatible with the just the base game. Therefore it is compatible with any expansions. It contains: Basket Fern, California Fern, Candelabra Cactus, Malayan Sword, New Guinea Palmyra Palm, Palmetto Cuban, Pineapple Palm, Rafflesia, Roysdunl, and the Swamp Lily."
   - name: IE Foliage MM
     title: Foliage Pack (MM2)
     category: Foliage
+    description: "This pack has only the foliage that requires Marine Mania 2. It contains: the Alula, Brain Coral, Coconut Palmie, Dwarf Naupaka, Eel Grass, Giant Clam, Giant Kelp, Green Sea Fingers, Kelp Grass,  Papala Elliptic Leaf, Orange Sponge, and the Staghorn Coral."
     file_size: 4.47 MB
     uploaded: 2024-10-04
-    description: "This pack has only the foliage that requires Marine Mania 2. It contains: the Alula, Brain Coral, Coconut Palmie, Dwarf Naupaka, Eel Grass, Giant Clam, Giant Kelp, Green Sea Fingers, Kelp Grass,  Papala Elliptic Leaf, Orange Sponge, and the Staghorn Coral."
   - name: IE Folaige MMorEA Only
     title: Foliage Pack (MM2 or EA)
     category: Foliage
+    description: "This pack has only the foliage that requires one of Marine Mania 2 or Extinct Animals. It contains: Beardless Rabbit's Foot Grass, Cabbage Tree, Campbell Island Daisy, Fire Bird, Gaharu, Giant Coreopsis, Indiana Gooseberry, Island Oak, Java Fern, Java Moss, Kauyan Tinik, New Guinea Impatiens, Pacific Orach, Royal Poinciana, Southern Rata, Sugar Cane, and the Tea Bush."
     file_size: 4.57 MB
     uploaded: 2024-10-04
-    description: "This pack has only the foliage that requires one of Marine Mania 2 or Extinct Animals. It contains: Beardless Rabbit's Foot Grass, Cabbage Tree, Campbell Island Daisy, Fire Bird, Gaharu, Giant Coreopsis, Indiana Gooseberry, Island Oak, Java Fern, Java Moss, Kauyan Tinik, New Guinea Impatiens, Pacific Orach, Royal Poinciana, Southern Rata, Sugar Cane, and the Tea Bush."
   - name: IE Foliage EA
     title: Foliage Pack (EA)
     category: Foliage
+    description: "This pack has only the foliage that requires just Extinct Animals. It contains: the Cananga, Goethe Plant, Ross Lily, and the Zebrinae Orchid."
     file_size: 749 KB
     uploaded: 2024-10-04
-    description: "This pack has only the foliage that requires just Extinct Animals. It contains: the Cananga, Goethe Plant, Ross Lily, and the Zebrinae Orchid."
   - name: IE Foliage MMorEA plus ES
     title: Foliage Pack (MM2 or EA + ES)
     category: Foliage
+    description: "This pack has only the foliage that requires either Marine Mania 2 or both Extinct Animals and Endangered Species. It contains: the Common Teak, Geiger Tree, Rainbow Euc, Sampaguita, and the White Mangrove."
     file_size: 1.31 MB
     uploaded: 2024-10-04
-    description: "This pack has only the foliage that requires either Marine Mania 2 or both Extinct Animals and Endangered Species. It contains: the Common Teak, Geiger Tree, Rainbow Euc, Sampaguita, and the White Mangrove."
   - name: IE Complete Scenery Pack
     title: Complete Scenery Pack
     category: Scenery
+    description: "This file contains all of the files listed below, so only this file needed if you want it all in one file. Included: Paradise Theme Scenery and Buildings, Underwater Theme Scenery, Buildings and Ruins, plus the Misc Objects. Otherwise, you can download the individual packs below."
     file_size: 28.1 MB
     uploaded: 2024-10-04
-    description: "This file contains all of the files listed below, so only this file needed if you want it all in one file. Included: Paradise Theme Scenery and Buildings, Underwater Theme Scenery, Buildings and Ruins, plus the Misc Objects. Otherwise, you can download the individual packs below."
   - name: Paradise Scenery
     title: Paradise Scenery
     category: Scenery
+    description: "This contains all of the themed scenery including paths, fences, donation box, table, bench, lamp, arch etc."
     file_size: 10 MB
     uploaded: 2024-10-04
-    description: "This contains all of the themed scenery including paths, fences, donation box, table, bench, lamp, arch etc."
   - name: Paradise Buildings
     title: Paradise Buildings
     category: Scenery
+    description: "This contains all of the themed buildings including food stands, dessert carts, fruit-themed stands, etc."
     file_size: 3.05 MB
     uploaded: 2024-10-04
-    description: "This contains all of the themed buildings including food stands, dessert carts, fruit-themed stands, etc."
   - name: Underwater Scenery
     title: Underwater Scenery
     category: Scenery
+    description: "This contains all of the basic scenery items for the theme such as the fencing, paths, seating, viewing canopy, arch, etc."
     file_size: 5.30 MB
     uploaded: 2024-10-04
-    description: "This contains all of the basic scenery items for the theme such as the fencing, paths, seating, viewing canopy, arch, etc."
   - name: Underwater Buildings
     title: Underwater Buildings
     category: Scenery
+    description: "This contains all of the buildings for the theme such as the restaurant, food stands, and dessert carts."
     file_size: 4.24 MB
     uploaded: 2024-10-04
-    description: "This contains all of the buildings for the theme such as the restaurant, food stands, and dessert carts."
   - name: IE Ruins
     title: Ruins Pack
     category: Scenery
+    description: "This contains various ruins themed objects that can be placed in both animal exhibits and guest areas."
     file_size: 1.46 MB
     uploaded: 2024-10-04
-    description: "This contains various ruins themed objects that can be placed in both animal exhibits and guest areas."
   - name: IE Misc Objects
     title: Misc Objects Pack
     category: Scenery
+    description: "These objects do not fit into either of the two themes, but will help you make a complete island zoo."
     file_size: 4.15 MB
     uploaded: 2024-10-04
-    description: "These objects do not fit into either of the two themes, but will help you make a complete island zoo."
+zt2tags: ["All", "Animals", "Foliage", "Scenery", "ZT2", "Packs", "Buildings", "Paths", "Fences", "Tables", "Benches", "Lamps", "Arches", "Food Stands", "Mammals", "Birds", "Reptiles", "Fish", "Invertebrates", "Objects", "Living", "Expansive Packs"]
 contents:
 - Channel Island Fox
 - Hawaiian Monk Seal
@@ -463,7 +464,7 @@ Mahi-Mahi
 - Tea Bush
 - Common Teak
 
-# Scenery 
+# Scenery
 
 ![Scenery]({{<cdn>}}mods/zt2/expansive-packs/island-excursions/images/desc/banners/SceneryBanner.webp)
 
@@ -480,4 +481,3 @@ Two new themes are included in this pack: Paradise and Underwater and include th
 - Dessert Carts
 - Fruit-themed Stands
 - And more!
-
