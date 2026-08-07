@@ -10,7 +10,8 @@ date: 2025-01-08T04:00:00-07:00
 draft: false
 orig_rel_at: 
 - ZooBerry
-alt_text: 
+draft: false
+license: 'Unknown'
 languages:
 - English
 summary: "The Capybara is the world's largest rodent, known for its semi-aquatic lifestyle and social nature."
@@ -24,4 +25,4 @@ The Capybara is a highly social and semi-aquatic rodent found in South America. 
 - Hendrix for his ZT1 Sprite Render Tool for Blender  
 - Capybara animations from [Braq, Triceraptor Rex, and Xtremepieman's Capybara](http://zt2downloadlibrary.wikia.com/wiki/Capybara_(Braq%2C_Triceraptor_Rex_%26_Xtremepieman))  
 - The zoopedia entry is from [Britannica](https://www.britannica.com/animal/capybara)  
-- Capybara sounds from [Pond5](https://www.pond5.com/sound-effect/8671120/capybarasqueals49023.html#)
+Capybara sounds from [Pond5](https://www.pond5.com/sound-effect/8671120/capybarasqueals49023.html#)
