@@ -15,7 +15,7 @@ draft: false
 license: 'Yes'
 languages:
 - English
-summary: "Tired of your guests favoring the Warthog over the Ankylosaurus? Tired of your guests being so disinterested in virtually all prehistoric animals compared to modern fauna? This is the mod for you."
+summary: "Tired of your guests favoring the bog standard Moose over the research mandated Ankylosaurus? Tired of your guests being so disinterested in virtually all prehistoric animals compared to modern fauna? This is the mod for you."
 mod_list:
   - name: ZTCCDDAttrBoost1.1
     title: ZTCCDDAttrBoost1.1.zip
