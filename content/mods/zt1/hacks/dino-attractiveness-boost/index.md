@@ -25,7 +25,7 @@ mod_list:
 zt1tags: ["All", "ZT1", "Hacks"]
 ---
 
-Tired of your guests favoring the Warthog over the Ankylosaurus? Tired of your guests being so disinterested in virtually all prehistoric animals compared to modern fauna? This is the mod for you. Based heavily upon Penguino's solo Attractiveness Boost hack for ZTDD, this deviation of it uses higher Attractiveness numbers across the board, but requires ZTCC to work, because it also changes the Attractiveness values of the Megatherium, Macrauchenia, and Loch Ness Monster. Not compatible with other mods for ZT1 that modify the .AI files of the Dinosaur Digs Official Animals.
+Tired of your guests favoring the bog standard Moose over the research mandated Ankylosaurus? Tired of your guests being so disinterested in virtually all prehistoric animals compared to modern fauna? This is the mod for you. Based heavily upon Penguino's solo Attractiveness Boost hack for ZTDD, this deviation of it uses higher Attractiveness numbers across the board, but requires ZTCC to work, because it also changes the Attractiveness values of the Megatherium, Macrauchenia, and Loch Ness Monster. Not compatible with other mods for ZT1 that modify the .AI files of the Dinosaur Digs Official Animals.
 
 *The Undisclosed Attractiveness Values:*
 
@@ -57,7 +57,7 @@ Tyrannosaurus rex: 225/250
 Triceratops: 200/210  
 Velociraptor: 170/200  
 Wooly Mammoth: 150/210  
-Wooly Rhinoceros: 105/170  
+Wooly Rhinoceros: 105/170
 
 # Patch Notes
 
