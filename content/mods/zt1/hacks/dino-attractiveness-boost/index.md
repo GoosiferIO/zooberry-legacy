@@ -29,35 +29,35 @@ Tired of your guests favoring the Warthog over the Ankylosaurus? Tired of your g
 
 *The Undisclosed Attractiveness Values:*
 
-"Species Name": "Adult #"/"Baby #"
+`"Species Name"`: `"Adult #"/"Baby #"`
 
-Allosaurus: 150/230
-Ankylosaurus: 145/160
-Apatosaurus: 170/200
-Camptosaurus: 135/150
-Caudipteryx: 115/130
-Coelophysis: 130/170
-Deinosuchus: 200/210
-Gallimimus: 120/140
-Herrerasaurus: 140/170
-Iguanodon: 150/180
-Kentrosaurus: 135/155
-Lambeosaurus: 135/160
-Loch Ness Monster: 200/210
-Macrauchenia: 100/170
-Megatherium: 110/190
-Meiolania: 130/145
-Plateosaurus: 135/155
-Plesiosaurus: 150/180
-Smilodon: 110/190
-Spinosaurus: 160/190
-Stegosaurus: 160/180
-Styracosaurus: 130/150
-Tyrannosaurus rex: 225/250
-Triceratops: 200/210
-Velociraptor: 170/200
-Wooly Mammoth: 150/210
-Wooly Rhinoceros: 105/170
+Allosaurus: 150/230  
+Ankylosaurus: 145/160  
+Apatosaurus: 170/200  
+Camptosaurus: 135/150  
+Caudipteryx: 115/130  
+Coelophysis: 130/170  
+Deinosuchus: 200/210  
+Gallimimus: 120/140  
+Herrerasaurus: 140/170  
+Iguanodon: 150/180  
+Kentrosaurus: 135/155  
+Lambeosaurus: 135/160  
+Loch Ness Monster: 200/210  
+Macrauchenia: 100/170  
+Megatherium: 110/190  
+Meiolania: 130/145  
+Plateosaurus: 135/155  
+Plesiosaurus: 150/180  
+Smilodon: 110/190  
+Spinosaurus: 160/190  
+Stegosaurus: 160/180  
+Styracosaurus: 130/150  
+Tyrannosaurus rex: 225/250  
+Triceratops: 200/210  
+Velociraptor: 170/200  
+Wooly Mammoth: 150/210  
+Wooly Rhinoceros: 105/170  
 
 # Patch Notes
 
