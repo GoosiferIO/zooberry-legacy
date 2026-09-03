@@ -15,15 +15,14 @@ draft: false
 license: 'Yes'
 languages:
 - English
-summary: "Adds nine dinosaurs and 13 scrub biome items. Previously known as \"SaiLords of Land & Water\""
+summary: "Adds nine dinosaurs and 13 scrub biome items. Previously known as “SaiLords of Land & Water”."
 alt_text: null
 mod_list:
-  - name: ZwLandInSightV1
-    title: ZwLandInSightV1.zip
-    category: Combined File
-    description: "This version has both animals in a single file. Simply unzip and drop the ztd in the ZT1 folder and you're ready to go! The bundle includes single files and a combined version."
-    file_size: 64.6 MB
-    uploaded: 2026-08-07
+  - name: ZwLandInSightV2
+    title: ZwLandInSightV2.zip
+    category: Files
+    file_size: 64.5 MB
+    uploaded: 2026-09-02
 zt1tags: ["All", "ZT1", "Animals", "Foliage", "Rocks", "Extinct", "Objects", "Expansive Packs", "Animal Bundles"]
 contents:
 - Concavenator
@@ -54,6 +53,10 @@ dependencies:
     url: /mods/zt1/tools-utilities/lang-zborsato/
     description: "Borsato language file with location strings."
     external: false
+  - title: Dino Danger Cretaceous
+    url: /mods/zt1/animals/animal-bundles/dino-danger-cretaceous/
+    description: "For the sound files"
+    external: false
 ---
 
 Thanks for downloading Sailors Outright Crew - Land in Sight!
@@ -65,80 +68,76 @@ Previous versions of these items should be removed.
 
 # Content List
 
-The OGs ("Obviously Glitched" or "Obnoxius Graphics", your choice):
-** Released at ZooBerry on January 20th, 2025*
+The OGs ("Obviously Glitched" or "Obnoxius Graphics", your choice):  
+** Released at ZooBerry on January 20th, 2025*  
 
-=> Concavenator.
-=> Irritator.
+=> Concavenator.  
+=> Irritator.  
 
-Sam Neill's memorial (1947-2026):
-** Released at Zoo Tek on July 14th, 2026 **
+Sam Neill's memorial (1947-2026):  
+** Released at Zoo Tek on July 14th, 2026 **  
 
-=> Tsintaosaurus.
-=> Miragaia.
+=> Tsintaosaurus.  
+=> Miragaia.  
 
 An unfulfilled promise:
 
-=> Ichthyovenator.
-=> Amargasaurus.
+=> Ichthyovenator.  
+=> Amargasaurus.  
 
 New members of the crew!
 
-=> Liliensternus.
-=> Magnapaulia.
-=> Thalassodromeus.
+=> Liliensternus.  
+=> Magnapaulia.  
+=> Thalassodromeus.  
 
 BONUS ITEMS!
 
 ** Scrub biome foliage and rocks **
 
-=> Washingtonia Fan Palm.
-=> Florida Royal Palm Tree.
-=> Parkinsonia.
-=> American Agave.
-=> Royal Poinciana.
-=> Ross Lily.
-=> Cabbage Tree.
-=> Beardless Rabbit's Foot Grass.
-=> Pacific Orach.
-=> Giant Coreopsis.
+=> Washingtonia Fan Palm.  
+=> Florida Royal Palm Tree.  
+=> Parkinsonia.  
+=> American Agave.  
+=> Royal Poinciana.  
+=> Ross Lily.  
+=> Cabbage Tree.  
+=> Beardless Rabbit's Foot Grass.  
+=> Pacific Orach.  
+=> Giant Coreopsis.  
 
-=> Scrub Rock.
-=> Scrub Formation.
-=> Scrub Hill.
+=> Scrub Rock.  
+=> Scrub Formation.  
+=> Scrub Hill.  
 
-Previous version of Irritator got slight changes in order to be compatible with Thalassodromeus.
-Both Irritator & Concavenator description texts were replaced.
-I said before that my old computer is no longer working, so I cannot change the graphic contents of the first two.
+Previous version of Irritator got slight changes in order to be compatible with Thalassodromeus. Both Irritator & Concavenator description texts were replaced. I said before that my old computer is no longer working, so I cannot change the graphic contents of the first two.
 
-Several foliage items require LANG--ZBorsato.dll language file.
-Available here:
+Several foliage items require LANG--ZBorsato.dll language file. Available here:  
 
 https://www.zooberry.org/mods/zt1/tools-utilities/lang-zborsato/
 
-Magnapaulia uses sounds from Borsato's Ouranosaurus, Corythosaurus & Parasaurolophus, released in Dino Danger Cretaceous:
-Available here:
+Magnapaulia uses sounds from Borsato's Ouranosaurus, Corythosaurus & Parasaurolophus, released in Dino Danger Cretaceous: Available here:  
 
 https://www.zooberry.org/mods/zt1/animals/animal-bundles/dino-danger-cretaceous/
 
 # Credits
 
-=> Irritator made using Braq's Angaturama.
-=> Concavenator & Miragaia by Ultamateterex2.
-=> Ichthyovenator & Tsintaosaurus by Bill.
-=> Amargasaurus base by Bunyupy. Texture made by myself. 
-=> Liliensternus by Okeanos.
-=> Magnapaulia made using Ulquiorra's Lambeosaurus.
-=> Thalassodromeus made using LilyValley's Tapejara.
-==> Thanks to The Silliest Lilly for the Thalassodromeus' crest suggestion!
+=> Irritator made using Braq's Angaturama.  
+=> Concavenator & Miragaia by Ultamateterex2.  
+=> Ichthyovenator & Tsintaosaurus by Bill.  
+=> Amargasaurus base by Bunyupy. Texture made by myself.   
+=> Liliensternus by Okeanos.  
+=> Magnapaulia made using Ulquiorra's Lambeosaurus.  
+=> Thalassodromeus made using LilyValley's Tapejara.  
+==> Thanks to The Silliest Lilly for the Thalassodromeus' crest suggestion!  
 
-=> Washingtonia made using Huge One's Fan Palm.
-=> Florida Royal Palm by Mika & Penguinman.
-=> Parkinsonia and rock items made using Fauna's American Desert biome.
-=> American Agave made using Aurora Desings' RR.
-=> Royal Poinciana, Ross Lily, Cabbage Tree, Rabbit's foot Grass, Pacific Orach & Giant Coreopis made using Artifex's Island Excursions.
+=> Washingtonia made using Huge One's Fan Palm.  
+=> Florida Royal Palm by Mika & Penguinman.  
+=> Parkinsonia and rock items made using Fauna's American Desert biome.  
+=> American Agave made using Aurora Desings' RR.  
+=> Royal Poinciana, Ross Lily, Cabbage Tree, Rabbit's foot Grass, Pacific Orach & Giant Coreopis made using Artifex's Island Excursions.  
 
-Please report any bug on my projects thread at Zoo Tek Phoenix:
+Please report any bug on my projects thread at Zoo Tek Phoenix:  
 
 https://zootekphoenix.com/forums/topic/38245-my-works-on-lacking-stuff
 
@@ -147,3 +146,10 @@ Zarawatto, August 04th 2026
 # Known Issues
 
 - Graphic issues in Concavenator and Irritator
+
+# Changelog
+Aug 30th, 2026 Changelog:  
+- Irritator & Concavenator graphics improved.  
+- Scrub rocks graphics improved.  
+- Fixed Liliensternus' pick up sound bug.  
+- Minor changes in both Irritator & Concavenator.

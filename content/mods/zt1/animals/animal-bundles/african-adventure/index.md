@@ -1,22 +1,21 @@
 ---
-title: African Adventure
+title: "African Adventure"
 has_author: true
-author: 
+author:
 - Borsato
 game: Zoo Tycoon 1
-exp_req: 
-file_size: 12.5 MB
 orig_rel_date: 2018-08-21
 date: 2025-06-09T11:15:53-07:00
-orig_rel_at: 
+orig_rel_at:
 - ZooBerry
 draft: false
-license: Unknown
-alt_text: 
+license: 'Unknown'
 languages:
 - English
-summary: A diverse group of iconic African species including predators like the Ethiopian Wolf and Caracal, graceful antelopes such as gazelles and kudus, distinctive birds like the Sacred Ibis and Grey Crowned Crane, charismatic primates including the Ring-tailed Lemur, and unique mammals like the Aardvark.
-mod_list: 
+summary: "A diverse group of iconic African species including predators like the Ethiopian Wolf and Caracal, graceful antelopes such as gazelles and kudus, distinctive birds like the Sacred Ibis and Grey Crowned Crane, charismatic primates including the Ring-tailed Lemur, and unique mammals like the Aardvark."
+file_size: 12.5 MB
+alt_text: null
+mod_list:
   - name: BR__AfricanAdventure_Combined
     title: BR__AfricanAdventure_Combined.zip
     category: Files
@@ -24,38 +23,35 @@ mod_list:
     uploaded: 2018-08-21
 zt1tags: ["All", "Animals", "African", "Canids", "Carnivores", "Mammals", "Bovids", "Ungulates", "Birds", "Primates", "Felids", "Packs"]
 contents:
-  - Ethiopian Wolf
-  - Black Faced Impala
-  - Sacred Ibis
-  - Mhorr Gazelle
-  - Ring-tailed Lemur
-  - Caracal
-  - Gerenuk
-  - Waller's Gazelle
-  - South African Antelope
-  - Greater Kudu
-  - Grey Crowned Crane
-  - Scimitar Oryx
-  - Aardvark
-  - Barbary Ape
+- Ethiopian Wolf
+- Black-Faced Impala
+- Sacred Ibis
+- Mhorr Gazelle
+- Ring-tailed Lemur
+- Caracal
+- Gerenuk (aka Waller's Gazelle)
+- Bontebok
+- Greater Kudu
+- Grey Crowned Crane
+- Scimitar-Horned Oryx
+- Aardvark
 ---
 
 A diverse group of iconic African species including predators like the Ethiopian Wolf and Caracal, graceful antelopes such as gazelles and kudus, distinctive birds like the Sacred Ibis and Grey Crowned Crane, charismatic primates including the Ring-tailed Lemur, and unique mammals like the Aardvark.
 
 # Contents
-  - Ethiopian Wolf
-  - Black Faced Impala
-  - Sacred Ibis
-  - Mhorr Gazelle
-  - Ring-tailed Lemur
-  - Caracal
-  - Gerenuk (aka Waller's Gazelle)
-  - South African Antelope
-  - Greater Kudu
-  - Grey Crowned Crane
-  - Scimitar Oryx
-  - Aardvark
-  - Barbary Ape
+- Ethiopian Wolf
+- Black-Faced Impala
+- Sacred Ibis
+- Mhorr Gazelle
+- Ring-tailed Lemur
+- Caracal
+- Gerenuk (aka Waller's Gazelle)
+- Bontebok
+- Greater Kudu
+- Grey Crowned Crane
+- Scimitar-Horned Oryx
+- Aardvark
 
 # Credits
 
