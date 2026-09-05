@@ -21,132 +21,132 @@ mod_list:
     file_size: 781 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_BlackGraniteWall_1
-    title: RDingFT_PAL_BlackGraniteWall_1.zip
+    title: Black Granite Wall 1
     category: Single Files
     file_size: 31.3 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_BlackGraniteWall_2
-    title: RDingFT_PAL_BlackGraniteWall_2.zip
+    title: Black Granite Wall 2
     category: Single Files
     file_size: 30.6 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_BlackGraniteWall_3
-    title: RDingFT_PAL_BlackGraniteWall_3.zip
+    title: Black Granite Wall 3
     category: Single Files
     file_size: 26.6 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_FireDeityStatue
-    title: RDingFT_PAL_FireDeityStatue.zip
+    title: Fire Deity Statue
     category: Single Files
     file_size: 18.5 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_FireOrbStatue
-    title: RDingFT_PAL_FireOrbStatue.zip
+    title: Fire Orb Statue
     category: Single Files
     file_size: 11.4 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_Granite_Pillar
-    title: RDingFT_PAL_Granite_Pillar.zip
+    title: Granite Pillar
     category: Single Files
     file_size: 17.3 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_MountainDeityStatue
-    title: RDingFT_PAL_MountainDeityStatue.zip
+    title: Mountain Deity Statue
     category: Single Files
     file_size: 25.4 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_RockPillar_1
-    title: RDingFT_PAL_RockPillar_1.zip
+    title: Rock Pillar 1
     category: Single Files
     file_size: 18.3 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_RockPillar_2
-    title: RDingFT_PAL_RockPillar_2.zip
+    title: Rock Pillar 2
     category: Single Files
     file_size: 30.4 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_RockPillar_3
-    title: RDingFT_PAL_RockPillar_3.zip
+    title: Rock Pillar 3
     category: Single Files
     file_size: 33.1 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_RockPillar_4
-    title: RDingFT_PAL_RockPillar_4.zip
+    title: Rock Pillar 4
     category: Single Files
     file_size: 18.2 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_RockPillar_5
-    title: RDingFT_PAL_RockPillar_5.zip
+    title: Rock Pillar 5
     category: Single Files
     file_size: 28.7 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_RockPillar_6
-    title: RDingFT_PAL_RockPillar_6.zip
+    title: Rock Pillar 6
     category: Single Files
     file_size: 30.1 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_RockWall_1
-    title: RDingFT_PAL_RockWall_1.zip
+    title: RockWall 1
     category: Single Files
     file_size: 19.7 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_RockWall_2
-    title: RDingFT_PAL_RockWall_2.zip
+    title: RockWall 2
     category: Single Files
     file_size: 32 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_RockWall_3
-    title: RDingFT_PAL_RockWall_3.zip
+    title: RockWall 3
     category: Single Files
     file_size: 25.5 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_ShortBlackWall
-    title: RDingFT_PAL_ShortBlackWall.zip
+    title: Short Black Wall
     category: Single Files
     file_size: 13.4 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_SnowDemonStatue
-    title: RDingFT_PAL_SnowDemonStatue.zip
+    title: Snow Demon Statue
     category: Single Files
     file_size: 19.6 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_SnowyArch
-    title: RDingFT_PAL_SnowyArch.zip
+    title: Snowy Arch
     category: Single Files
     file_size: 62.8 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_SoilOrbStatue
-    title: RDingFT_PAL_SoilOrbStatue.zip
+    title: Soil Orb Statue
     category: Single Files
     file_size: 11.4 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_ThunderDeityStatue
-    title: RDingFT_PAL_ThunderDeityStatue.zip
+    title: Thunder Deity Statue
     category: Single Files
     file_size: 21.1 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_ThunderOrbStatue
-    title: RDingFT_PAL_ThunderOrbStatue.zip
+    title: Thunder Orb Statue
     category: Single Files
     file_size: 10.9 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_TotemWall
-    title: RDingFT_PAL_TotemWall.zip
+    title: Totem Wall
     category: Single Files
     file_size: 163 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_WaterOrbStatue
-    title: RDingFT_PAL_WaterOrbStatue.zip
+    title: Water Orb Statue
     category: Single Files
     file_size: 11.2 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_WindDeityStatue
-    title: RDingFT_PAL_WindDeityStatue.zip
+    title: Wind Deity Statue
     category: Single Files
     file_size: 18 KB
     uploaded: 2026-09-05
   - name: RDingFT_PAL_WindOrbStatue
-    title: RDingFT_PAL_WindOrbStatue.zip
+    title: Wind Orb Statue
     category: Single Files
     file_size: 11.5 KB
     uploaded: 2026-09-05
