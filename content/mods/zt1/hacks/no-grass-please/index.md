@@ -65,7 +65,12 @@ In addition, the mod aims to add a lot more dinosaur-themed and prehistoric-them
 **Features:**
 ---------
 - All herbivores had their aggression levels toned down, as Blue Fang made all its dinosaurs extremely aggressive towards animals and humans alike.  
-- The biomes (and in some cases, the shelter needs) of all dinosaurs have been rewritten from scratch to resemble what, according to the paleontology of today, they may have looked like in real life.  
+- The biomes (and in some cases, the shelter needs) of all dinosaurs and Ice Age animals have been rewritten from scratch to resemble what, according to the paleontology of today, they may have looked like in real life.  
+- Most Dinosaur Digs animals received new sound effects.
+- All Dinosaur Digs plants have had their time periods corrected, some core ZT plants reassigned to the Cretaceous period, and Ice Age plants have been reassigned to the core ZT category.
+- Add a large selection of new fossil plants.
+- Add some new Ice Age animals: Steppe Bison, Tarpan and Paracamelus.
+- Add Iguanodon, Megalosaurus, Pterodactylus and Ichthyosaurus statues from the Crystal Palace.
 
 **Installation Instructions:**
 --------------------------
