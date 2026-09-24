@@ -27,11 +27,16 @@
     {{ range $paginator.Pages }}
     <li class="box-card-mods">
         <div class="box-card-mods-img">
-            {{/*  get first image from images folder in this bundle */}}
+            {{/*  get spepcified image in thumbnail field, else first image from images folder in this bundle */}}
             {{ $thumbnail := "" }}
-            {{ with (.Resources.GetMatch "images/*") }}
-                {{ $processedImage := .Fill "300x200 center" }} <!-- Adjust dimensions as needed -->
-                {{ $thumbnail = $processedImage.RelPermalink }}
+            {{ with .Params.thumbnail }}
+                {{ $thumbnail = .Fill "300x200 center" }}
+                {{ $thumbnail = $thumbnail.RelPermalink }}
+            {{ else }}
+                {{ with (.Resources.GetMatch "images/*") }}
+                    {{ $processedImage := .Fill "300x200 center" }}
+                    {{ $thumbnail = $processedImage.RelPermalink }}
+                {{ end }}
             {{ end }}
 
             <a href="{{ .RelPermalink }}">

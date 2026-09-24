@@ -35,6 +35,7 @@ mod_list:
     file_size: 1.04 MB
     uploaded: 2026-09-17
 zt1tags: ["All", "ZT1", "Texture Mods", "Hacks"]
+thumbnail: "images/aBisonDimorphRelease.webp"
 ---
 
 A mod that removes the hay-like colour scheme of the American (plains) bison for more naturalistic looks.
