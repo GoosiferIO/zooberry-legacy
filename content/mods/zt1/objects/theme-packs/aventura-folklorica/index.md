@@ -3,6 +3,7 @@ title: "Aventura Folklorica"
 has_author: true
 author:
 - Goosifer
+- Jay
 game: Zoo Tycoon 1
 orig_rel_date: 2026-07-15
 date: 2026-07-15T04:46:22-07:00

@@ -25,35 +25,35 @@ mod_list:
     file_size: 32.2 MB
     uploaded: 2026-09-05
   - name: NoGrassPlz_FoliageNew
-    title: New Foliage 
+    title: New Foliage
     category: Single Files
+    description: "All new custom plants made by P. Rex and Vondell."
     file_size: 290 KB
     uploaded: 2026-09-07
-    description: "All new custom plants made by P. Rex and Vondell."
   - name: NoGrassPlz_VicStatues
     title: Victorian Statues
     category: Single Files
+    description: "Iguanodon, Megalosaurus, Pterodactylus and Ichthyosaurus statues."
     file_size: 123 KB
     uploaded: 2026-09-05
-    description: "Iguanodon, Megalosaurus, Pterodactylus and Ichthyosaurus statues."
   - name: NoGrassPlz_Foliage+Cave_Hack
     title: Foliage and Cave Hack
     category: Single Files
+    description: "Time period corrections and filter changes for the plants, and increased capacity to the Ice Cave (undisclosed change in original description)."
     file_size: 10.3 KB
     uploaded: 2026-09-05
-    description: "Time period corrections and filter changes for the plants, and increased capacity to the Ice Cave (undisclosed change in original description)."
   - name: NoGrassPlz_SteppeMammals
     title: Steppe Mammals
     category: Single Files
+    description: "Steppe Bison, Tarpan, and Paracamelus."
     file_size: 554 KB
     uploaded: 2026-09-05
-    description: "Steppe Bison, Tarpan, and Paracamelus."
   - name: NoGrassPlz_AnimalHack
     title: Animal Hack
     category: Single Files
+    description: "The attribute modifications and new sounds for the animals."
     file_size: 15.4 MB
     uploaded: 2026-09-05
-    description: "The attribute modifications and new sounds for the animals."
 zt1tags: ["All", "ZT1", "Hacks"]
 ---
 
@@ -89,3 +89,10 @@ The repackaged file only differs in that it includes split categorical files to 
 - New Foliage: all new custom plants made by P. Rex and Vondell.  
 - Steppe Mammals: Steppe Bison, Tarpan, and Paracamelus    
 - Victorian statues: Iguanodon, Megalosaurus, Pterodactylus and Ichthyosaurus statues
+
+**Known Issues**
+-------------------------------
+- Apatosaurus is still shown with its original habitat and preferred foliage, although its actual preferrence has been updated to match other dinosaurs of the Morisson Formation.
+- Some animals still show their old preferred foliage icon. Test around with foliage matching their new terrain if they do not look so thrilled.
+- The water lily and horsetail use their pre-MM attribute files, so they are no longer tankable.
+- The new steppe mammals - Paracamelus, steppe bison, and tarpan - still use the original graphical assets (icon, plaque, colour palette) of the animals they are based on (instead of mirroring/cloning them like most mods based on original game assets) . Any changes to these graphical assets on the original animals will also reflect on them.

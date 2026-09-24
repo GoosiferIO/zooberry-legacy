@@ -16,7 +16,7 @@ draft: false
 license: 'Unknown'
 languages:
 - English
-summary: "A set of island-dwelling animals including two animal remakes."
+summary: "A set of 18 island-dwelling animals."
 mod_list:
   - name: Crocodiles and Fireplumes Island Pack_JSD
     title: Crocodiles and Fireplumes Island Pack_JSD.zip
