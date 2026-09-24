@@ -32,12 +32,6 @@ Adds the peak predator of New Zealand to your zoo. It is compatible with Borsato
 
 # Credits
 
-- Ulquiorra for base animal
-- Museum of New Zealand/Te Papa Tongarewa for picture
-- Serpyderpy for inspiration in the texture
-
-# Credits
-
 - Created by Zarawatto
 - Base: Ulquiorra's Golden eagle
 - Texture and animations made by myself
