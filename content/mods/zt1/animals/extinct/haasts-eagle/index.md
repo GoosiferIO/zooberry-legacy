@@ -22,6 +22,16 @@ mod_list:
     file_size: 1.74 MB
     uploaded: 2026-09-24
 zt1tags: ["All", "ZT1", "Animals", "Extinct"]
+dependencies:
+  - name: LANG--ZBorsato
+    title: LANG-ZBorsato.dll
+    url: /mods/zt1/tools-utilities/lang-zborsato/
+    description: "Borsato language file for the New Zealand location string"
+    external: false
+  - title: Sailors Outright Crew - Land in Sight
+    url: /mods/zt1/expansive-packs/sailors-outright-crew/
+    description: "Required for the Cabbage tree icon"
+    external: false
 ---
 
 Adds the peak predator of New Zealand to your zoo. It is compatible with Borsato’s South Island moa!
