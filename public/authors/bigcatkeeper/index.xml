@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bigcatkeeper on ZooBerry</title><link>https://www.zooberry.org/authors/bigcatkeeper/</link><description>Recent content in Bigcatkeeper on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 24 Nov 2024 01:00:00 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/authors/bigcatkeeper/index.xml" rel="self" type="application/rss+xml"/><item><title>African Golden Cat</title><link>https://www.zooberry.org/mods/zt2/animals/living/african-golden-cat/</link><pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/african-golden-cat/</guid><description>A medium-sized cat with polymorphic coat colors found in tropical rainforests.</description></item><item><title>Fishing Cat</title><link>https://www.zooberry.org/mods/zt2/animals/living/fishing-cat/</link><pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/fishing-cat/</guid><description>Fishing cats are solitary and found in a variety of watery habitats. Includes skins, icons, and sound files.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bigcatkeeper on ZooBerry</title>
+    <link>http://localhost:1313/authors/bigcatkeeper/</link>
+    <description>Recent content in Bigcatkeeper on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Nov 2024 01:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/bigcatkeeper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>African Golden Cat</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/african-golden-cat/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/african-golden-cat/</guid>
+      <description>A medium-sized cat with polymorphic coat colors found in tropical rainforests.</description>
+    </item>
+    <item>
+      <title>Fishing Cat</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/fishing-cat/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/fishing-cat/</guid>
+      <description>Fishing cats are solitary and found in a variety of watery habitats. Includes skins, icons, and sound files.</description>
+    </item>
+  </channel>
+</rss>

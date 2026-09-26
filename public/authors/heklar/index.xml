@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Heklar on ZooBerry</title><link>https://www.zooberry.org/authors/heklar/</link><description>Recent content in Heklar on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 02 Feb 2025 04:00:00 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/authors/heklar/index.xml" rel="self" type="application/rss+xml"/><item><title>Animal Print Benches</title><link>https://www.zooberry.org/mods/zt2/objects/zootilities/animal-print-benches/</link><pubDate>Sun, 02 Feb 2025 04:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/zootilities/animal-print-benches/</guid><description>Beautiful animal print benches by Heklar</description></item><item><title>Green Series Theme Pack</title><link>https://www.zooberry.org/mods/zt2/objects/theme-packs/green-pack/</link><pubDate>Sun, 02 Feb 2025 04:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/green-pack/</guid><description>A green series theme pack for your zoo. Includes a fence, paths, picnic table, umbrella table, viewing canopy, trash can, bench, and arch.</description></item><item><title>Lion Theme Pack</title><link>https://www.zooberry.org/mods/zt2/objects/theme-packs/lion-pack/</link><pubDate>Sun, 02 Feb 2025 04:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/lion-pack/</guid><description>A lion theme pack for your zoo. Includes a fence, path, and wall.</description></item><item><title>Marli Pink Theme Pack</title><link>https://www.zooberry.org/mods/zt2/objects/theme-packs/marli-pink-pack/</link><pubDate>Sun, 02 Feb 2025 04:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/marli-pink-pack/</guid><description>A pink theme pack for your zoo. Includes a fence and umbrella table.</description></item><item><title>School Dayz Theme Pack</title><link>https://www.zooberry.org/mods/zt2/objects/theme-packs/school-dayz-pack/</link><pubDate>Sun, 02 Feb 2025 04:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/school-dayz-pack/</guid><description>School Dayz theme pack for your zoo. Includes an arch, bench, canopy, fence, path, picnic table, trashcan, and umbrella table.</description></item><item><title>Blue Theme Pack</title><link>https://www.zooberry.org/mods/zt2/objects/theme-packs/blue-pack/</link><pubDate>Thu, 30 Jan 2025 04:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/blue-pack/</guid><description>A pack of blue-themed objects for your zoo created by Heklar.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heklar on ZooBerry</title>
+    <link>http://localhost:1313/authors/heklar/</link>
+    <description>Recent content in Heklar on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Feb 2025 04:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/heklar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animal Print Benches</title>
+      <link>http://localhost:1313/mods/zt2/objects/zootilities/animal-print-benches/</link>
+      <pubDate>Sun, 02 Feb 2025 04:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/zootilities/animal-print-benches/</guid>
+      <description>Beautiful animal print benches by Heklar</description>
+    </item>
+    <item>
+      <title>Green Series Theme Pack</title>
+      <link>http://localhost:1313/mods/zt2/objects/theme-packs/green-pack/</link>
+      <pubDate>Sun, 02 Feb 2025 04:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/theme-packs/green-pack/</guid>
+      <description>A green series theme pack for your zoo. Includes a fence, paths, picnic table, umbrella table, viewing canopy, trash can, bench, and arch.</description>
+    </item>
+    <item>
+      <title>Lion Theme Pack</title>
+      <link>http://localhost:1313/mods/zt2/objects/theme-packs/lion-pack/</link>
+      <pubDate>Sun, 02 Feb 2025 04:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/theme-packs/lion-pack/</guid>
+      <description>A lion theme pack for your zoo. Includes a fence, path, and wall.</description>
+    </item>
+    <item>
+      <title>Marli Pink Theme Pack</title>
+      <link>http://localhost:1313/mods/zt2/objects/theme-packs/marli-pink-pack/</link>
+      <pubDate>Sun, 02 Feb 2025 04:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/theme-packs/marli-pink-pack/</guid>
+      <description>A pink theme pack for your zoo. Includes a fence and umbrella table.</description>
+    </item>
+    <item>
+      <title>School Dayz Theme Pack</title>
+      <link>http://localhost:1313/mods/zt2/objects/theme-packs/school-dayz-pack/</link>
+      <pubDate>Sun, 02 Feb 2025 04:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/theme-packs/school-dayz-pack/</guid>
+      <description>School Dayz theme pack for your zoo. Includes an arch, bench, canopy, fence, path, picnic table, trashcan, and umbrella table.</description>
+    </item>
+    <item>
+      <title>Blue Theme Pack</title>
+      <link>http://localhost:1313/mods/zt2/objects/theme-packs/blue-pack/</link>
+      <pubDate>Thu, 30 Jan 2025 04:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/theme-packs/blue-pack/</guid>
+      <description>A pack of blue-themed objects for your zoo created by Heklar.</description>
+    </item>
+  </channel>
+</rss>

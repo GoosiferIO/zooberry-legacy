@@ -50,9 +50,13 @@
                     });
                 });
             </script>
-            <div id="search-container" style="position: relative;">
-                <input type="text" id="search-box" placeholder="Search mods...">
-                <ul id="search-results"></ul>
+            <div id="search-container" role="search" style="position: relative;">
+                <input type="search" id="search-box" placeholder="Search mods..."
+                       aria-label="Search mods"
+                       role="combobox" aria-autocomplete="list"
+                       aria-controls="search-results" aria-expanded="false"
+                       autocomplete="off" spellcheck="false">
+                <ul id="search-results" role="listbox" aria-label="Search results" tabindex="-1"></ul>
             </div>
             <div class="side-kofi">
                 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
@@ -85,9 +89,9 @@
     }
 
     // Function to highlight matching characters
+    const escapeRegex = s => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     function highlightMatch(text, query) {
-        const regex = new RegExp(`(${query})`, 'gi'); // Case-insensitive match
-        return text.replace(regex, '<strong class="highlight-result">$1</strong>'); // Wrap match in <strong> for bold
+        return text.replace(new RegExp(`(${escapeRegex(query)})`, 'gi'), '<strong class="highlight-result">$1</strong>'); // Wrap match in <strong> for bold
     }
     
   
@@ -111,9 +115,11 @@
             // combine all content into a single string
             const aggregatedContents = doc.contents.join(' ');
             this.add({
-                title: doc.title.toLowerCase(),
-                url: doc.url,
-                contents: aggregatedContents.toLowerCase() // Ensure case-insensitive search
+            url: doc.url,
+            title: doc.title.toLowerCase(),
+            author: (doc.author || '').toString().toLowerCase(),
+            game: (doc.game || '').toLowerCase(),
+            contents: (doc.contents || []).join(' ').toLowerCase()
             });
           });
         });
@@ -133,6 +139,8 @@
     // live search start
     document.getElementById('search-box').addEventListener('input', function () {
       const query = this.value.trim().toLowerCase();
+      const safe = query.replace(/[:~^+\-*]/g, ' ').trim();
+      var results = [];
       const resultsContainer = document.getElementById('search-results');
       resultsContainer.innerHTML = ''; // erase prev results
     
@@ -149,7 +157,10 @@
       const exactMatchResults = searchIndex.search(query);
       const partialResults = searchIndex.search(`*${query}*`)
       // combine exact and partial matches, remove duplicates
-      const results = [...new Map([...exactMatchResults, ...partialResults].map(item => [item.ref, item])).values()];
+      try {
+        results = [...new Map([...searchIndex.search(safe), ...searchIndex.search(safe.split(/\s+/).map(t => t + '*').join(' '))]
+            .map(r => [r.ref, r])).values()];
+        } catch (e) { /* show "No results" */ }
       console.log('Search results:', results);
 
     // if characters are in search box but no results, "No results found" message
@@ -219,3 +230,84 @@
         }); 
     });
   </script>
+  <script>
+
+    (function () {
+    const box = document.getElementById('search-box');
+    const list = document.getElementById('search-results');
+    const container = document.getElementById('search-container');
+    if (!box || !list || !container) return;
+
+    let active = -1;
+    const options = () => Array.from(list.querySelectorAll(':scope > li > a'));
+    const hasResults = () => list.children.length > 0;
+
+    function setActive(i) {
+        const items = options();
+        items.forEach((a, n) => a.classList.toggle('is-active', n === i));
+        active = i;
+        if (items[i]) {
+        box.setAttribute('aria-activedescendant', items[i].id);
+        items[i].scrollIntoView({ block: 'nearest' });
+        } else {
+        box.removeAttribute('aria-activedescendant');
+        }
+    }
+
+    function open() {
+        if (!box.value.trim() || !hasResults()) return;
+        list.style.display = 'flex';
+        box.setAttribute('aria-expanded', 'true');
+    }
+
+    function close() {
+        list.style.display = 'none';
+        box.setAttribute('aria-expanded', 'false');
+        setActive(-1);
+    }
+
+    // reset active selection on input change
+    box.addEventListener('input', () => {
+        active = -1;
+        box.removeAttribute('aria-activedescendant');
+        list.querySelectorAll(':scope > li').forEach(li => li.setAttribute('role', 'presentation'));
+        options().forEach((a, n) => { a.id = 'search-option-' + n; a.setAttribute('role', 'option'); a.tabIndex = -1; });
+        box.setAttribute('aria-expanded', String(list.style.display !== 'none' && hasResults()));
+    });
+
+    box.addEventListener('keydown', (e) => {
+        const items = options();
+        switch (e.key) {
+        case 'ArrowDown':
+            e.preventDefault();
+            open();
+            if (items.length) setActive(active < items.length - 1 ? active + 1 : 0);
+            break;
+        case 'ArrowUp':
+            e.preventDefault();
+            if (items.length) setActive(active > 0 ? active - 1 : items.length - 1);
+            break;
+        case 'Enter':
+            if (active >= 0 && items[active]) { e.preventDefault(); window.location.href = items[active].href; }
+            else if (items.length === 1) { e.preventDefault(); window.location.href = items[0].href; }
+            break;
+        case 'Escape':
+            if (list.style.display !== 'none' && hasResults()) { e.preventDefault(); close(); }
+            break;
+        }
+    });
+
+    // reopen with prev results when focusing back on the search box
+    box.addEventListener('focus', open);
+
+    // close when clicking or tabbing elsewhere
+    document.addEventListener('click', (e) => { if (!container.contains(e.target)) close(); });
+    container.addEventListener('focusout', (e) => { if (!container.contains(e.relatedTarget)) close(); });
+
+    // make mouse hover active selection
+    list.addEventListener('mousemove', (e) => {
+        const a = e.target.closest('#search-results > li > a');
+        if (a) setActive(options().indexOf(a));
+    });
+    })();
+</script>

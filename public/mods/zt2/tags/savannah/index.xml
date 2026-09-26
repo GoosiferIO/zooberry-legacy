@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Savannah on ZooBerry</title><link>https://www.zooberry.org/mods/zt2/tags/savannah/</link><description>Recent content in Savannah on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2024 20:00:00 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/mods/zt2/tags/savannah/index.xml" rel="self" type="application/rss+xml"/><item><title>African Leopard II (ES Version)</title><link>https://www.zooberry.org/mods/zt2/animals/living/african-leopard-ii-es/</link><pubDate>Mon, 25 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/african-leopard-ii-es/</guid><description>Includes 100% Endangered Species design with new features for the African Leopard.</description></item><item><title>Spotted Hyena II</title><link>https://www.zooberry.org/mods/zt2/animals/living/spotted-hyena-ii/</link><pubDate>Mon, 25 Nov 2024 04:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/spotted-hyena-ii/</guid><description>The Spotted Hyena requires the Endangered Species and African Adventure expansions to use.</description></item><item><title>Klipspringer</title><link>https://www.zooberry.org/mods/zt2/animals/living/klipspringer/</link><pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/klipspringer/</guid><description>An antelope that bounds from rock to rock.</description></item><item><title>Bat Eared Fox</title><link>https://www.zooberry.org/mods/zt2/animals/living/bat-eared-fox/</link><pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/bat-eared-fox/</guid><description>These foxes live in the scrub, savannah and grasslands of Africa.</description></item><item><title>African Civet and Giant Eland</title><link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/african-civet-and-giant-eland/</link><pubDate>Sat, 22 Jul 2023 09:11:31 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/african-civet-and-giant-eland/</guid><description>A Civet from the tropics of Africa, Biome is Tropical Rainforest and Savannah. Giant Eland is one of the largest antelope in the world, lives in the Savannahs of East Africa.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Savannah on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt2/tags/savannah/</link>
+    <description>Recent content in Savannah on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2024 20:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mods/zt2/tags/savannah/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>African Leopard II (ES Version)</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/african-leopard-ii-es/</link>
+      <pubDate>Mon, 25 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/african-leopard-ii-es/</guid>
+      <description>Includes 100% Endangered Species design with new features for the African Leopard.</description>
+    </item>
+    <item>
+      <title>Spotted Hyena II</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/spotted-hyena-ii/</link>
+      <pubDate>Mon, 25 Nov 2024 04:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/spotted-hyena-ii/</guid>
+      <description>The Spotted Hyena requires the Endangered Species and African Adventure expansions to use.</description>
+    </item>
+    <item>
+      <title>Klipspringer</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/klipspringer/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/klipspringer/</guid>
+      <description>An antelope that bounds from rock to rock.</description>
+    </item>
+    <item>
+      <title>Bat Eared Fox</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/bat-eared-fox/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/bat-eared-fox/</guid>
+      <description>These foxes live in the scrub, savannah and grasslands of Africa.</description>
+    </item>
+    <item>
+      <title>African Civet and Giant Eland</title>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/african-civet-and-giant-eland/</link>
+      <pubDate>Sat, 22 Jul 2023 09:11:31 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/african-civet-and-giant-eland/</guid>
+      <description>A Civet from the tropics of Africa, Biome is Tropical Rainforest and Savannah. Giant Eland is one of the largest antelope in the world, lives in the Savannahs of East Africa.</description>
+    </item>
+  </channel>
+</rss>

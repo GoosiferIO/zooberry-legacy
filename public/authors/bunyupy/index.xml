@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bunyupy on ZooBerry</title><link>https://www.zooberry.org/authors/bunyupy/</link><description>Recent content in Bunyupy on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 17 Jan 2024 13:28:26 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/authors/bunyupy/index.xml" rel="self" type="application/rss+xml"/><item><title>No Zoo Wall Hack</title><link>https://www.zooberry.org/mods/zt2/hacks/no-zoo-wall-hack/</link><pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/hacks/no-zoo-wall-hack/</guid><description>Makes the zoo wall invisible, perfect for photography and Show &amp;amp; Tell threads.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bunyupy on ZooBerry</title>
+    <link>http://localhost:1313/authors/bunyupy/</link>
+    <description>Recent content in Bunyupy on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jan 2024 13:28:26 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/bunyupy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No Zoo Wall Hack</title>
+      <link>http://localhost:1313/mods/zt2/hacks/no-zoo-wall-hack/</link>
+      <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/hacks/no-zoo-wall-hack/</guid>
+      <description>Makes the zoo wall invisible, perfect for photography and Show &amp;amp; Tell threads.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TurtleStork on ZooBerry</title><link>https://www.zooberry.org/authors/turtlestork/</link><description>Recent content in TurtleStork on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 14 Jan 2024 01:51:12 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/authors/turtlestork/index.xml" rel="self" type="application/rss+xml"/><item><title>Deepwater Trachymedusa</title><link>https://www.zooberry.org/mods/zt2/animals/living/deepwater-trachymedusa/</link><pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/deepwater-trachymedusa/</guid><description>Benthocodon pedunculata is found in deep water habitats like Monterey Canyon and San Clemente Basin on the West Coast.</description></item><item><title>Gray's Monitor</title><link>https://www.zooberry.org/mods/zt2/animals/living/grays-monitor/</link><pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/grays-monitor/</guid><description>Gray&amp;rsquo;s monitor gets its common name from its previous scientific name of Varanus grayi.</description></item><item><title>Leopard Tortoise</title><link>https://www.zooberry.org/mods/zt2/animals/living/leopard-tortoise/</link><pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/leopard-tortoise/</guid><description>Leopard tortoises have a huge range, being found on the savannahs of Africa from the Sudan South to the Cape Province of South Africa.</description></item><item><title>Red-Footed Tortoise</title><link>https://www.zooberry.org/mods/zt2/animals/living/red-footed-tortoise/</link><pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/red-footed-tortoise/</guid><description>Also known as the South American red-footed tortoise, the males grow up to 13.5 inches (30.4 cm) and are somewhat larger than females.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TurtleStork on ZooBerry</title>
+    <link>http://localhost:1313/authors/turtlestork/</link>
+    <description>Recent content in TurtleStork on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2024 01:51:12 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/turtlestork/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deepwater Trachymedusa</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/deepwater-trachymedusa/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/deepwater-trachymedusa/</guid>
+      <description>Benthocodon pedunculata is found in deep water habitats like Monterey Canyon and San Clemente Basin on the West Coast.</description>
+    </item>
+    <item>
+      <title>Gray&#39;s Monitor</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/grays-monitor/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/grays-monitor/</guid>
+      <description>Gray&amp;rsquo;s monitor gets its common name from its previous scientific name of Varanus grayi.</description>
+    </item>
+    <item>
+      <title>Leopard Tortoise</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/leopard-tortoise/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/leopard-tortoise/</guid>
+      <description>Leopard tortoises have a huge range, being found on the savannahs of Africa from the Sudan South to the Cape Province of South Africa.</description>
+    </item>
+    <item>
+      <title>Red-Footed Tortoise</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/red-footed-tortoise/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/red-footed-tortoise/</guid>
+      <description>Also known as the South American red-footed tortoise, the males grow up to 13.5 inches (30.4 cm) and are somewhat larger than females.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,109 +1,24 @@
 {{ define "main" }}
-    {{ $author := .Title | urlize }}
+{{ $key := .Title | urlize }}
+{{ $idx := partialCached "mod-index.html" . "mod-index" }}
+{{ $modsByAuthor := index $idx.byAuthor $key | default slice }}
+{{ $f := partial "mod-facets.html" (dict "mods" $modsByAuthor "exclude" $key) }}
 
-    {{/*  Author meta data  */}}
-    {{ $modCount := 0 }}
-    {{ $allTagsAssociatedZT1 := slice }}
-    {{ $allTagsAssociatedZT2 := slice }}
-    {{ $languagesByAuthor := slice }}
-    {{ $websitesPublishedOn := slice }}
-    {{ $collaborators := slice }}
-    {{ $yearsActive := slice }}
-    {{ $modsByAuthor := slice }}
-    {{ $mods := where .Site.RegularPages "Type" "mods" }}
+{{ $modCount := len $modsByAuthor }}
+{{ $languagesByAuthor := $f.languages }}
+{{ $websitesPublishedOn := $f.websites }}
+{{ $collaborators := $f.collaborators }}
+{{ $yearsActive := $f.years }}
+{{ $allTagsAssociatedZT1 := $f.zt1tags }}
+{{ $allTagsAssociatedZT2 := $f.zt2tags }}
 
-    {{/*  Populate meta data  */}}
-    {{ range $mods }}
-        {{ $curentMod := . }}
-        {{ $authors := .Params.author }}
-        {{ $zt1tags := .Params.zt1tags }}
-        {{ $zt2tags := .Params.zt2tags }}
-        {{ $languages := .Params.languages }}
-        {{ $websites := .Params.orig_rel_at }}
-        {{ $years := .Params.orig_rel_date }}
-        {{ range $authors }}
-            {{ $curAuthor := . | urlize}}
-            {{ if eq $curAuthor $author }}
-                {{ $modCount = add $modCount 1 }}
-
-                {{/*  Grab all tags published by author (if any)  */}}
-                {{ with $zt1tags }}
-                    {{ range . }}
-                        {{ if not (in $allTagsAssociatedZT1 .) }}
-                            {{ if not (or (eq . "All") (eq . "ZT1")) }}
-                                {{ $allTagsAssociatedZT1 = $allTagsAssociatedZT1 | append . }}
-                            {{ end }}
-                        {{ end }}
-                    {{ end }}
-                {{ end }}
-
-                {{ with $zt2tags }}
-                    {{ range . }}
-                        {{ if not (in $allTagsAssociatedZT2 .) }}
-                            {{ if not (or (eq . "All") (eq . "ZT2")) }}
-                                {{ $allTagsAssociatedZT2 = $allTagsAssociatedZT2 | append . }}
-                            {{ end }}
-                        {{ end }}
-                    {{ end }}
-                {{ end }}
-
-                {{/*  Grab all languages published by author (if any)  */}}
-                {{ with $languages }}
-                    {{ range . }}
-                        {{ if not (in $languagesByAuthor .) }}
-                            {{ $languagesByAuthor = $languagesByAuthor | append . }}
-                        {{ end }}
-                    {{ end }}
-                {{ end }}
-
-                {{/*  Grab all websites published on by author (if any)  */}}
-                {{ with $websites }}
-                    {{ range . }}
-                        {{ if not (in $websitesPublishedOn .) }}
-                            {{ $websitesPublishedOn = $websitesPublishedOn | append . }}
-                        {{ end }}
-                    {{ end }}
-                {{ end }}
-
-                {{/*  Grab all years active by author (if any)  */}}
-                {{ with $years }}
-                    {{/*  Only keep the year (it's in 2006-03-14 format)  */}}
-                    {{ $year := index (split . "-") 0 }}
-                    {{ if not (in $yearsActive $year) }}
-                        {{ $yearsActive = $yearsActive | append $year }}
-                    {{ end }}
-                {{ end}}
-
-                {{/*  Grab all mods by author  */}}
-                {{ if not (in $modsByAuthor $curentMod) }}
-                    {{ $modsByAuthor = $modsByAuthor | append $curentMod }}
-                {{ end }}
-
-            {{ end }}
-
-            {{/*  Grab all collaborators that worked with author */}}
-            {{ if not (in $collaborators .) }}
-                {{ if in $authors $author }}
-                    {{ if not (eq . $author) }}
-                        {{ $collaborators = $collaborators | append . }}
-                    {{ end }}
-                {{ end }}
-            {{ end }}
-        
-        {{ end }}
+{{ $imageFromShuffledMod := "" }}
+{{ with $modsByAuthor }}
+    {{ $pick := index . (mod (hash.FNV32a $key) (len .)) }}
+    {{ with $pick.Resources.GetMatch "images/*" }}
+        {{ $imageFromShuffledMod = .RelPermalink }}
     {{ end }}
-
-    {{/*  Get the latest mod's image  */}}
-    {{ $shuffledMods := shuffle $modsByAuthor }}
-    {{ $shuffledMod := index $shuffledMods 0 }}
-    {{ $imageFromShuffledMod := "" }}
-
-    {{ if $shuffledMod }}
-        {{ $image := $shuffledMod.Resources.GetMatch "images/*" }}
-        {{ if $image }}
-            {{ $imageFromShuffledMod = $image.RelPermalink }}
-        {{ end }}
-    {{ end }}
+{{ end }}
 <div style="display: flex; flex-direction: column; margin: 2rem 0; width:100%;">
     {{ partial "breadcrumbs.html" . }}
     <h1 style="margin:0;">{{ .Title }}</h1>

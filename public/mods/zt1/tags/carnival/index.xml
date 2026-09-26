@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Carnival on ZooBerry</title><link>https://www.zooberry.org/mods/zt1/tags/carnival/</link><description>Recent content in Carnival on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 18 Feb 2024 00:18:52 -0800</lastBuildDate><atom:link href="https://www.zooberry.org/mods/zt1/tags/carnival/index.xml" rel="self" type="application/rss+xml"/><item><title>UFO Ride</title><link>https://www.zooberry.org/mods/zt1/objects/buildings/ufo-ride/</link><pubDate>Sun, 18 Feb 2024 00:18:52 -0800</pubDate><guid>https://www.zooberry.org/mods/zt1/objects/buildings/ufo-ride/</guid><description>A gravitron for ZT1!</description></item><item><title>Balloon Animal Stand</title><link>https://www.zooberry.org/mods/zt1/objects/buildings/balloon-animal-stand-gs/</link><pubDate>Tue, 31 Oct 2023 19:32:19 -0700</pubDate><guid>https://www.zooberry.org/mods/zt1/objects/buildings/balloon-animal-stand-gs/</guid><description>A balloon animal stand with custom vendor animations made by Goosifer.</description></item><item><title>Hotdog Stand</title><link>https://www.zooberry.org/mods/zt1/objects/buildings/hotdog-stand/</link><pubDate>Wed, 09 Aug 2023 21:12:56 -0700</pubDate><guid>https://www.zooberry.org/mods/zt1/objects/buildings/hotdog-stand/</guid><description>Pictured is a hotdog stand, conqueror of all lands before lands were even lands.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carnival on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt1/tags/carnival/</link>
+    <description>Recent content in Carnival on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Feb 2024 00:18:52 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/mods/zt1/tags/carnival/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UFO Ride</title>
+      <link>http://localhost:1313/mods/zt1/objects/buildings/ufo-ride/</link>
+      <pubDate>Sun, 18 Feb 2024 00:18:52 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt1/objects/buildings/ufo-ride/</guid>
+      <description>A gravitron for ZT1!</description>
+    </item>
+    <item>
+      <title>Balloon Animal Stand</title>
+      <link>http://localhost:1313/mods/zt1/objects/buildings/balloon-animal-stand-gs/</link>
+      <pubDate>Tue, 31 Oct 2023 19:32:19 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt1/objects/buildings/balloon-animal-stand-gs/</guid>
+      <description>A balloon animal stand with custom vendor animations made by Goosifer.</description>
+    </item>
+    <item>
+      <title>Hotdog Stand</title>
+      <link>http://localhost:1313/mods/zt1/objects/buildings/hotdog-stand/</link>
+      <pubDate>Wed, 09 Aug 2023 21:12:56 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt1/objects/buildings/hotdog-stand/</guid>
+      <description>Pictured is a hotdog stand, conqueror of all lands before lands were even lands.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RisingSun on ZooBerry</title><link>https://www.zooberry.org/authors/risingsun/</link><description>Recent content in RisingSun on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 20 Jul 2023 23:04:46 -0800</lastBuildDate><atom:link href="https://www.zooberry.org/authors/risingsun/index.xml" rel="self" type="application/rss+xml"/><item><title>Indian Rhinoceros II</title><link>https://www.zooberry.org/mods/zt2/animals/living/indian-rhinoceros-ii/</link><pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/indian-rhinoceros-ii/</guid><description>A large, endangered species of rhino from Northern India.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RisingSun on ZooBerry</title>
+    <link>http://localhost:1313/authors/risingsun/</link>
+    <description>Recent content in RisingSun on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jul 2023 23:04:46 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/risingsun/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Indian Rhinoceros II</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/indian-rhinoceros-ii/</link>
+      <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/indian-rhinoceros-ii/</guid>
+      <description>A large, endangered species of rhino from Northern India.</description>
+    </item>
+  </channel>
+</rss>

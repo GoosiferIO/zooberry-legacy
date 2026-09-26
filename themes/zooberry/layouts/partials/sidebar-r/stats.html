@@ -1,12 +1,11 @@
 {{/* Stats shows the number of authors, teams, archived websites,
 zt1 mods, zt2 mods, blog posts */}}
 
-{{ $authors := .Site.Data.meta.authors }}
-{{/*  {{ $teams := len .Site.Data.meta.teams }}  */}}
-{{ $archivedWebsites := .Site.Data.meta.orig_rel_at }}
-{{ $zt1Mods := .Site.Data.meta.zt1_mods }}
-{{ $zt2Mods := .Site.Data.meta.zt2_mods }}
-{{ $blogPosts := len .Site.RegularPages }}
+{{ $idx := partialCached "mod-index.html" . "mod-index" }}
+{{ $authors := len $idx.byAuthor }}
+{{ $archivedWebsites := len $idx.bySite }}
+{{ $zt1Mods := len (where $idx.mods "Params.game" "Zoo Tycoon 1") }}
+{{ $zt2Mods := len (where $idx.mods "Params.game" "Zoo Tycoon 2") }}
 {{ $modCount := add $zt1Mods $zt2Mods }}
 
 <div class="sidebar_r-inner-a">

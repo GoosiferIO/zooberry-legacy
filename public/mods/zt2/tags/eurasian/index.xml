@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Eurasian on ZooBerry</title><link>https://www.zooberry.org/mods/zt2/tags/eurasian/</link><description>Recent content in Eurasian on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 09 Jan 2024 07:53:14 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/mods/zt2/tags/eurasian/index.xml" rel="self" type="application/rss+xml"/><item><title>Eurasian Badger</title><link>https://www.zooberry.org/mods/zt2/animals/living/eurasian-badger/</link><pubDate>Tue, 09 Jan 2024 07:53:14 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/eurasian-badger/</guid><description>Eurasian badgers are easily recognisable by the conspicuous black and white stripes running from the nose to the shoulders.</description></item><item><title>Eurasian Wolf Mini Pack</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/eurasian-wolf-mini-pack/</link><pubDate>Sat, 30 Dec 2023 00:52:38 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/eurasian-wolf-mini-pack/</guid><description>The Eurasian wolf, also known as the European, common or forest wolf, is a subspecies of grey wolf which has the largest range among wolf subspecies.</description></item><item><title>Arctic Fox</title><link>https://www.zooberry.org/mods/zt2/animals/living/arctic-fox/</link><pubDate>Fri, 24 Nov 2023 04:01:47 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/arctic-fox/</guid><description>Arctic foxes are pure white in winter and grey-brown in summer. They can also be light brown, grey, chocolate, or black with a bluish hue.</description></item><item><title>Red Fox II</title><link>https://www.zooberry.org/mods/zt2/animals/living/red-fox-ii/</link><pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/red-fox-ii/</guid><description>Red foxes are native to the Nearctic, Palearctic, Oriental, and Ethiopian regions, and have been introduced to areas in the Australian region.</description></item><item><title>Red Fox</title><link>https://www.zooberry.org/mods/zt2/animals/living/red-fox/</link><pubDate>Sun, 19 Nov 2023 00:21:44 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/red-fox/</guid><description>The most widespread carnivore in the world is ready for your zoos!</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eurasian on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt2/tags/eurasian/</link>
+    <description>Recent content in Eurasian on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jan 2024 07:53:14 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mods/zt2/tags/eurasian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eurasian Badger</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/eurasian-badger/</link>
+      <pubDate>Tue, 09 Jan 2024 07:53:14 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/eurasian-badger/</guid>
+      <description>Eurasian badgers are easily recognisable by the conspicuous black and white stripes running from the nose to the shoulders.</description>
+    </item>
+    <item>
+      <title>Eurasian Wolf Mini Pack</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/eurasian-wolf-mini-pack/</link>
+      <pubDate>Sat, 30 Dec 2023 00:52:38 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/eurasian-wolf-mini-pack/</guid>
+      <description>The Eurasian wolf, also known as the European, common or forest wolf, is a subspecies of grey wolf which has the largest range among wolf subspecies.</description>
+    </item>
+    <item>
+      <title>Arctic Fox</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/arctic-fox/</link>
+      <pubDate>Fri, 24 Nov 2023 04:01:47 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/arctic-fox/</guid>
+      <description>Arctic foxes are pure white in winter and grey-brown in summer. They can also be light brown, grey, chocolate, or black with a bluish hue.</description>
+    </item>
+    <item>
+      <title>Red Fox II</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/red-fox-ii/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/red-fox-ii/</guid>
+      <description>Red foxes are native to the Nearctic, Palearctic, Oriental, and Ethiopian regions, and have been introduced to areas in the Australian region.</description>
+    </item>
+    <item>
+      <title>Red Fox</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/red-fox/</link>
+      <pubDate>Sun, 19 Nov 2023 00:21:44 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/red-fox/</guid>
+      <description>The most widespread carnivore in the world is ready for your zoos!</description>
+    </item>
+  </channel>
+</rss>

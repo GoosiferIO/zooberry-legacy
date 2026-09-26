@@ -1,7 +1,7 @@
 
 {{ if ne .Type "mods" }}
 <div class="sidebar_r-a">
-    {{ partial "sidebar-r/stats.html" . }}
+    {{ partialCached "sidebar-r/stats.html" . "stats" }}
 
 {{ else }}
 <div class="sidebar_r">

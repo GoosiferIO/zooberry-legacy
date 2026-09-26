@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Elephants on ZooBerry</title><link>https://www.zooberry.org/mods/zt2/tags/elephants/</link><description>Recent content in Elephants on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2024 16:00:00 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/mods/zt2/tags/elephants/index.xml" rel="self" type="application/rss+xml"/><item><title>Pink Elephant</title><link>https://www.zooberry.org/mods/zt2/animals/fictional/pink-elephant/</link><pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/fictional/pink-elephant/</guid><description>A pink elephant to brighten up your zoo.</description></item><item><title>Forest Elephant</title><link>https://www.zooberry.org/mods/zt2/animals/living/forest-elephant/</link><pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/forest-elephant/</guid><description>A species of elephant native to African rainforests.</description></item><item><title>Forest Elephant (ES Version)</title><link>https://www.zooberry.org/mods/zt2/animals/living/forest-elephant-es/</link><pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/forest-elephant-es/</guid><description>A species of elephant native to African rainforests, featuring new enrichment and sound.</description></item><item><title>Bornean Pygmy Elephant</title><link>https://www.zooberry.org/mods/zt2/animals/living/bornean-pygmy-elephant/</link><pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/bornean-pygmy-elephant/</guid><description>Borneo pygmy elephants have significantly different characteristics from their cousins found on mainland Asia and Sumatra.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elephants on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt2/tags/elephants/</link>
+    <description>Recent content in Elephants on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Nov 2024 16:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mods/zt2/tags/elephants/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pink Elephant</title>
+      <link>http://localhost:1313/mods/zt2/animals/fictional/pink-elephant/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/fictional/pink-elephant/</guid>
+      <description>A pink elephant to brighten up your zoo.</description>
+    </item>
+    <item>
+      <title>Forest Elephant</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/forest-elephant/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/forest-elephant/</guid>
+      <description>A species of elephant native to African rainforests.</description>
+    </item>
+    <item>
+      <title>Forest Elephant (ES Version)</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/forest-elephant-es/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/forest-elephant-es/</guid>
+      <description>A species of elephant native to African rainforests, featuring new enrichment and sound.</description>
+    </item>
+    <item>
+      <title>Bornean Pygmy Elephant</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/bornean-pygmy-elephant/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/bornean-pygmy-elephant/</guid>
+      <description>Borneo pygmy elephants have significantly different characteristics from their cousins found on mainland Asia and Sumatra.</description>
+    </item>
+  </channel>
+</rss>

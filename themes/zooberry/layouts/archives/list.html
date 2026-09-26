@@ -1,25 +1,10 @@
 {{ define "main" }}
     {{ if .Params.list }}
         
-        {{ $team := .Title }}
-        {{/*  Author meta data  */}}
-        {{ $websiteCount := 0 }}
-        {{ $modCount := 0 }}
-        {{ $allTagsAssociated := slice }}
-        {{ $languagesByAuthor := slice }}
-        {{ $websitesPublishedOn := slice }}
-        {{ $collaborators := slice }}
-        {{ $yearsActive := slice }}
-        {{ $modsByTeam := slice }}
-
-        {{ $archivedList := slice }}
-
-        {{ $mods := where .Site.RegularPages "Type" "mods" }}
+        {{ $idx := partialCached "mod-index.html" . "mod-index" }}
         {{ $websites := .Sections }}
-
-        {{/*  Store list of website names from archived-websites  */}}
-        {{ $websiteCount = len $websites }}
-
+        {{ $websiteCount := len $websites }}
+        {{ $f := partial "mod-facets.html" (dict "mods" $idx.mods) }}
         {{/*  Populate meta data  */}}
         <div style="display: flex; flex-direction: column; margin: 2rem 0; width:100%;">
             <h1 style="margin:0;">{{ .Title }}</h1>
@@ -35,67 +20,13 @@
                             </tr>
                         </thead>
 
-        {{ range $websites }}
-            {{ $curWebsite := .Title }}
-            {{ $modCount = 0 }}
-            {{ range $mods }}
-                {{ $curentMod := . }}
-                {{ $curWebsiteList := .Params.orig_rel_at }}
-                {{ $authors := .Params.author }}
-                {{ $tags := .Params.tags }}
-                {{ $languages := .Params.languages }}
-                {{ $websites := .Params.orig_rel_at }}
-                {{ $years := .Params.orig_rel_date }}
-                {{ if in $curWebsiteList $curWebsite }}
-                    {{ $modCount = add $modCount 1 }}
-
-                    {{/*  Grab all tags published by author (if any)  */}}
-                    {{ with $tags }}
-                        {{ range . }}
-                            {{ if not (in $allTagsAssociated .) }}
-                                {{ if not (eq . "all") }}
-                                    {{ $allTagsAssociated = $allTagsAssociated | append . }}
-                                {{ end }}
-                            {{ end }}
-                        {{ end }}
-                    {{ end }}
-
-                    {{/*  Grab all languages published by author (if any)  */}}
-                    {{ with $languages }}
-                        {{ range . }}
-                            {{ if not (in $languagesByAuthor .) }}
-                                {{ $languagesByAuthor = $languagesByAuthor | append . }}
-                            {{ end }}
-                        {{ end }}
-                    {{ end }}
-
-                    {{/*  Grab all years active by team (if any)  */}}
-                    {{ with $years }}
-                        {{/*  Only keep the year (it's in 2006-03-14 format)  */}}
-                        {{ $year := index (split . "-") 0 }}
-                        {{ if not (in $yearsActive $year) }}
-                            {{ $yearsActive = $yearsActive | append $year }}
-                        {{ end }}
-                    {{ end}}
-
-                    {{/*  Grab all mods by team  */}}
-                    {{ if not (in $modsByTeam $curentMod) }}
-                        {{ $modsByTeam = $modsByTeam | append $curentMod }}
-                    {{ end }}
-
-                {{ end }}
-            {{ end }}
-            <tr class="tb-tr">
-                <td class="tb-td">
-                    <a href="{{ .Title | urlize }}">{{ .Title }}</a>
-                </td>
-                <td class="tb-td">
-                    {{ $modCount }}
-                </td>
-            </tr>
-            
-        {{ end }}
-    </table>
+    {{ range $websites }}
+    <tr class="tb-tr">
+        <td class="tb-td"><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+        <td class="tb-td">{{ len (index $idx.bySite (.Title | urlize) | default slice) }}</td>
+    </tr>
+    {{ end }}    
+</table>
         
     </div>
         {{ if ne .Type "mods" }}
@@ -108,7 +39,7 @@
             <p style="padding: 0 2rem 0 2rem;">{{ .Params.description }}</p>
             <span class="sidebar_r-title">Languages</span>
             <div class="side-ul filter-tags">
-                {{ range $languagesByAuthor }}
+                {{ range $f.languages }}
                     <span class="badge-default" href="/languages/{{ . | urlize }}" style="margin: 0.1rem;">{{ . }}</span>
                 {{ end }}
             </div>
@@ -119,96 +50,11 @@
     </div>
     </div>
     {{ else }}  
-    {{ $website := .Title }}
-
-    {{/*  Author meta data  */}}
-    {{ $websiteCount := 0 }}
-    {{ $modCount := 0 }}
-    {{ $allTagsAssociated := slice }}
-    {{ $languagesByAuthor := slice }}
-    {{ $websitesPublishedOn := slice }}
-    {{ $collaborators := slice }}
-    {{ $yearsActive := slice }}
-    {{ $modsByTeam := slice }}
-
-
-    {{ $archivedList := slice }}
-
-    {{ $mods := where .Site.RegularPages "Type" "mods" }}
-    {{/*  Obtain all subsections of Section "archived-website"  */}}
-    {{ $websites := where .Site.RegularPages "Type" "archived-website" }}
-    {{ $pageSize := 30 }} <!-- Items per page -->
-    {{ $pageNumber := .Param "page" | default 1 | int }} <!-- Get current page number from URL or default to 1 -->
-    {{ $totalPages := div (add (len $websites) $pageSize) $pageSize }}
-
-    {{ $websites := where site.RegularPages "Params.orig_rel_at" "intersect" (slice $website) }}
-
-    {{ $paginate := .Paginate $websites 30 }}
-
-    {{/*  Store list of website names from archived-websites  */}}
-    {{ $websiteCount = len $websites }}
-    {{ $modCount = len $websites }}
-
-
-    {{ range $paginate.Pages }}
-                {{ $curentMod := . }}
-                {{ $curWebsite := .Params.orig_rel_at }}
-                {{ $authors := .Params.author }}
-                {{ $tags := .Params.tags }}
-                {{ $languages := .Params.languages }}
-                {{ $websites := .Params.orig_rel_at }}
-                {{ $years := .Params.orig_rel_date }}
-                {{ if in $curWebsite $website }}
-
-                    {{/*  Grab all tags published by author (if any)  */}}
-                    {{ with $tags }}
-                        {{ range . }}
-                            {{ if not (in $allTagsAssociated .) }}
-                                {{ if not (eq . "all") }}
-                                    {{ $allTagsAssociated = $allTagsAssociated | append . }}
-                                {{ end }}
-                            {{ end }}
-                        {{ end }}
-                    {{ end }}
-
-                    {{/*  Grab all languages published by author (if any)  */}}
-                    {{ with $languages }}
-                        {{ range . }}
-                            {{ if not (in $languagesByAuthor .) }}
-                                {{ $languagesByAuthor = $languagesByAuthor | append . }}
-                            {{ end }}
-                        {{ end }}
-                    {{ end }}
-
-                    {{/*  Grab all years active by team (if any)  */}}
-                    {{ with $years }}
-                        {{/*  Only keep the year (it's in 2006-03-14 format)  */}}
-                        {{ $year := index (split . "-") 0 }}
-                        {{ if not (in $yearsActive $year) }}
-                            {{ $yearsActive = $yearsActive | append $year }}
-                        {{ end }}
-                    {{ end}}
-
-                    {{/*  Grab all mods by team  */}}
-                    {{ if not (in $modsByTeam $curentMod) }}
-                        {{ $modsByTeam = $modsByTeam | append $curentMod }}
-                    {{ end }}
-
-                {{ end }}
-
-
-            {{ end }}
-
-            {{/*  Get the latest mod's image  */}}
-            {{ $latestMod := index $modsByTeam 0 }}
-            {{ $imageFromLatestMod := "" }}
-
-            {{ if $latestMod }}
-                {{ $image := $latestMod.Resources.GetMatch "images/*" }}
-                {{ if $image }}
-                    {{ $imageFromLatestMod = $image.RelPermalink }}
-                {{ end }}
-            {{ end }}
+        {{ $idx := partialCached "mod-index.html" . "mod-index" }}
+        {{ $siteMods := index $idx.bySite (.Title | urlize) | default slice }}
+        {{ $modCount := len $siteMods }}
+        {{ $paginate := .Paginate $siteMods 30 }}
+        {{ $f := partial "mod-facets.html" (dict "mods" $siteMods) }}
         <div style="display: flex; flex-direction: column; margin: 2rem 0; width:100%;">
             <h1 style="margin:0;">{{ .Title }}</h1>
             <p style="margin:0;padding:0;"><i class="material-icons icon">extension</i> {{ $modCount }} Mods Published</p>
@@ -223,7 +69,7 @@
                         {{ template "_internal/pagination.html" (dict "paginator" $paginate "page" .) }}
 
                         <ul class="box-card-list">
-                            {{ range $modsByTeam }}
+                            {{ range $paginate.Pages }}
                                 <li class="box-card-mods">
                                     <div class="box-card-mods-img">
                                         {{/*  get first image from images folder in this bundle */}}
@@ -286,8 +132,7 @@
                         {{ end }}
                         <span class="sidebar_r-title">Years Active</span>
                         <div class="side-ul filter-tags">
-                            {{ $yearsActive = sort $yearsActive }}
-                            {{ range $yearsActive }}
+                            {{ range $f.years }}
                                 <span class="badge-default" href="/years/{{ . | urlize }}" style="margin-right: 0.2rem">{{ . }}</span>
                             {{ end }}
                         </div>

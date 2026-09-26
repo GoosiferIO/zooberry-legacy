@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ludozoo on ZooBerry</title><link>https://www.zooberry.org/authors/ludozoo/</link><description>Recent content in Ludozoo on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 22 Jun 2024 02:43:13 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/ludozoo/index.xml" rel="self" type="application/rss+xml"/><item><title>Jaguar Remake</title><link>https://www.zooberry.org/mods/zt2/remakes/animals/jaguar-remake/</link><pubDate>Sat, 22 Jun 2024 02:43:13 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/remakes/animals/jaguar-remake/</guid><description>A jaguar remake made by Mayer and Ludozoo.</description></item><item><title>African Leopard</title><link>https://www.zooberry.org/mods/zt2/animals/living/african-leopard/</link><pubDate>Fri, 21 Jun 2024 19:31:21 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/african-leopard/</guid><description>African Leopard made by Mayer and Ludozoo.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ludozoo on ZooBerry</title>
+    <link>http://localhost:1313/authors/ludozoo/</link>
+    <description>Recent content in Ludozoo on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Jun 2024 02:43:13 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/ludozoo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jaguar Remake</title>
+      <link>http://localhost:1313/mods/zt2/remakes/animals/jaguar-remake/</link>
+      <pubDate>Sat, 22 Jun 2024 02:43:13 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/remakes/animals/jaguar-remake/</guid>
+      <description>A jaguar remake made by Mayer and Ludozoo.</description>
+    </item>
+    <item>
+      <title>African Leopard</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/african-leopard/</link>
+      <pubDate>Fri, 21 Jun 2024 19:31:21 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/african-leopard/</guid>
+      <description>African Leopard made by Mayer and Ludozoo.</description>
+    </item>
+  </channel>
+</rss>

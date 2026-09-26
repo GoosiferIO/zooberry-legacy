@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Froy87 on ZooBerry</title><link>https://www.zooberry.org/authors/froy87/</link><description>Recent content in Froy87 on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 25 Jan 2025 03:00:00 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/froy87/index.xml" rel="self" type="application/rss+xml"/><item><title>Asia Template Map</title><link>https://www.zooberry.org/mods/zt2/maps/asia/</link><pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/maps/asia/</guid><description>A map of asia.</description></item><item><title>Australia and the Southeast Asiatic Template Map</title><link>https://www.zooberry.org/mods/zt2/maps/australia-and-the-southeast-asiatic/</link><pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/maps/australia-and-the-southeast-asiatic/</guid><description>A map of Australia and Southeast Asiatic.</description></item><item><title>Europe Template Map</title><link>https://www.zooberry.org/mods/zt2/maps/europe/</link><pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/maps/europe/</guid><description>A map of Europe.</description></item><item><title>North America Template Map</title><link>https://www.zooberry.org/mods/zt2/maps/north-america/</link><pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/maps/north-america/</guid><description>A map of North America.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Froy87 on ZooBerry</title>
+    <link>http://localhost:1313/authors/froy87/</link>
+    <description>Recent content in Froy87 on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jan 2025 03:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/froy87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asia Template Map</title>
+      <link>http://localhost:1313/mods/zt2/maps/asia/</link>
+      <pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/maps/asia/</guid>
+      <description>A map of asia.</description>
+    </item>
+    <item>
+      <title>Australia and the Southeast Asiatic Template Map</title>
+      <link>http://localhost:1313/mods/zt2/maps/australia-and-the-southeast-asiatic/</link>
+      <pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/maps/australia-and-the-southeast-asiatic/</guid>
+      <description>A map of Australia and Southeast Asiatic.</description>
+    </item>
+    <item>
+      <title>Europe Template Map</title>
+      <link>http://localhost:1313/mods/zt2/maps/europe/</link>
+      <pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/maps/europe/</guid>
+      <description>A map of Europe.</description>
+    </item>
+    <item>
+      <title>North America Template Map</title>
+      <link>http://localhost:1313/mods/zt2/maps/north-america/</link>
+      <pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/maps/north-america/</guid>
+      <description>A map of North America.</description>
+    </item>
+  </channel>
+</rss>

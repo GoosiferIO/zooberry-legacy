@@ -1,1 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ZooD on ZooBerry</title><link>https://www.zooberry.org/authors/zood/</link><description>Recent content in ZooD on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2025 11:00:00 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/zood/index.xml" rel="self" type="application/rss+xml"/><item><title>Catotopia Zoo Save File</title><link>https://www.zooberry.org/mods/zt2/save-files/catatopia-zoo/</link><pubDate>Tue, 28 Jan 2025 11:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/save-files/catatopia-zoo/</guid><description>Small Tropical Rainforest zoo with six of Zoo Tycoon Cats.</description></item><item><title>Dulliken Zoo Save File</title><link>https://www.zooberry.org/mods/zt2/save-files/dulliken-zoo/</link><pubDate>Tue, 28 Jan 2025 11:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/save-files/dulliken-zoo/</guid><description>A small boreal zoo located in the heart of Switzerland.</description></item><item><title>Plymouth Rock Template Map</title><link>https://www.zooberry.org/mods/zt2/maps/plymouth-rock/</link><pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/maps/plymouth-rock/</guid><description>A map of what is thought to be a Zoo Tycoon 2 replica of Plymouth Rock.</description></item><item><title>Christmas Scenery Pack</title><link>https://www.zooberry.org/mods/zt2/objects/theme-packs/christmas-scenery-pack/</link><pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/christmas-scenery-pack/</guid><description>Christmas Scenery Pack featuring fountains, gazebos, and more.</description></item><item><title>Snow Tigers Special Theme Pack</title><link>https://www.zooberry.org/mods/zt2/objects/theme-packs/snow-tigers-special-theme-pack/</link><pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/snow-tigers-special-theme-pack/</guid><description>Snow Tigers Special Theme Pack with paths, fences, and more.</description></item><item><title>Bobcat</title><link>https://www.zooberry.org/mods/zt2/animals/living/bobcat/</link><pubDate>Mon, 25 Nov 2024 16:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/bobcat/</guid><description>A boreal cat native to North America.</description></item><item><title>European Beaver</title><link>https://www.zooberry.org/mods/zt2/animals/living/european-beaver/</link><pubDate>Mon, 25 Nov 2024 12:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/european-beaver/</guid><description>European Beaver (Eurasian Beaver), the first animal created by Panda11.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZooD on ZooBerry</title>
+    <link>http://localhost:1313/authors/zood/</link>
+    <description>Recent content in ZooD on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2025 11:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/zood/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Catotopia Zoo Save File</title>
+      <link>http://localhost:1313/mods/zt2/save-files/catatopia-zoo/</link>
+      <pubDate>Tue, 28 Jan 2025 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/save-files/catatopia-zoo/</guid>
+      <description>Small Tropical Rainforest zoo with six of Zoo Tycoon Cats.</description>
+    </item>
+    <item>
+      <title>Dulliken Zoo Save File</title>
+      <link>http://localhost:1313/mods/zt2/save-files/dulliken-zoo/</link>
+      <pubDate>Tue, 28 Jan 2025 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/save-files/dulliken-zoo/</guid>
+      <description>A small boreal zoo located in the heart of Switzerland.</description>
+    </item>
+    <item>
+      <title>Plymouth Rock Template Map</title>
+      <link>http://localhost:1313/mods/zt2/maps/plymouth-rock/</link>
+      <pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/maps/plymouth-rock/</guid>
+      <description>A map of what is thought to be a Zoo Tycoon 2 replica of Plymouth Rock.</description>
+    </item>
+    <item>
+      <title>Christmas Scenery Pack</title>
+      <link>http://localhost:1313/mods/zt2/objects/theme-packs/christmas-scenery-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/theme-packs/christmas-scenery-pack/</guid>
+      <description>Christmas Scenery Pack featuring fountains, gazebos, and more.</description>
+    </item>
+    <item>
+      <title>Snow Tigers Special Theme Pack</title>
+      <link>http://localhost:1313/mods/zt2/objects/theme-packs/snow-tigers-special-theme-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/theme-packs/snow-tigers-special-theme-pack/</guid>
+      <description>Snow Tigers Special Theme Pack with paths, fences, and more.</description>
+    </item>
+    <item>
+      <title>Bobcat</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/bobcat/</link>
+      <pubDate>Mon, 25 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/bobcat/</guid>
+      <description>A boreal cat native to North America.</description>
+    </item>
+    <item>
+      <title>European Beaver</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/european-beaver/</link>
+      <pubDate>Mon, 25 Nov 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/european-beaver/</guid>
+      <description>European Beaver (Eurasian Beaver), the first animal created by Panda11.</description>
+    </item>
+  </channel>
+</rss>

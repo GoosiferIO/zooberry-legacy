@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Phascolarctids on ZooBerry</title><link>https://www.zooberry.org/mods/zt2/tags/phascolarctids/</link><description>Recent content in Phascolarctids on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2024 16:00:00 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/mods/zt2/tags/phascolarctids/index.xml" rel="self" type="application/rss+xml"/><item><title>Brown Koala</title><link>https://www.zooberry.org/mods/zt2/animals/living/brown-koala/</link><pubDate>Mon, 25 Nov 2024 16:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/brown-koala/</guid><description>A recolor of the original koala. This is not a skin but a new animal.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phascolarctids on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt2/tags/phascolarctids/</link>
+    <description>Recent content in Phascolarctids on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2024 16:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mods/zt2/tags/phascolarctids/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brown Koala</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/brown-koala/</link>
+      <pubDate>Mon, 25 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/brown-koala/</guid>
+      <description>A recolor of the original koala. This is not a skin but a new animal.</description>
+    </item>
+  </channel>
+</rss>

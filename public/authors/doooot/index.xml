@@ -1,1 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Doooot on ZooBerry</title><link>https://www.zooberry.org/authors/doooot/</link><description>Recent content in Doooot on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2025 11:00:00 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/doooot/index.xml" rel="self" type="application/rss+xml"/><item><title>Doooot's ZT2 Path Tutorial</title><link>https://www.zooberry.org/mods/zt2/tutorials/doooots-zt2-path-tutorial/</link><pubDate>Tue, 28 Jan 2025 11:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/tutorials/doooots-zt2-path-tutorial/</guid><description>How to make paths for Zoo Tycoon 2.</description></item><item><title>Doooot's Animal Print Path Pack</title><link>https://www.zooberry.org/mods/zt2/objects/paths/doooots-animal-print-path-pack/</link><pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/paths/doooots-animal-print-path-pack/</guid><description>A pack of 33 animal print paths for ZT2.</description></item><item><title>Doooot's Danish Paths Pack</title><link>https://www.zooberry.org/mods/zt2/objects/paths/doooots-danish-paths-pack/</link><pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/paths/doooots-danish-paths-pack/</guid><description>A Danish-themed path pack.</description></item><item><title>Doooot's Mini Animal Fence Pack</title><link>https://www.zooberry.org/mods/zt2/objects/fences/doooots-mini-animal-fence-pack/</link><pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/fences/doooots-mini-animal-fence-pack/</guid><description>A mini pack of animal-themed fences.</description></item><item><title>Doooot's Mixed Paths Pack</title><link>https://www.zooberry.org/mods/zt2/objects/paths/doooots-mixed-paths-pack/</link><pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/paths/doooots-mixed-paths-pack/</guid><description>A mixed pack of 18 paths for ZT2.</description></item><item><title>Doooot's Mixed Paths Pack 2</title><link>https://www.zooberry.org/mods/zt2/objects/paths/doooots-mixed-paths-pack-2/</link><pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/paths/doooots-mixed-paths-pack-2/</guid><description>A mixed pack of nine paths for ZT2.</description></item><item><title>Snow Tigers Special Theme Pack</title><link>https://www.zooberry.org/mods/zt2/objects/theme-packs/snow-tigers-special-theme-pack/</link><pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/snow-tigers-special-theme-pack/</guid><description>Snow Tigers Special Theme Pack with paths, fences, and more.</description></item><item><title>Valentine Pack</title><link>https://www.zooberry.org/mods/zt2/objects/theme-packs/valentine-pack/</link><pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/valentine-pack/</guid><description>A Valentine-themed pack featuring paths, balloons, a gazebo, animals, and more.</description></item><item><title>Brown Koala</title><link>https://www.zooberry.org/mods/zt2/animals/living/brown-koala/</link><pubDate>Mon, 25 Nov 2024 16:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/brown-koala/</guid><description>A recolor of the original koala. This is not a skin but a new animal.</description></item><item><title>Alpine Pack</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/alpine-pack/</link><pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/alpine-pack/</guid><description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Doooot on ZooBerry</title>
+    <link>http://localhost:1313/authors/doooot/</link>
+    <description>Recent content in Doooot on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2025 11:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/doooot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Doooot&#39;s ZT2 Path Tutorial</title>
+      <link>http://localhost:1313/mods/zt2/tutorials/doooots-zt2-path-tutorial/</link>
+      <pubDate>Tue, 28 Jan 2025 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/tutorials/doooots-zt2-path-tutorial/</guid>
+      <description>How to make paths for Zoo Tycoon 2.</description>
+    </item>
+    <item>
+      <title>Doooot&#39;s Animal Print Path Pack</title>
+      <link>http://localhost:1313/mods/zt2/objects/paths/doooots-animal-print-path-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/paths/doooots-animal-print-path-pack/</guid>
+      <description>A pack of 33 animal print paths for ZT2.</description>
+    </item>
+    <item>
+      <title>Doooot&#39;s Danish Paths Pack</title>
+      <link>http://localhost:1313/mods/zt2/objects/paths/doooots-danish-paths-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/paths/doooots-danish-paths-pack/</guid>
+      <description>A Danish-themed path pack.</description>
+    </item>
+    <item>
+      <title>Doooot&#39;s Mini Animal Fence Pack</title>
+      <link>http://localhost:1313/mods/zt2/objects/fences/doooots-mini-animal-fence-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/doooots-mini-animal-fence-pack/</guid>
+      <description>A mini pack of animal-themed fences.</description>
+    </item>
+    <item>
+      <title>Doooot&#39;s Mixed Paths Pack</title>
+      <link>http://localhost:1313/mods/zt2/objects/paths/doooots-mixed-paths-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/paths/doooots-mixed-paths-pack/</guid>
+      <description>A mixed pack of 18 paths for ZT2.</description>
+    </item>
+    <item>
+      <title>Doooot&#39;s Mixed Paths Pack 2</title>
+      <link>http://localhost:1313/mods/zt2/objects/paths/doooots-mixed-paths-pack-2/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/paths/doooots-mixed-paths-pack-2/</guid>
+      <description>A mixed pack of nine paths for ZT2.</description>
+    </item>
+    <item>
+      <title>Snow Tigers Special Theme Pack</title>
+      <link>http://localhost:1313/mods/zt2/objects/theme-packs/snow-tigers-special-theme-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/theme-packs/snow-tigers-special-theme-pack/</guid>
+      <description>Snow Tigers Special Theme Pack with paths, fences, and more.</description>
+    </item>
+    <item>
+      <title>Valentine Pack</title>
+      <link>http://localhost:1313/mods/zt2/objects/theme-packs/valentine-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/theme-packs/valentine-pack/</guid>
+      <description>A Valentine-themed pack featuring paths, balloons, a gazebo, animals, and more.</description>
+    </item>
+    <item>
+      <title>Brown Koala</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/brown-koala/</link>
+      <pubDate>Mon, 25 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/brown-koala/</guid>
+      <description>A recolor of the original koala. This is not a skin but a new animal.</description>
+    </item>
+    <item>
+      <title>Alpine Pack</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/alpine-pack/</link>
+      <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/alpine-pack/</guid>
+      <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GoblinShark on ZooBerry</title><link>https://www.zooberry.org/authors/goblinshark/</link><description>Recent content in GoblinShark on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 30 Oct 2023 20:39:01 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/goblinshark/index.xml" rel="self" type="application/rss+xml"/><item><title>Velociraptor Variants II</title><link>https://www.zooberry.org/mods/zt2/texture-mods/variants/velociraptor-variants-gs/</link><pubDate>Mon, 30 Oct 2023 20:39:01 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/velociraptor-variants-gs/</guid><description>Two velociraptor variants made by GoblinShark.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GoblinShark on ZooBerry</title>
+    <link>http://localhost:1313/authors/goblinshark/</link>
+    <description>Recent content in GoblinShark on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Oct 2023 20:39:01 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/goblinshark/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Velociraptor Variants II</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/variants/velociraptor-variants-gs/</link>
+      <pubDate>Mon, 30 Oct 2023 20:39:01 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/variants/velociraptor-variants-gs/</guid>
+      <description>Two velociraptor variants made by GoblinShark.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tsc96 on ZooBerry</title><link>https://www.zooberry.org/authors/tsc96/</link><description>Recent content in Tsc96 on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 22 Mar 2024 13:15:04 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/tsc96/index.xml" rel="self" type="application/rss+xml"/><item><title>Albertosaurus Reskin</title><link>https://www.zooberry.org/mods/zt2/texture-mods/reskins/albertosaurus-reskin/</link><pubDate>Fri, 22 Mar 2024 13:15:04 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/reskins/albertosaurus-reskin/</guid><description>Reskin of the Albertosaurus from the ZT2: Operation Genesis user-made expansion pack.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tsc96 on ZooBerry</title>
+    <link>http://localhost:1313/authors/tsc96/</link>
+    <description>Recent content in Tsc96 on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Mar 2024 13:15:04 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/tsc96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Albertosaurus Reskin</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/reskins/albertosaurus-reskin/</link>
+      <pubDate>Fri, 22 Mar 2024 13:15:04 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/reskins/albertosaurus-reskin/</guid>
+      <description>Reskin of the Albertosaurus from the ZT2: Operation Genesis user-made expansion pack.</description>
+    </item>
+  </channel>
+</rss>

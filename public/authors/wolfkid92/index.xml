@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wolfkid92 on ZooBerry</title><link>https://www.zooberry.org/authors/wolfkid92/</link><description>Recent content in Wolfkid92 on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 26 Nov 2024 16:00:00 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/authors/wolfkid92/index.xml" rel="self" type="application/rss+xml"/><item><title>African Elephant Reskin</title><link>https://www.zooberry.org/mods/zt2/texture-mods/reskins/elephant-reskin/</link><pubDate>Tue, 26 Nov 2024 16:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/reskins/elephant-reskin/</guid><description>A more grey-colored reskin for the elephant.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wolfkid92 on ZooBerry</title>
+    <link>http://localhost:1313/authors/wolfkid92/</link>
+    <description>Recent content in Wolfkid92 on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Nov 2024 16:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/wolfkid92/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>African Elephant Reskin</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/reskins/elephant-reskin/</link>
+      <pubDate>Tue, 26 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/reskins/elephant-reskin/</guid>
+      <description>A more grey-colored reskin for the elephant.</description>
+    </item>
+  </channel>
+</rss>

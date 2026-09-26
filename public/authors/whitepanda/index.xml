@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WhitePanda on ZooBerry</title><link>https://www.zooberry.org/authors/whitepanda/</link><description>Recent content in WhitePanda on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 12 Jan 2025 05:00:00 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/whitepanda/index.xml" rel="self" type="application/rss+xml"/><item><title>Movie Stopper</title><link>https://www.zooberry.org/mods/zt2/hacks/movie-stopper/</link><pubDate>Sun, 12 Jan 2025 05:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/hacks/movie-stopper/</guid><description>Stops the splash movies from playing when loading Zoo Tycoon 2.</description></item><item><title>The Baby Update</title><link>https://www.zooberry.org/mods/zt2/hacks/the-baby-update/</link><pubDate>Sun, 12 Jan 2025 05:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/hacks/the-baby-update/</guid><description>Updates baby models for certain animals.</description></item><item><title>Gooey Party Pack</title><link>https://www.zooberry.org/mods/zt2/tools-utilities/gooey-party-pack/</link><pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/tools-utilities/gooey-party-pack/</guid><description>A colorful pack of Gooeys with bonus features.</description></item><item><title>Gooey Party Pack 2</title><link>https://www.zooberry.org/mods/zt2/tools-utilities/gooey-party-pack-2/</link><pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/tools-utilities/gooey-party-pack-2/</guid><description>A follow-up to the original Gooey Party Pack with new Gooeys and extras.</description></item><item><title>Gooey Party Pack 3</title><link>https://www.zooberry.org/mods/zt2/tools-utilities/gooey-party-pack-3/</link><pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/tools-utilities/gooey-party-pack-3/</guid><description>The third installment in the Gooey Party Pack series with Marine Mania compatibility.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WhitePanda on ZooBerry</title>
+    <link>http://localhost:1313/authors/whitepanda/</link>
+    <description>Recent content in WhitePanda on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jan 2025 05:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/whitepanda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movie Stopper</title>
+      <link>http://localhost:1313/mods/zt2/hacks/movie-stopper/</link>
+      <pubDate>Sun, 12 Jan 2025 05:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/hacks/movie-stopper/</guid>
+      <description>Stops the splash movies from playing when loading Zoo Tycoon 2.</description>
+    </item>
+    <item>
+      <title>The Baby Update</title>
+      <link>http://localhost:1313/mods/zt2/hacks/the-baby-update/</link>
+      <pubDate>Sun, 12 Jan 2025 05:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/hacks/the-baby-update/</guid>
+      <description>Updates baby models for certain animals.</description>
+    </item>
+    <item>
+      <title>Gooey Party Pack</title>
+      <link>http://localhost:1313/mods/zt2/tools-utilities/gooey-party-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/tools-utilities/gooey-party-pack/</guid>
+      <description>A colorful pack of Gooeys with bonus features.</description>
+    </item>
+    <item>
+      <title>Gooey Party Pack 2</title>
+      <link>http://localhost:1313/mods/zt2/tools-utilities/gooey-party-pack-2/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/tools-utilities/gooey-party-pack-2/</guid>
+      <description>A follow-up to the original Gooey Party Pack with new Gooeys and extras.</description>
+    </item>
+    <item>
+      <title>Gooey Party Pack 3</title>
+      <link>http://localhost:1313/mods/zt2/tools-utilities/gooey-party-pack-3/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/tools-utilities/gooey-party-pack-3/</guid>
+      <description>The third installment in the Gooey Party Pack series with Marine Mania compatibility.</description>
+    </item>
+  </channel>
+</rss>

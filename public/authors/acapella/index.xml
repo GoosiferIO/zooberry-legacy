@@ -1,1 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Acapella on ZooBerry</title><link>https://www.zooberry.org/authors/acapella/</link><description>Recent content in Acapella on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2024 20:00:00 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/authors/acapella/index.xml" rel="self" type="application/rss+xml"/><item><title>South America Pack Part 2</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/south-america-pack-part-2/</link><pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/south-america-pack-part-2/</guid><description>Additional items for the South America theme, including a Tinamou and Incan objects.</description></item><item><title>Black Wolf Variant II</title><link>https://www.zooberry.org/mods/zt2/texture-mods/variants/black-wolf-variant-ii/</link><pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/black-wolf-variant-ii/</guid><description>A black wolf variant skin.</description></item><item><title>Caribou Variant Skin Pack</title><link>https://www.zooberry.org/mods/zt2/texture-mods/variants/caribou-skin-pack/</link><pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/caribou-skin-pack/</guid><description>Here is my Caribou-Skin pack. (white and Pied). Hope you enjoy it.</description></item><item><title>Emerald Spalding Peafowl</title><link>https://www.zooberry.org/mods/zt2/texture-mods/variants/emerald-spalding-peafowl/</link><pubDate>Tue, 26 Nov 2024 16:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/emerald-spalding-peafowl/</guid><description>A Peafowl skin for the Emerald Spalding species.</description></item><item><title>Golden Tabby Tiger Variant Variants</title><link>https://www.zooberry.org/mods/zt2/texture-mods/variants/golden-tabby-tiger-variants/</link><pubDate>Tue, 26 Nov 2024 16:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/golden-tabby-tiger-variants/</guid><description>An additional skin for the Bengal Tiger.</description></item><item><title>White Wolf Variant</title><link>https://www.zooberry.org/mods/zt2/texture-mods/variants/white-wolf-variant-skin/</link><pubDate>Tue, 26 Nov 2024 01:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/white-wolf-variant-skin/</guid><description>A white wolf variant skin created by Acapella.</description></item><item><title>Himalayan Monal</title><link>https://www.zooberry.org/mods/zt2/animals/living/himalayan-monal/</link><pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/himalayan-monal/</guid><description>An alpine-dwelling bird with vibrant plumage, native to the Himalayas.</description></item><item><title>South America Pack</title><link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/south-america-pack/</link><pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/south-america-pack/</guid><description>From the high Andes Mountains to the lush tropical Amazon Forest lives an amazing array of wildlife. Welcome to South America!</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acapella on ZooBerry</title>
+    <link>http://localhost:1313/authors/acapella/</link>
+    <description>Recent content in Acapella on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Nov 2024 20:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/acapella/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>South America Pack Part 2</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/south-america-pack-part-2/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/south-america-pack-part-2/</guid>
+      <description>Additional items for the South America theme, including a Tinamou and Incan objects.</description>
+    </item>
+    <item>
+      <title>Black Wolf Variant II</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/variants/black-wolf-variant-ii/</link>
+      <pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/variants/black-wolf-variant-ii/</guid>
+      <description>A black wolf variant skin.</description>
+    </item>
+    <item>
+      <title>Caribou Variant Skin Pack</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/variants/caribou-skin-pack/</link>
+      <pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/variants/caribou-skin-pack/</guid>
+      <description>Here is my Caribou-Skin pack. (white and Pied). Hope you enjoy it.</description>
+    </item>
+    <item>
+      <title>Emerald Spalding Peafowl</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/variants/emerald-spalding-peafowl/</link>
+      <pubDate>Tue, 26 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/variants/emerald-spalding-peafowl/</guid>
+      <description>A Peafowl skin for the Emerald Spalding species.</description>
+    </item>
+    <item>
+      <title>Golden Tabby Tiger Variant Variants</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/variants/golden-tabby-tiger-variants/</link>
+      <pubDate>Tue, 26 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/variants/golden-tabby-tiger-variants/</guid>
+      <description>An additional skin for the Bengal Tiger.</description>
+    </item>
+    <item>
+      <title>White Wolf Variant</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/variants/white-wolf-variant-skin/</link>
+      <pubDate>Tue, 26 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/variants/white-wolf-variant-skin/</guid>
+      <description>A white wolf variant skin created by Acapella.</description>
+    </item>
+    <item>
+      <title>Himalayan Monal</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/himalayan-monal/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/himalayan-monal/</guid>
+      <description>An alpine-dwelling bird with vibrant plumage, native to the Himalayas.</description>
+    </item>
+    <item>
+      <title>South America Pack</title>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/south-america-pack/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/south-america-pack/</guid>
+      <description>From the high Andes Mountains to the lush tropical Amazon Forest lives an amazing array of wildlife. Welcome to South America!</description>
+    </item>
+  </channel>
+</rss>

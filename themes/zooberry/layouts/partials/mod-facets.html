@@ -1,0 +1,25 @@
+{{- $langs := slice }}{{ $sites := slice }}{{ $years := slice }}
+{{- $zt1 := slice }}{{ $zt2 := slice }}{{ $tags := slice }}{{ $people := slice -}}
+{{- range .mods -}}
+  {{- with .Params.languages }}{{ $langs = $langs | append . }}{{ end -}}
+  {{- with .Params.orig_rel_at }}{{ $sites = $sites | append . }}{{ end -}}
+  {{- with .Params.zt1tags }}{{ $zt1 = $zt1 | append . }}{{ end -}}
+  {{- with .Params.zt2tags }}{{ $zt2 = $zt2 | append . }}{{ end -}}
+  {{- with .Params.tags }}{{ $tags = $tags | append . }}{{ end -}}
+  {{- with .Params.author }}{{ $people = $people | append . }}{{ end -}}
+  {{- with .Params.orig_rel_date }}{{ $years = $years | append (substr (printf "%v" .) 0 4) }}{{ end -}}
+{{- end -}}
+
+{{- $collaborators := slice -}}
+{{- $seen := slice -}}
+{{- range $people }}{{ $k := urlize . }}{{ if and (ne $k $.exclude) (not (in $seen $k)) }}{{ $seen = $seen | append $k }}{{ $collaborators = $collaborators | append . }}{{ end }}{{ end -}}
+
+{{- return dict
+      "languages"     ($langs | uniq | sort)
+      "websites"      ($sites | uniq | sort)
+      "years"         ($years | uniq | sort)
+      "zt1tags"       (complement (slice "All" "ZT1") ($zt1 | uniq | sort))
+      "zt2tags"       (complement (slice "All" "ZT2") ($zt2 | uniq | sort))
+      "tags"          (complement (slice "all") ($tags | uniq | sort))
+      "collaborators" ($collaborators | sort)
+-}}

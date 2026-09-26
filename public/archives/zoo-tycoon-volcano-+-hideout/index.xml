@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Zoo Tycoon Volcano + Hideout on ZooBerry</title><link>https://www.zooberry.org/archives/zoo-tycoon-volcano-+-hideout/</link><description>Recent content in Zoo Tycoon Volcano + Hideout on ZooBerry</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://www.zooberry.org/archives/zoo-tycoon-volcano-+-hideout/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zoo Tycoon Volcano &#43; Hideout on ZooBerry</title>
+    <link>http://localhost:1313/archives/zoo-tycoon-volcano-&#43;-hideout/</link>
+    <description>Recent content in Zoo Tycoon Volcano &#43; Hideout on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/archives/zoo-tycoon-volcano-+-hideout/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

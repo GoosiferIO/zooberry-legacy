@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Koffee on ZooBerry</title><link>https://www.zooberry.org/authors/koffee/</link><description>Recent content in Koffee on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 15:26:52 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/authors/koffee/index.xml" rel="self" type="application/rss+xml"/><item><title>zFixSunia</title><link>https://www.zooberry.org/mods/zt2/hacks/zfixsunia/</link><pubDate>Mon, 01 Jan 2024 15:26:52 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/hacks/zfixsunia/</guid><description>This hack fixes hippos, pigs (warthogs), and peccaries to not chew their cud.</description></item><item><title>zHackWorldLocs</title><link>https://www.zooberry.org/mods/zt2/hacks/zhackworldlocs/</link><pubDate>Mon, 01 Jan 2024 15:26:52 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/hacks/zhackworldlocs/</guid><description>This hack adds a bit of flavor to the globe by spreading out the Tundra zoos and moving the Polar Coast zoo to the coast.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Koffee on ZooBerry</title>
+    <link>http://localhost:1313/authors/koffee/</link>
+    <description>Recent content in Koffee on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 15:26:52 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/koffee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>zFixSunia</title>
+      <link>http://localhost:1313/mods/zt2/hacks/zfixsunia/</link>
+      <pubDate>Mon, 01 Jan 2024 15:26:52 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/hacks/zfixsunia/</guid>
+      <description>This hack fixes hippos, pigs (warthogs), and peccaries to not chew their cud.</description>
+    </item>
+    <item>
+      <title>zHackWorldLocs</title>
+      <link>http://localhost:1313/mods/zt2/hacks/zhackworldlocs/</link>
+      <pubDate>Mon, 01 Jan 2024 15:26:52 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/hacks/zhackworldlocs/</guid>
+      <description>This hack adds a bit of flavor to the globe by spreading out the Tundra zoos and moving the Polar Coast zoo to the coast.</description>
+    </item>
+  </channel>
+</rss>

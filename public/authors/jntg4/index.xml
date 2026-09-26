@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jntg4 on ZooBerry</title><link>https://www.zooberry.org/authors/jntg4/</link><description>Recent content in Jntg4 on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2024 14:48:29 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/jntg4/index.xml" rel="self" type="application/rss+xml"/><item><title>EA zBiome Shell</title><link>https://www.zooberry.org/mods/zt2/tools-utilities/ea-zbiome-shell/</link><pubDate>Sun, 23 Jun 2024 14:48:29 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/tools-utilities/ea-zbiome-shell/</guid><description>Extinct Animals zBiome Shell with support for Ambients in User-made Biomes</description></item><item><title>Sea Predator Path</title><link>https://www.zooberry.org/mods/zt2/objects/paths/sea-predator-path/</link><pubDate>Sat, 22 Jun 2024 02:18:33 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/paths/sea-predator-path/</guid><description>This path is part of the Predators of the Seas Expanion Pack, and was the first non-animal and non-biome item created for it.</description></item><item><title>Prehistoric Sharks and Biome Mini-Pack</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/prehistoric-sharks-and-biome-pack/</link><pubDate>Fri, 21 Jun 2024 22:04:13 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/prehistoric-sharks-and-biome-pack/</guid><description>A pack with two animals and a new biome.</description></item><item><title>Yellow Stingray</title><link>https://www.zooberry.org/mods/zt2/animals/living/yellow-stingray/</link><pubDate>Sat, 18 Nov 2023 04:21:46 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/yellow-stingray/</guid><description>A small reef-dwelling stingray.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jntg4 on ZooBerry</title>
+    <link>http://localhost:1313/authors/jntg4/</link>
+    <description>Recent content in Jntg4 on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2024 14:48:29 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/jntg4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EA zBiome Shell</title>
+      <link>http://localhost:1313/mods/zt2/tools-utilities/ea-zbiome-shell/</link>
+      <pubDate>Sun, 23 Jun 2024 14:48:29 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/tools-utilities/ea-zbiome-shell/</guid>
+      <description>Extinct Animals zBiome Shell with support for Ambients in User-made Biomes</description>
+    </item>
+    <item>
+      <title>Sea Predator Path</title>
+      <link>http://localhost:1313/mods/zt2/objects/paths/sea-predator-path/</link>
+      <pubDate>Sat, 22 Jun 2024 02:18:33 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/paths/sea-predator-path/</guid>
+      <description>This path is part of the Predators of the Seas Expanion Pack, and was the first non-animal and non-biome item created for it.</description>
+    </item>
+    <item>
+      <title>Prehistoric Sharks and Biome Mini-Pack</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/prehistoric-sharks-and-biome-pack/</link>
+      <pubDate>Fri, 21 Jun 2024 22:04:13 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/prehistoric-sharks-and-biome-pack/</guid>
+      <description>A pack with two animals and a new biome.</description>
+    </item>
+    <item>
+      <title>Yellow Stingray</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/yellow-stingray/</link>
+      <pubDate>Sat, 18 Nov 2023 04:21:46 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/yellow-stingray/</guid>
+      <description>A small reef-dwelling stingray.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+{{- $mods := (where site.RegularPages "Type" "mods").ByDate.Reverse -}}
+{{- $byAuthor := newScratch }}{{ $byTeam := newScratch }}{{ $bySite := newScratch }}{{ $names := newScratch -}}
+{{- range $mods -}}
+  {{- $mod := . -}}
+
+  {{- $authors := .Params.author | default slice -}}
+  {{- if not (reflect.IsSlice $authors) }}{{ $authors = slice $authors }}{{ end -}}
+  {{- $teams := .Params.team | default slice -}}
+  {{- if not (reflect.IsSlice $teams) }}{{ $teams = slice $teams }}{{ end -}}
+  {{- $sites := .Params.orig_rel_at | default slice -}}
+  {{- if not (reflect.IsSlice $sites) }}{{ $sites = slice $sites }}{{ end -}}
+
+  {{- range $authors }}{{ $k := urlize . }}{{ $byAuthor.Add $k (slice $mod) }}{{ if not ($names.Get $k) }}{{ $names.Set $k . }}{{ end }}{{ end -}}
+  {{- range $teams   }}{{ $k := urlize . }}{{ $byTeam.Add   $k (slice $mod) }}{{ if not ($names.Get $k) }}{{ $names.Set $k . }}{{ end }}{{ end -}}
+  {{- range $sites   }}{{ $k := urlize . }}{{ $bySite.Add   $k (slice $mod) }}{{ if not ($names.Get $k) }}{{ $names.Set $k . }}{{ end }}{{ end -}}
+{{- end -}}
+{{- return dict
+      "mods"     $mods
+      "byAuthor" $byAuthor.Values
+      "byTeam"   $byTeam.Values
+      "bySite"   $bySite.Values
+      "names"    $names.Values
+-}}

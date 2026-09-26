@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Texgnome1 on ZooBerry</title><link>https://www.zooberry.org/authors/texgnome1/</link><description>Recent content in Texgnome1 on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2025 15:00:00 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/texgnome1/index.xml" rel="self" type="application/rss+xml"/><item><title>LangZA03.dll</title><link>https://www.zooberry.org/mods/zt1/tools-utilities/langza03/</link><pubDate>Tue, 07 Jan 2025 15:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt1/tools-utilities/langza03/</guid><description>LangZA03.dll consolidates and replaces several dll files, updating building messages and resolving conflicts for Zoo Admin releases up to January 2020.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Texgnome1 on ZooBerry</title>
+    <link>http://localhost:1313/authors/texgnome1/</link>
+    <description>Recent content in Texgnome1 on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2025 15:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/texgnome1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LangZA03.dll</title>
+      <link>http://localhost:1313/mods/zt1/tools-utilities/langza03/</link>
+      <pubDate>Tue, 07 Jan 2025 15:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt1/tools-utilities/langza03/</guid>
+      <description>LangZA03.dll consolidates and replaces several dll files, updating building messages and resolving conflicts for Zoo Admin releases up to January 2020.</description>
+    </item>
+  </channel>
+</rss>

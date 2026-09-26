@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shelters on ZooBerry</title><link>https://www.zooberry.org/mods/zt2/objects/shelters/</link><description>Recent content in Shelters on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 26 Nov 2024 17:30:00 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/mods/zt2/objects/shelters/index.xml" rel="self" type="application/rss+xml"/><item><title>Alpine Cat Climber</title><link>https://www.zooberry.org/mods/zt2/objects/shelters/alpine-cat-climber/</link><pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/shelters/alpine-cat-climber/</guid><description>An Alpine Cat Climber for alpine-based cats.</description></item><item><title>Jungle Ruins Cat Climber</title><link>https://www.zooberry.org/mods/zt2/objects/shelters/jungle-ruins-cat-climber/</link><pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/shelters/jungle-ruins-cat-climber/</guid><description>A Jungle Ruins Cat Climber for Tropical Rainforest cats.</description></item><item><title>Snowy Cat Climber</title><link>https://www.zooberry.org/mods/zt2/objects/shelters/snowy-cat-climber/</link><pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/shelters/snowy-cat-climber/</guid><description>A snowy Cat Climber for snow-bound cats.</description></item><item><title>Biome Shelter Pack</title><link>https://www.zooberry.org/mods/zt2/objects/shelters/biome-shelter-pack/</link><pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/shelters/biome-shelter-pack/</guid><description>Tired of shelters that just don&amp;rsquo;t match your beautifully crafted exhibits? Worry no more! This pack contains shelters created to complement your exhibits: Boreal Forest Rock Cave, Temperate Forest Rock Cave, Grassland Rock Cave, Savannah Rock Cave, Wetlands Rock Cave, Grassland burrows for Ratels, and a tropical fern Shade Structure.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shelters on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt2/objects/shelters/</link>
+    <description>Recent content in Shelters on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Nov 2024 17:30:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mods/zt2/objects/shelters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alpine Cat Climber</title>
+      <link>http://localhost:1313/mods/zt2/objects/shelters/alpine-cat-climber/</link>
+      <pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/shelters/alpine-cat-climber/</guid>
+      <description>An Alpine Cat Climber for alpine-based cats.</description>
+    </item>
+    <item>
+      <title>Jungle Ruins Cat Climber</title>
+      <link>http://localhost:1313/mods/zt2/objects/shelters/jungle-ruins-cat-climber/</link>
+      <pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/shelters/jungle-ruins-cat-climber/</guid>
+      <description>A Jungle Ruins Cat Climber for Tropical Rainforest cats.</description>
+    </item>
+    <item>
+      <title>Snowy Cat Climber</title>
+      <link>http://localhost:1313/mods/zt2/objects/shelters/snowy-cat-climber/</link>
+      <pubDate>Tue, 26 Nov 2024 17:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/shelters/snowy-cat-climber/</guid>
+      <description>A snowy Cat Climber for snow-bound cats.</description>
+    </item>
+    <item>
+      <title>Biome Shelter Pack</title>
+      <link>http://localhost:1313/mods/zt2/objects/shelters/biome-shelter-pack/</link>
+      <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/shelters/biome-shelter-pack/</guid>
+      <description>Tired of shelters that just don&amp;rsquo;t match your beautifully crafted exhibits? Worry no more! This pack contains shelters created to complement your exhibits: Boreal Forest Rock Cave, Temperate Forest Rock Cave, Grassland Rock Cave, Savannah Rock Cave, Wetlands Rock Cave, Grassland burrows for Ratels, and a tropical fern Shade Structure.</description>
+    </item>
+  </channel>
+</rss>

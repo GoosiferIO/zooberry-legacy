@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Artemis on ZooBerry</title><link>https://www.zooberry.org/authors/artemis/</link><description>Recent content in Artemis on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 25 Jan 2025 03:00:00 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/artemis/index.xml" rel="self" type="application/rss+xml"/><item><title>Blank Grassy Template Map</title><link>https://www.zooberry.org/mods/zt2/maps/blank-grassy-map/</link><pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/maps/blank-grassy-map/</guid><description>For those individuals who like to start from scratch occasionally, here&amp;rsquo;s a completely blank map. No elevation, foliage, anything.</description></item><item><title>Six Template Pack Maps</title><link>https://www.zooberry.org/mods/zt2/maps/six-template-pack-maps/</link><pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/maps/six-template-pack-maps/</guid><description>This pack contains six freeform template maps on which you can build your zoos. Five are completely blank, flat, featureless expanses ideal for grid-based zoos and for starting from scratch. The sixth contains six exhibit spaces clearly marked out and a handsome entrance already built.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artemis on ZooBerry</title>
+    <link>http://localhost:1313/authors/artemis/</link>
+    <description>Recent content in Artemis on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jan 2025 03:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/artemis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blank Grassy Template Map</title>
+      <link>http://localhost:1313/mods/zt2/maps/blank-grassy-map/</link>
+      <pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/maps/blank-grassy-map/</guid>
+      <description>For those individuals who like to start from scratch occasionally, here&amp;rsquo;s a completely blank map. No elevation, foliage, anything.</description>
+    </item>
+    <item>
+      <title>Six Template Pack Maps</title>
+      <link>http://localhost:1313/mods/zt2/maps/six-template-pack-maps/</link>
+      <pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/maps/six-template-pack-maps/</guid>
+      <description>This pack contains six freeform template maps on which you can build your zoos. Five are completely blank, flat, featureless expanses ideal for grid-based zoos and for starting from scratch. The sixth contains six exhibit spaces clearly marked out and a handsome entrance already built.</description>
+    </item>
+  </channel>
+</rss>

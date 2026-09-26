@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cochin007 on ZooBerry</title><link>https://www.zooberry.org/authors/cochin007/</link><description>Recent content in Cochin007 on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 25 Jan 2025 03:00:00 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/cochin007/index.xml" rel="self" type="application/rss+xml"/><item><title>Safari Islands Template Map</title><link>https://www.zooberry.org/mods/zt2/maps/safari-islands-map/</link><pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/maps/safari-islands-map/</guid><description>This zoo consists of a number of wild savannah islands with paths, fenced guests paths, and 4 guest areas between the island. One big food court at the entrance, a few smaller areas on other places.</description></item><item><title>Camargue Wild Horse</title><link>https://www.zooberry.org/mods/zt2/animals/living/camargue-wild-horse/</link><pubDate>Mon, 25 Nov 2024 16:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/camargue-wild-horse/</guid><description>A European wetlands horse living in semi-wild conditions in the swampy areas of southern France.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cochin007 on ZooBerry</title>
+    <link>http://localhost:1313/authors/cochin007/</link>
+    <description>Recent content in Cochin007 on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jan 2025 03:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/cochin007/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Safari Islands Template Map</title>
+      <link>http://localhost:1313/mods/zt2/maps/safari-islands-map/</link>
+      <pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/maps/safari-islands-map/</guid>
+      <description>This zoo consists of a number of wild savannah islands with paths, fenced guests paths, and 4 guest areas between the island. One big food court at the entrance, a few smaller areas on other places.</description>
+    </item>
+    <item>
+      <title>Camargue Wild Horse</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/camargue-wild-horse/</link>
+      <pubDate>Mon, 25 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/camargue-wild-horse/</guid>
+      <description>A European wetlands horse living in semi-wild conditions in the swampy areas of southern France.</description>
+    </item>
+  </channel>
+</rss>

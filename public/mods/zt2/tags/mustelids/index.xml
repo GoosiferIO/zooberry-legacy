@@ -1,1 +1,89 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mustelids on ZooBerry</title><link>https://www.zooberry.org/mods/zt2/tags/mustelids/</link><description>Recent content in Mustelids on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2024 16:00:00 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/mods/zt2/tags/mustelids/index.xml" rel="self" type="application/rss+xml"/><item><title>Northern River Otter</title><link>https://www.zooberry.org/mods/zt2/animals/living/northern-river-otter/</link><pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/northern-river-otter/</guid><description>A cute North American otter for your zoo.</description></item><item><title>American Badger II</title><link>https://www.zooberry.org/mods/zt2/animals/living/american-badger-ii/</link><pubDate>Wed, 27 Nov 2024 04:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/american-badger-ii/</guid><description>A North American carnivore for grasslands.</description></item><item><title>South America Pack</title><link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/south-america-pack/</link><pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/south-america-pack/</guid><description>From the high Andes Mountains to the lush tropical Amazon Forest lives an amazing array of wildlife. Welcome to South America!</description></item><item><title>Zorilla</title><link>https://www.zooberry.org/mods/zt2/animals/living/zorilla/</link><pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/zorilla/</guid><description>The zorilla is a skunk-like mammal that lives in African savannas. It is also called the striped polecat.</description></item><item><title>American Badger</title><link>https://www.zooberry.org/mods/zt2/animals/living/american-badger/</link><pubDate>Tue, 09 Jan 2024 07:53:14 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/american-badger/</guid><description>A white dorsal stripe extends back over the head from the nose of the American badger.</description></item><item><title>Eurasian Badger</title><link>https://www.zooberry.org/mods/zt2/animals/living/eurasian-badger/</link><pubDate>Tue, 09 Jan 2024 07:53:14 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/eurasian-badger/</guid><description>Eurasian badgers are easily recognisable by the conspicuous black and white stripes running from the nose to the shoulders.</description></item><item><title>Skunk</title><link>https://www.zooberry.org/mods/zt2/animals/living/skunk/</link><pubDate>Tue, 09 Jan 2024 07:53:14 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/skunk/</guid><description>Skunks produce a very smelly spray that repels most predators. This oily, yellow liquid is produced in two glands located under the tail.</description></item><item><title>European Badger</title><link>https://www.zooberry.org/mods/zt2/animals/living/european-badger/</link><pubDate>Sun, 19 Nov 2023 00:16:46 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/european-badger/</guid><description>European Badger skinned and coded by ShenTirag, with the model created by SilesianTomcat.</description></item><item><title>European Expeditions [Realistic]</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/european-expeditions/</link><pubDate>Mon, 06 Nov 2023 02:33:26 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/european-expeditions/</guid><description>A user-made expansion pack made by Hendrix!</description></item><item><title>Long-Tailed Weasel</title><link>https://www.zooberry.org/mods/zt2/animals/living/long-tailed-weasel/</link><pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/long-tailed-weasel/</guid><description>This is a North American weasel for ZT2. It contains 2 variants (not shown) - white and brown with light facial markings.</description></item><item><title>Pine Marten</title><link>https://www.zooberry.org/mods/zt2/animals/living/pine-marten/</link><pubDate>Tue, 18 Jul 2023 17:30:46 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/pine-marten/</guid><description>A small boreal forest mustelid.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mustelids on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt2/tags/mustelids/</link>
+    <description>Recent content in Mustelids on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Nov 2024 16:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mods/zt2/tags/mustelids/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Northern River Otter</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/northern-river-otter/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/northern-river-otter/</guid>
+      <description>A cute North American otter for your zoo.</description>
+    </item>
+    <item>
+      <title>American Badger II</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/american-badger-ii/</link>
+      <pubDate>Wed, 27 Nov 2024 04:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/american-badger-ii/</guid>
+      <description>A North American carnivore for grasslands.</description>
+    </item>
+    <item>
+      <title>South America Pack</title>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/south-america-pack/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/south-america-pack/</guid>
+      <description>From the high Andes Mountains to the lush tropical Amazon Forest lives an amazing array of wildlife. Welcome to South America!</description>
+    </item>
+    <item>
+      <title>Zorilla</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/zorilla/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/zorilla/</guid>
+      <description>The zorilla is a skunk-like mammal that lives in African savannas. It is also called the striped polecat.</description>
+    </item>
+    <item>
+      <title>American Badger</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/american-badger/</link>
+      <pubDate>Tue, 09 Jan 2024 07:53:14 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/american-badger/</guid>
+      <description>A white dorsal stripe extends back over the head from the nose of the American badger.</description>
+    </item>
+    <item>
+      <title>Eurasian Badger</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/eurasian-badger/</link>
+      <pubDate>Tue, 09 Jan 2024 07:53:14 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/eurasian-badger/</guid>
+      <description>Eurasian badgers are easily recognisable by the conspicuous black and white stripes running from the nose to the shoulders.</description>
+    </item>
+    <item>
+      <title>Skunk</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/skunk/</link>
+      <pubDate>Tue, 09 Jan 2024 07:53:14 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/skunk/</guid>
+      <description>Skunks produce a very smelly spray that repels most predators. This oily, yellow liquid is produced in two glands located under the tail.</description>
+    </item>
+    <item>
+      <title>European Badger</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/european-badger/</link>
+      <pubDate>Sun, 19 Nov 2023 00:16:46 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/european-badger/</guid>
+      <description>European Badger skinned and coded by ShenTirag, with the model created by SilesianTomcat.</description>
+    </item>
+    <item>
+      <title>European Expeditions [Realistic]</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/european-expeditions/</link>
+      <pubDate>Mon, 06 Nov 2023 02:33:26 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/european-expeditions/</guid>
+      <description>A user-made expansion pack made by Hendrix!</description>
+    </item>
+    <item>
+      <title>Long-Tailed Weasel</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/long-tailed-weasel/</link>
+      <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/long-tailed-weasel/</guid>
+      <description>This is a North American weasel for ZT2. It contains 2 variants (not shown) - white and brown with light facial markings.</description>
+    </item>
+    <item>
+      <title>Pine Marten</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/pine-marten/</link>
+      <pubDate>Tue, 18 Jul 2023 17:30:46 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/pine-marten/</guid>
+      <description>A small boreal forest mustelid.</description>
+    </item>
+  </channel>
+</rss>

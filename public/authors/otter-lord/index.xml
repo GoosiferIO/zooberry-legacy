@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Otter Lord on ZooBerry</title><link>https://www.zooberry.org/authors/otter-lord/</link><description>Recent content in Otter Lord on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2024 20:00:00 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/authors/otter-lord/index.xml" rel="self" type="application/rss+xml"/><item><title>Asian Pack Part 1</title><link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/asian-pack-p1/</link><pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/asian-pack-p1/</guid><description>Includes the Clouded Leopard, Malayan Tapir, and Malayan Sun Bear as part of the Asia Pack.</description></item><item><title>Cross Jellyfish</title><link>https://www.zooberry.org/mods/zt2/animals/living/cross-jellyfish/</link><pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/cross-jellyfish/</guid><description>This jelly is commonly seen in Monterey Bay during spring and summer, sometimes in large groups.</description></item><item><title>Alpine Geological Model</title><link>https://www.zooberry.org/mods/zt2/objects/zootilities/alpine-geological-model/</link><pubDate>Sat, 05 Aug 2023 14:43:21 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/zootilities/alpine-geological-model/</guid><description>Designed by Otter Lord</description></item><item><title>Atlantis Viewing Area</title><link>https://www.zooberry.org/mods/zt2/objects/canopies/atlantis-viewing-area/</link><pubDate>Sat, 05 Aug 2023 13:45:43 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/canopies/atlantis-viewing-area/</guid><description>An Atlantis-themed viewing canopy.</description></item><item><title>African Civet and Giant Eland</title><link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/african-civet-and-giant-eland/</link><pubDate>Sat, 22 Jul 2023 09:11:31 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/african-civet-and-giant-eland/</guid><description>A Civet from the tropics of Africa, Biome is Tropical Rainforest and Savannah. Giant Eland is one of the largest antelope in the world, lives in the Savannahs of East Africa.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Otter Lord on ZooBerry</title>
+    <link>http://localhost:1313/authors/otter-lord/</link>
+    <description>Recent content in Otter Lord on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Nov 2024 20:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/otter-lord/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asian Pack Part 1</title>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/asian-pack-p1/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/asian-pack-p1/</guid>
+      <description>Includes the Clouded Leopard, Malayan Tapir, and Malayan Sun Bear as part of the Asia Pack.</description>
+    </item>
+    <item>
+      <title>Cross Jellyfish</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/cross-jellyfish/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/cross-jellyfish/</guid>
+      <description>This jelly is commonly seen in Monterey Bay during spring and summer, sometimes in large groups.</description>
+    </item>
+    <item>
+      <title>Alpine Geological Model</title>
+      <link>http://localhost:1313/mods/zt2/objects/zootilities/alpine-geological-model/</link>
+      <pubDate>Sat, 05 Aug 2023 14:43:21 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/zootilities/alpine-geological-model/</guid>
+      <description>Designed by Otter Lord</description>
+    </item>
+    <item>
+      <title>Atlantis Viewing Area</title>
+      <link>http://localhost:1313/mods/zt2/objects/canopies/atlantis-viewing-area/</link>
+      <pubDate>Sat, 05 Aug 2023 13:45:43 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/canopies/atlantis-viewing-area/</guid>
+      <description>An Atlantis-themed viewing canopy.</description>
+    </item>
+    <item>
+      <title>African Civet and Giant Eland</title>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/african-civet-and-giant-eland/</link>
+      <pubDate>Sat, 22 Jul 2023 09:11:31 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/african-civet-and-giant-eland/</guid>
+      <description>A Civet from the tropics of Africa, Biome is Tropical Rainforest and Savannah. Giant Eland is one of the largest antelope in the world, lives in the Savannahs of East Africa.</description>
+    </item>
+  </channel>
+</rss>

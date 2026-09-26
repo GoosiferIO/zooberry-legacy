@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hyena Girl on ZooBerry</title><link>https://www.zooberry.org/authors/hyena-girl/</link><description>Recent content in Hyena Girl on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 25 Jan 2025 03:00:00 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/hyena-girl/index.xml" rel="self" type="application/rss+xml"/><item><title>South African Template Map</title><link>https://www.zooberry.org/mods/zt2/maps/south-african-map/</link><pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/maps/south-african-map/</guid><description>A relatively flat expanse of savannah with no foliage, no trees and no rocks. Made from the small savannah map. Should work without expansions.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hyena Girl on ZooBerry</title>
+    <link>http://localhost:1313/authors/hyena-girl/</link>
+    <description>Recent content in Hyena Girl on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jan 2025 03:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/hyena-girl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>South African Template Map</title>
+      <link>http://localhost:1313/mods/zt2/maps/south-african-map/</link>
+      <pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/maps/south-african-map/</guid>
+      <description>A relatively flat expanse of savannah with no foliage, no trees and no rocks. Made from the small savannah map. Should work without expansions.</description>
+    </item>
+  </channel>
+</rss>

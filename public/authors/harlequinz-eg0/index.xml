@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Harlequinz Eg0 on ZooBerry</title><link>https://www.zooberry.org/authors/harlequinz-eg0/</link><description>Recent content in Harlequinz Eg0 on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 26 Jun 2024 14:38:31 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/harlequinz-eg0/index.xml" rel="self" type="application/rss+xml"/><item><title>Dependency Master File</title><link>https://www.zooberry.org/mods/zt2/tools-utilities/dependency-master-file/</link><pubDate>Wed, 26 Jun 2024 14:38:31 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/tools-utilities/dependency-master-file/</guid><description>This is a compilation of common dependencies (required downloads) for ZT2 usermade animals.</description></item><item><title>Lego's Revamped Biome System</title><link>https://www.zooberry.org/mods/zt2/tools-utilities/legos-revamped-biome-system/</link><pubDate>Fri, 19 Jan 2024 14:38:31 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/tools-utilities/legos-revamped-biome-system/</guid><description>This is the second version of the biome system, which allows designers to create biomes with different codenames, instead of using a pre-defined and numbered registry.</description></item><item><title>Biome Shell</title><link>https://www.zooberry.org/mods/zt2/tools-utilities/biome-shell/</link><pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/tools-utilities/biome-shell/</guid><description>Alternatives have been released over the years, but this was the original modified biome system for Zoo Tycoon 2.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harlequinz Eg0 on ZooBerry</title>
+    <link>http://localhost:1313/authors/harlequinz-eg0/</link>
+    <description>Recent content in Harlequinz Eg0 on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jun 2024 14:38:31 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/harlequinz-eg0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dependency Master File</title>
+      <link>http://localhost:1313/mods/zt2/tools-utilities/dependency-master-file/</link>
+      <pubDate>Wed, 26 Jun 2024 14:38:31 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/tools-utilities/dependency-master-file/</guid>
+      <description>This is a compilation of common dependencies (required downloads) for ZT2 usermade animals.</description>
+    </item>
+    <item>
+      <title>Lego&#39;s Revamped Biome System</title>
+      <link>http://localhost:1313/mods/zt2/tools-utilities/legos-revamped-biome-system/</link>
+      <pubDate>Fri, 19 Jan 2024 14:38:31 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/tools-utilities/legos-revamped-biome-system/</guid>
+      <description>This is the second version of the biome system, which allows designers to create biomes with different codenames, instead of using a pre-defined and numbered registry.</description>
+    </item>
+    <item>
+      <title>Biome Shell</title>
+      <link>http://localhost:1313/mods/zt2/tools-utilities/biome-shell/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/tools-utilities/biome-shell/</guid>
+      <description>Alternatives have been released over the years, but this was the original modified biome system for Zoo Tycoon 2.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reflaco on ZooBerry</title><link>https://www.zooberry.org/authors/reflaco/</link><description>Recent content in Reflaco on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2025 11:00:00 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/reflaco/index.xml" rel="self" type="application/rss+xml"/><item><title>Celebration Zoo Save File</title><link>https://www.zooberry.org/mods/zt2/save-files/celebration-zoo/</link><pubDate>Tue, 28 Jan 2025 11:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/save-files/celebration-zoo/</guid><description>Its a five star zoo for almost year and a half&amp;hellip; has every animal except black leopard&amp;hellip; hope you like it!</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reflaco on ZooBerry</title>
+    <link>http://localhost:1313/authors/reflaco/</link>
+    <description>Recent content in Reflaco on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2025 11:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/reflaco/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Celebration Zoo Save File</title>
+      <link>http://localhost:1313/mods/zt2/save-files/celebration-zoo/</link>
+      <pubDate>Tue, 28 Jan 2025 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/save-files/celebration-zoo/</guid>
+      <description>Its a five star zoo for almost year and a half&amp;hellip; has every animal except black leopard&amp;hellip; hope you like it!</description>
+    </item>
+  </channel>
+</rss>

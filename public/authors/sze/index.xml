@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SZE on ZooBerry</title><link>https://www.zooberry.org/authors/sze/</link><description>Recent content in SZE on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 21 Jun 2024 15:12:43 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/sze/index.xml" rel="self" type="application/rss+xml"/><item><title>SZE Carnivore House</title><link>https://www.zooberry.org/mods/zt2/objects/building-kits/sze-carnivore-house/</link><pubDate>Fri, 21 Jun 2024 15:12:43 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/building-kits/sze-carnivore-house/</guid><description>Summary of the Sze Carnivore House project</description></item><item><title>SZE Basic Pack</title><link>https://www.zooberry.org/mods/zt2/objects/building-kits/sze-basic-pack/</link><pubDate>Fri, 21 Jun 2024 15:09:32 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/building-kits/sze-basic-pack/</guid><description>Basic Pack by SZE was a an assortment of resource files that serve as a basis for SZE&amp;rsquo;s other mods.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SZE on ZooBerry</title>
+    <link>http://localhost:1313/authors/sze/</link>
+    <description>Recent content in SZE on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Jun 2024 15:12:43 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/sze/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SZE Carnivore House</title>
+      <link>http://localhost:1313/mods/zt2/objects/building-kits/sze-carnivore-house/</link>
+      <pubDate>Fri, 21 Jun 2024 15:12:43 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/building-kits/sze-carnivore-house/</guid>
+      <description>Summary of the Sze Carnivore House project</description>
+    </item>
+    <item>
+      <title>SZE Basic Pack</title>
+      <link>http://localhost:1313/mods/zt2/objects/building-kits/sze-basic-pack/</link>
+      <pubDate>Fri, 21 Jun 2024 15:09:32 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/building-kits/sze-basic-pack/</guid>
+      <description>Basic Pack by SZE was a an assortment of resource files that serve as a basis for SZE&amp;rsquo;s other mods.</description>
+    </item>
+  </channel>
+</rss>

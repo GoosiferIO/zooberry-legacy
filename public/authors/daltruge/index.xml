@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Daltruge on ZooBerry</title><link>https://www.zooberry.org/authors/daltruge/</link><description>Recent content in Daltruge on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2024 16:00:00 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/authors/daltruge/index.xml" rel="self" type="application/rss+xml"/><item><title>Coyote II</title><link>https://www.zooberry.org/mods/zt2/animals/living/coyote-ii/</link><pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/coyote-ii/</guid><description>A Cute playful Coyote From the Deserts of North-America, they like to chase their tale, grooming themselves and drinking water. A great option for your zoos ES Required.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daltruge on ZooBerry</title>
+    <link>http://localhost:1313/authors/daltruge/</link>
+    <description>Recent content in Daltruge on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Nov 2024 16:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/daltruge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coyote II</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/coyote-ii/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/coyote-ii/</guid>
+      <description>A Cute playful Coyote From the Deserts of North-America, they like to chase their tale, grooming themselves and drinking water. A great option for your zoos ES Required.</description>
+    </item>
+  </channel>
+</rss>

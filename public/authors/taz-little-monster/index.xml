@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Taz Little Monster on ZooBerry</title><link>https://www.zooberry.org/authors/taz-little-monster/</link><description>Recent content in Taz Little Monster on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 13 Nov 2023 00:44:58 -0800</lastBuildDate><atom:link href="https://www.zooberry.org/authors/taz-little-monster/index.xml" rel="self" type="application/rss+xml"/><item><title>Stainless Steel Table</title><link>https://www.zooberry.org/mods/zt2/objects/scenery/stainless-steel-table/</link><pubDate>Mon, 13 Nov 2023 00:44:58 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/scenery/stainless-steel-table/</guid><description>A stainless steel table made by Taz Little Monster.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taz Little Monster on ZooBerry</title>
+    <link>http://localhost:1313/authors/taz-little-monster/</link>
+    <description>Recent content in Taz Little Monster on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Nov 2023 00:44:58 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/taz-little-monster/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stainless Steel Table</title>
+      <link>http://localhost:1313/mods/zt2/objects/scenery/stainless-steel-table/</link>
+      <pubDate>Mon, 13 Nov 2023 00:44:58 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/scenery/stainless-steel-table/</guid>
+      <description>A stainless steel table made by Taz Little Monster.</description>
+    </item>
+  </channel>
+</rss>

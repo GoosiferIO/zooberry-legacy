@@ -1,1 +1,89 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gibbon-Fanatic on ZooBerry</title><link>https://www.zooberry.org/authors/gibbon-fanatic/</link><description>Recent content in Gibbon-Fanatic on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2025 11:00:00 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/gibbon-fanatic/index.xml" rel="self" type="application/rss+xml"/><item><title>Gibbon Fanatic's Staff Making Tutorial</title><link>https://www.zooberry.org/mods/zt2/tutorials/gibbon-fanatics-staff-making-tutorial/</link><pubDate>Tue, 28 Jan 2025 11:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/tutorials/gibbon-fanatics-staff-making-tutorial/</guid><description>Here it is - finally.</description></item><item><title>Guide to Making Fences for ZT2</title><link>https://www.zooberry.org/mods/zt2/tutorials/guide-to-making-fences-for-zt2/</link><pubDate>Tue, 28 Jan 2025 11:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/tutorials/guide-to-making-fences-for-zt2/</guid><description>Updated version of my guide to making fences - updated for use with the ES and for making the windows on the fences transparent.</description></item><item><title>Adelaide Zoo Staff</title><link>https://www.zooberry.org/mods/zt2/texture-mods/misc-reskins/adelaide-zoo-staff/</link><pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/misc-reskins/adelaide-zoo-staff/</guid><description>Reskins the zookeepers to wear uniforms with the Adelaide Zoo logo.</description></item><item><title>Zoo Admin Tribute Staff</title><link>https://www.zooberry.org/mods/zt2/texture-mods/misc-reskins/zooadmin-tribute-staff/</link><pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/misc-reskins/zooadmin-tribute-staff/</guid><description>This replaces your current Zookeeper outfit with a new one emblazoned with the WWF logo.</description></item><item><title>Food Realism Hack</title><link>https://www.zooberry.org/mods/zt2/hacks/food-realism-hack/</link><pubDate>Fri, 17 Jan 2025 13:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/hacks/food-realism-hack/</guid><description>Adds realistic food options, such as raw shrimp for flamingos.</description></item><item><title>Alpine Pack</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/alpine-pack/</link><pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/alpine-pack/</guid><description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description></item><item><title>Desert Pack</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/desert-pack/</link><pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/desert-pack/</guid><description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description></item><item><title>Savannah Pack</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/savannah-pack/</link><pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/savannah-pack/</guid><description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description></item><item><title>Temperate Forest Pack</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/temperate-forest-pack/</link><pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/temperate-forest-pack/</guid><description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description></item><item><title>Gibbon Pack</title><link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/gibbon-pack/</link><pubDate>Sat, 30 Dec 2023 17:10:39 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/gibbon-pack/</guid><description>A pack of three different gibbons to bring some variety to your zoos&amp;rsquo; primate sections.</description></item><item><title>Glass Fence</title><link>https://www.zooberry.org/mods/zt2/objects/fences/glass-fence/</link><pubDate>Thu, 03 Aug 2023 06:34:32 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/fences/glass-fence/</guid><description>This is the an all glass fence created by Gibbon-Fanatic with help from Penguinman. Enjoy!</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gibbon-Fanatic on ZooBerry</title>
+    <link>http://localhost:1313/authors/gibbon-fanatic/</link>
+    <description>Recent content in Gibbon-Fanatic on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2025 11:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/gibbon-fanatic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gibbon Fanatic&#39;s Staff Making Tutorial</title>
+      <link>http://localhost:1313/mods/zt2/tutorials/gibbon-fanatics-staff-making-tutorial/</link>
+      <pubDate>Tue, 28 Jan 2025 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/tutorials/gibbon-fanatics-staff-making-tutorial/</guid>
+      <description>Here it is - finally.</description>
+    </item>
+    <item>
+      <title>Guide to Making Fences for ZT2</title>
+      <link>http://localhost:1313/mods/zt2/tutorials/guide-to-making-fences-for-zt2/</link>
+      <pubDate>Tue, 28 Jan 2025 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/tutorials/guide-to-making-fences-for-zt2/</guid>
+      <description>Updated version of my guide to making fences - updated for use with the ES and for making the windows on the fences transparent.</description>
+    </item>
+    <item>
+      <title>Adelaide Zoo Staff</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/misc-reskins/adelaide-zoo-staff/</link>
+      <pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/misc-reskins/adelaide-zoo-staff/</guid>
+      <description>Reskins the zookeepers to wear uniforms with the Adelaide Zoo logo.</description>
+    </item>
+    <item>
+      <title>Zoo Admin Tribute Staff</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/misc-reskins/zooadmin-tribute-staff/</link>
+      <pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/misc-reskins/zooadmin-tribute-staff/</guid>
+      <description>This replaces your current Zookeeper outfit with a new one emblazoned with the WWF logo.</description>
+    </item>
+    <item>
+      <title>Food Realism Hack</title>
+      <link>http://localhost:1313/mods/zt2/hacks/food-realism-hack/</link>
+      <pubDate>Fri, 17 Jan 2025 13:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/hacks/food-realism-hack/</guid>
+      <description>Adds realistic food options, such as raw shrimp for flamingos.</description>
+    </item>
+    <item>
+      <title>Alpine Pack</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/alpine-pack/</link>
+      <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/alpine-pack/</guid>
+      <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
+    </item>
+    <item>
+      <title>Desert Pack</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/desert-pack/</link>
+      <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/desert-pack/</guid>
+      <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
+    </item>
+    <item>
+      <title>Savannah Pack</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/savannah-pack/</link>
+      <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/savannah-pack/</guid>
+      <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
+    </item>
+    <item>
+      <title>Temperate Forest Pack</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/temperate-forest-pack/</link>
+      <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/temperate-forest-pack/</guid>
+      <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
+    </item>
+    <item>
+      <title>Gibbon Pack</title>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/gibbon-pack/</link>
+      <pubDate>Sat, 30 Dec 2023 17:10:39 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/gibbon-pack/</guid>
+      <description>A pack of three different gibbons to bring some variety to your zoos&amp;rsquo; primate sections.</description>
+    </item>
+    <item>
+      <title>Glass Fence</title>
+      <link>http://localhost:1313/mods/zt2/objects/fences/glass-fence/</link>
+      <pubDate>Thu, 03 Aug 2023 06:34:32 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/fences/glass-fence/</guid>
+      <description>This is the an all glass fence created by Gibbon-Fanatic with help from Penguinman. Enjoy!</description>
+    </item>
+  </channel>
+</rss>

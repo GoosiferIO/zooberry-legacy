@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bill on ZooBerry</title><link>https://www.zooberry.org/authors/bill/</link><description>Recent content in Bill on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 26 Jun 2024 14:38:31 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/bill/index.xml" rel="self" type="application/rss+xml"/><item><title>Dependency Master File</title><link>https://www.zooberry.org/mods/zt2/tools-utilities/dependency-master-file/</link><pubDate>Wed, 26 Jun 2024 14:38:31 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/tools-utilities/dependency-master-file/</guid><description>This is a compilation of common dependencies (required downloads) for ZT2 usermade animals.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bill on ZooBerry</title>
+    <link>http://localhost:1313/authors/bill/</link>
+    <description>Recent content in Bill on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jun 2024 14:38:31 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/bill/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dependency Master File</title>
+      <link>http://localhost:1313/mods/zt2/tools-utilities/dependency-master-file/</link>
+      <pubDate>Wed, 26 Jun 2024 14:38:31 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/tools-utilities/dependency-master-file/</guid>
+      <description>This is a compilation of common dependencies (required downloads) for ZT2 usermade animals.</description>
+    </item>
+  </channel>
+</rss>
