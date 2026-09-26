@@ -29,8 +29,9 @@
         <div class="box-card-mods-img">
             {{/*  get spepcified image in thumbnail field, else first image from images folder in this bundle */}}
             {{ $thumbnail := "" }}
-            {{ with .Params.thumbnail }}
-                {{ with $.Resources.GetMatch . }}
+            {{ if .Params.thumbnail }}
+                {{ $image := .Resources.GetMatch .Params.thumbnail }}
+                {{ with $image }}
                     {{ $processedImage := .Fill "300x200 center" }}
                     {{ $thumbnail = $processedImage.RelPermalink }}
                 {{ end }}

@@ -3,7 +3,7 @@
     {{ $images := .Resources.Match "images/*.{jpg,png,webp,gif}" }}
     {{ $cdn := .Site.Params.cdn }}
     {{ range $images }}
-        {{ if not (strings.Contains .Name "_thumb.jpg") }}
+        {{ if not (strings.Contains (lower .Name) "thumb") }}
             {{ $imageURL := path.Join $.Site.Params.cdnfs $.RelPermalink "" (. | relURL) }}
             <a href="{{ $cdn }}{{ $imageURL }}"><img src="{{ $cdn }}{{ $imageURL }}" data-title="{{ $.Params.Title }}" data-description="{{ $.Params.summary }}"></a>
         {{ end }}
