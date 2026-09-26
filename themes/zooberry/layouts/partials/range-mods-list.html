@@ -30,10 +30,12 @@
             {{/*  get spepcified image in thumbnail field, else first image from images folder in this bundle */}}
             {{ $thumbnail := "" }}
             {{ with .Params.thumbnail }}
-                {{ $thumbnail = .Fill "300x200 center" }}
-                {{ $thumbnail = $thumbnail.RelPermalink }}
+                {{ with $.Resources.GetMatch . }}
+                    {{ $processedImage := .Fill "300x200 center" }}
+                    {{ $thumbnail = $processedImage.RelPermalink }}
+                {{ end }}
             {{ else }}
-                {{ with (.Resources.GetMatch "images/*") }}
+                {{ with .Resources.GetMatch "images/*" }}
                     {{ $processedImage := .Fill "300x200 center" }}
                     {{ $thumbnail = $processedImage.RelPermalink }}
                 {{ end }}
