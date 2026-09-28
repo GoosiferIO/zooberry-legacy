@@ -36,3 +36,10 @@ Adds one of Africa's oldest known dinosaurs for adoption in your zoo, a medium s
 There are two versions of the mod available, one having more accurate habitat and foliage needs, similar in concept to a lot of realism patches that exist, as well as an alternate version that tries to stick closely to the strange requirements of the original Dinosaur Digs roster.
 
 This mod is part of a series that attempts to 'de-make' more recent roster additions to the Zoo Tycoon series in a way where they fit into the original game design wise.
+
+# Credits
+
+- Jurassic World Play for the original model and sounds.
+- JPOG for the rig and various animations.
+- Zoo Tycoon board game for the original design and idea.
+- Serpyderpy for rendering and creating the animal, making new animations, editing textures, the plaque, the icons, all the usual stuff.
