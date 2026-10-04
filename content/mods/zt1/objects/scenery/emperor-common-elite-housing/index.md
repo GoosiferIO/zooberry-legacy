@@ -53,8 +53,3 @@ Tile: Common Housing:2x2; Elite Housing:5x5, Water placeable, Exhibit placeable(
 - Emperor Plain Cottage
 - Emperor Shelter
 - Emperor Spacious Dwelling
-
-# Contents
-
-- Emperor Rock Cliff 1
-- Emperor Rock Cliff 2
