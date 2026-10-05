@@ -5,7 +5,6 @@
     float: right;
     background-color: var(--tbody-bg);
     position: sticky;
-    overflow-y: auto;
     border-radius: 0.5rem;
 }
 
@@ -15,7 +14,6 @@
     flex-direction: column;
     float: right;
     position: sticky;
-    overflow-y: auto;
     overflow-x:hidden;
     border-radius: 0.5rem;
 }
@@ -110,12 +108,22 @@ div.sidebar_r-inner a.button-dft {
 }
 
 .sidebar_r, .sidebar_r-a {
-    --sidebar-gap: 1.5rem;
-    --sidebar-top: calc(4rem + 1px + var(--sidebar-gap));
+    --sidebar-top: calc(4rem + 1px + 2rem);
+    --sidebar-gap: 2rem;
+    position: sticky;
     top: var(--sidebar-top);
     align-self: flex-start;
-    max-height: calc(100vh - var(--sidebar-top) - var(--sidebar-gap));
-    max-height: calc(100dvh - var(--sidebar-top) - var(--sidebar-gap));
+    overflow-y: auto;
     overscroll-behavior: contain;
     scrollbar-width: thin;
+    scrollbar-color: transparent transparent;
+    transition: scrollbar-color 0.2s ease;
+}
+
+.sidebar_r-a { max-height: calc(100vh - var(--sidebar-top) - var(--sidebar-gap)); }
+.sidebar_r   { max-height: calc(100vh - var(--sidebar-top) - var(--sidebar-gap) - 4rem); }
+
+.sidebar_r:hover, .sidebar_r-a:hover,
+.sidebar_r:focus-within, .sidebar_r-a:focus-within {
+    scrollbar-color: var(--accent-bg) transparent;
 }

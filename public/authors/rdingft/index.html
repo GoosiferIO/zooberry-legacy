@@ -41,7 +41,7 @@
 
 
 
-    <link rel="stylesheet" href="/css/styles.11694eb25bee64111200d7471936bf7164b3ebe0e5a361664c8c9f4cf25e1543.css">
+    <link rel="stylesheet" href="/css/styles.b761de200476316a20485d1d3fbf07c5b22254d05a2cc8f1c67a2ade14218b16.css">
     <link rel="stylesheet" href="/css/galleria.classic.1c47c737312afe1bf3a6d8cc89d926b042c7f5ea791b089e1ecda053924f32a2.css">
     <script src="/js/jquery.js"></script>
     <script src="/js/galleria.js"></script>
@@ -2245,5 +2245,36 @@
           });
         });
       </script>
+    <script>
+        (function () {
+            var bar = document.querySelector('.sidebar_r, .sidebar_r-a');
+            if (!bar) return;
+            var ticking = false;
+
+            function fit() {
+                ticking = false;
+                var cs = getComputedStyle(bar);
+                var top = parseFloat(cs.top) || 0;
+                var gap = parseFloat(cs.getPropertyValue('--sidebar-gap')) * parseFloat(getComputedStyle(document.documentElement).fontSize) || 32;
+                var frame = parseFloat(cs.paddingTop) + parseFloat(cs.paddingBottom) +
+                            parseFloat(cs.borderTopWidth) + parseFloat(cs.borderBottomWidth);
+                var parent = bar.parentElement;
+                var pcs = getComputedStyle(parent);
+                var columnEnd = parent.getBoundingClientRect().bottom -
+                                parseFloat(pcs.paddingBottom) - parseFloat(pcs.borderBottomWidth);
+                var bottom = Math.min(window.innerHeight - gap, columnEnd);
+                bar.style.maxHeight = Math.max(160, bottom - top - frame) + 'px';
+            }
+
+            function schedule() {
+                if (!ticking) { ticking = true; window.requestAnimationFrame(fit); }
+            }
+
+            window.addEventListener('scroll', schedule, { passive: true });
+            window.addEventListener('resize', schedule);
+            window.addEventListener('load', schedule);
+            fit();
+        })();
+    </script>
   </body>
 </html>

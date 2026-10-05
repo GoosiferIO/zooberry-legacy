@@ -91,5 +91,36 @@
           });
         });
       </script>
+    <script>
+        (function () {
+            var bar = document.querySelector('.sidebar_r, .sidebar_r-a');
+            if (!bar) return;
+            var ticking = false;
+
+            function fit() {
+                ticking = false;
+                var cs = getComputedStyle(bar);
+                var top = parseFloat(cs.top) || 0;
+                var gap = parseFloat(cs.getPropertyValue('--sidebar-gap')) * parseFloat(getComputedStyle(document.documentElement).fontSize) || 32;
+                var frame = parseFloat(cs.paddingTop) + parseFloat(cs.paddingBottom) +
+                            parseFloat(cs.borderTopWidth) + parseFloat(cs.borderBottomWidth);
+                var parent = bar.parentElement;
+                var pcs = getComputedStyle(parent);
+                var columnEnd = parent.getBoundingClientRect().bottom -
+                                parseFloat(pcs.paddingBottom) - parseFloat(pcs.borderBottomWidth);
+                var bottom = Math.min(window.innerHeight - gap, columnEnd);
+                bar.style.maxHeight = Math.max(160, bottom - top - frame) + 'px';
+            }
+
+            function schedule() {
+                if (!ticking) { ticking = true; window.requestAnimationFrame(fit); }
+            }
+
+            window.addEventListener('scroll', schedule, { passive: true });
+            window.addEventListener('resize', schedule);
+            window.addEventListener('load', schedule);
+            fit();
+        })();
+    </script>
   </body>
 </html>
