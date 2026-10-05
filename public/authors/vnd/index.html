@@ -41,7 +41,7 @@
 
 
 
-    <link rel="stylesheet" href="/css/styles.473d2b53bc1af68f6d0bb24532f9b47b9e6a844253698c0f4c2f1e2bff7c0737.css">
+    <link rel="stylesheet" href="/css/styles.11694eb25bee64111200d7471936bf7164b3ebe0e5a361664c8c9f4cf25e1543.css">
     <link rel="stylesheet" href="/css/galleria.classic.1c47c737312afe1bf3a6d8cc89d926b042c7f5ea791b089e1ecda053924f32a2.css">
     <script src="/js/jquery.js"></script>
     <script src="/js/galleria.js"></script>
@@ -109,6 +109,7 @@
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         background: url('https://cdn.goosifer.io/2.0/images/bear.webp') no-repeat top -2rem right -6rem / 50% !important;
         text-shadow: 0 0 10px var(--primary-bg);
+        border-radius: 0.5rem;
       }
     
     </style>
@@ -696,12 +697,22 @@
 
 
 
+
+
     
     
         
     
+        
+    
+        
+    
+        
+    
 
-<div style="display: flex; flex-direction: column; margin: 2rem 0; width:100%;">
+
+
+<div class="profile-page">
     <nav aria-label="breadcrumbs">
   <div class="breadcrumbs">
     
@@ -738,52 +749,162 @@
   </div>
 </nav>
   
-    <h1 style="margin:0;">VND</h1>
-    <p style="margin:0;padding:0;"><i class="material-icons icon">extension</i> 7 Mods Published</p>
 
-    <div class="banner-box" style="margin: 2rem 0; width: 100%; background: center center / cover no-repeat url('https://cdn.goosifer.io/2.0//mods/zt2/remakes/animals/jaguar-remake-ii/images/aBefore.webp'); height: 300px;">
+    <section class="profile-card" aria-labelledby="profile-name">
+        <header class="profile-head">
+            <h1 id="profile-name" class="profile-name">VND</h1>
+            <p class="profile-summary">
+                <span><strong>7</strong> mods</span>
+                <span>Active 2011–2026</span>
+                <span>ZT1 <strong>6</strong></span><span>ZT2 <strong>1</strong></span>
+            </p>
+        </header>
 
-    </div>
-    <div style="display: flex; flex-direction: row;width: 100%;">
-        <div style="margin-right: 2rem;">
-
-            <p><h1 style="margin-top:-1rem;padding:0;">Mods Published</h1> 
+        
+        <section class="profile-highlights" aria-labelledby="highlights-title">
+            <h2 id="highlights-title" class="profile-section-title">Featured</h2>
+            <ul class="profile-highlight-list" data-highlights>
                 
                 
+                <li class="profile-highlight" >
+                    <a href="/mods/zt2/remakes/animals/jaguar-remake-ii/">
+                        <img src="https://cdn.goosifer.io/2.0//mods/zt2/remakes/animals/jaguar-remake-ii/images/aBefore_hu_35d94698e4f88321.webp" width="300" height="200" alt="" loading="lazy" decoding="async">
+                        <span class="profile-highlight-text">
+                            <span class="profile-highlight-title">Jaguar Remake II</span>
+                            <span class="profile-highlight-meta">Zoo Tycoon 2 · 2011</span>
+                        </span>
+                    </a>
+                </li>
+                
+                
+                <li class="profile-highlight" >
+                    <a href="/mods/zt1/texture-mods/palette-edits-pacific-giant-octopus/">
+                        <img src="https://cdn.goosifer.io/2.0//mods/zt1/texture-mods/palette-edits-pacific-giant-octopus/images/OctoThumb_hu_cbf7ca1a2e7b159f.gif" width="300" height="200" alt="" loading="lazy" decoding="async">
+                        <span class="profile-highlight-text">
+                            <span class="profile-highlight-title">Palette Edits: Pacific Giant Octopus</span>
+                            <span class="profile-highlight-meta">Zoo Tycoon 1 · 2026</span>
+                        </span>
+                    </a>
+                </li>
+                
+                
+                <li class="profile-highlight" >
+                    <a href="/mods/zt1/texture-mods/sea-otter-patch/">
+                        <img src="https://cdn.goosifer.io/2.0//mods/zt1/texture-mods/sea-otter-patch/images/ReleaseThumbnail_hu_5ebe32932dc74bf0.webp" width="300" height="200" alt="" loading="lazy" decoding="async">
+                        <span class="profile-highlight-text">
+                            <span class="profile-highlight-title">Sea Otter Patch</span>
+                            <span class="profile-highlight-meta">Zoo Tycoon 1 · 2026</span>
+                        </span>
+                    </a>
+                </li>
+                
+                
+                <li class="profile-highlight" >
+                    <a href="/mods/zt1/texture-mods/palette-edits-grizzly-bear/">
+                        <img src="https://cdn.goosifer.io/2.0//mods/zt1/texture-mods/palette-edits-grizzly-bear/images/thumb_hu_93bc503b7e1ac50d.webp" width="300" height="200" alt="" loading="lazy" decoding="async">
+                        <span class="profile-highlight-text">
+                            <span class="profile-highlight-title">Palette Edits: Grizzly Bear</span>
+                            <span class="profile-highlight-meta">Zoo Tycoon 1 · 2026</span>
+                        </span>
+                    </a>
+                </li>
+                
+            </ul>
+            <script>
+                (function () {
+                    var list = document.querySelector('[data-highlights]');
+                    if (!list) return;
+                    var items = Array.prototype.slice.call(list.children);
+                    for (var i = items.length - 1; i > 0; i--) {
+                        var j = Math.floor(Math.random() * (i + 1));
+                        var t = items[i]; items[i] = items[j]; items[j] = t;
+                    }
+                    items.forEach(function (li, n) { li.hidden = n >= 4; list.appendChild(li); });
+                })();
+            </script>
+        </section>
+        
 
-                <ul class="box-card-list">
+        <dl class="profile-facts">
+            
+            <div class="profile-fact">
+                <dt>Zoo Tycoon 1</dt>
+                <dd>
+                    <span class="profile-fact-count">6 mods</span>
                     
-                        <li class="box-card-mods">
-                            <div class="box-card-mods-img">
-                                
-                                
-                                
                     
-                                <a href="/mods/zt1/texture-mods/palette-edits-pacific-giant-octopus/">
-                                    <img src="https://cdn.goosifer.io/2.0//mods/zt1/texture-mods/palette-edits-pacific-giant-octopus/images/OctoThumb_hu_cbf7ca1a2e7b159f.gif" alt="Palette Edits: Pacific Giant Octopus">
-                                </a>
-                            </div>
-                            <div class="box-card-mods-content">
-                                    <p>
-                                    
-                                        <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
-                                    
-                                                        </p>
-                                <h2><a href="/mods/zt1/texture-mods/palette-edits-pacific-giant-octopus/">Palette Edits: Pacific Giant Octopus</a></h2>
-                                <p>by 
-                                    
-                                        
-                                    
-                                        
-                                            
-                                            
-                                                <a href="http://localhost:1313/authors/vnd">VND</a>
-                                            
-                                        
-                                    
-                                        </p>
-                                <span class="box-card-bottom">
-                                    
+                    <span class="profile-tags"><a class="badge-default" href="/mods/zt1/tags/animals/">Animals</a><a class="badge-default" href="/mods/zt1/tags/hack/">Hack</a><a class="badge-default" href="/mods/zt1/tags/hacks/">Hacks</a><a class="badge-default" href="/mods/zt1/tags/living/">Living</a><a class="badge-default" href="/mods/zt1/tags/prehistoric/">Prehistoric</a><a class="badge-default" href="/mods/zt1/tags/texture-mods/">Texture Mods</a></span>
+                    
+                </dd>
+            </div>
+            
+            <div class="profile-fact">
+                <dt>Zoo Tycoon 2</dt>
+                <dd>
+                    <span class="profile-fact-count">1 mod: <a href="/mods/zt2/remakes/animals/jaguar-remake-ii/">Jaguar Remake II</a></span>
+                    
+                    
+                    <span class="profile-tags"><a class="badge-default" href="/mods/zt2/tags/all-remakes/">All Remakes</a><a class="badge-default" href="/mods/zt2/tags/animal-remakes/">Animal Remakes</a></span>
+                    
+                </dd>
+            </div>
+            
+            
+            <div class="profile-fact">
+                <dt>Originally on</dt>
+                <dd><span class="profile-tags"><a class="badge-default" href="/archives/northern-skies/">Northern Skies</a><a class="badge-default" href="/archives/zooberry/">ZooBerry</a></span></dd>
+            </div>
+            
+            
+            <div class="profile-fact">
+                <dt>Collaborators</dt>
+                <dd><span class="profile-tags"><a class="badge-default" href="/authors/buffzoo/">Buffzoo</a></span></dd>
+            </div>
+            
+            
+            <div class="profile-fact">
+                <dt>Languages</dt>
+                <dd class="profile-tags"><span class="badge-default">English</span></dd>
+            </div>
+            
+        </dl>
+    </section>
+
+    <section class="profile-mods" aria-labelledby="mods-title">
+        <h2 id="mods-title" class="profile-section-title">All mods <span>(7)</span></h2>
+        
+        
+        <ul class="box-card-list">
+            
+            <li class="box-card-mods">
+                <div class="box-card-mods-img">
+                    
+                    
+                    <a href="/mods/zt1/texture-mods/palette-edits-pacific-giant-octopus/">
+                        <img src="https://cdn.goosifer.io/2.0//mods/zt1/texture-mods/palette-edits-pacific-giant-octopus/images/OctoThumb_hu_cbf7ca1a2e7b159f.gif" alt="Palette Edits: Pacific Giant Octopus" loading="lazy" decoding="async">
+                    </a>
+                </div>
+                <div class="box-card-mods-content">
+                    <p>
+                    
+                        <a href="/mods/zt1/tags/all/">Zoo Tycoon 1</a>
+                    
+                    </p>
+                    <h2><a href="/mods/zt1/texture-mods/palette-edits-pacific-giant-octopus/">Palette Edits: Pacific Giant Octopus</a></h2>
+                    <p>by
+                    
+                    
+                    
+                        
+                            
+                            
+                                <a href="/authors/vnd/">VND</a>
+                            
+                        
+                    
+                    </p>
+                    <span class="box-card-bottom">
+                        
 
 
 
@@ -792,42 +913,40 @@
     Texture Mods
 </span>
 
-                                    <span class="box-card-date">4 Oct 2026</span>
-                                </span>
-                            </div>
-                        </li>
+                        <span class="box-card-date">4 Oct 2026</span>
+                    </span>
+                </div>
+            </li>
+            
+            <li class="box-card-mods">
+                <div class="box-card-mods-img">
                     
-                        <li class="box-card-mods">
-                            <div class="box-card-mods-img">
-                                
-                                
-                                
                     
-                                <a href="/mods/zt1/texture-mods/sea-otter-patch/">
-                                    <img src="https://cdn.goosifer.io/2.0//mods/zt1/texture-mods/sea-otter-patch/images/ReleaseThumbnail_hu_5ebe32932dc74bf0.webp" alt="Sea Otter Patch">
-                                </a>
-                            </div>
-                            <div class="box-card-mods-content">
-                                    <p>
-                                    
-                                        <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
-                                    
-                                                        </p>
-                                <h2><a href="/mods/zt1/texture-mods/sea-otter-patch/">Sea Otter Patch</a></h2>
-                                <p>by 
-                                    
-                                        
-                                    
-                                        
-                                            
-                                            
-                                                <a href="http://localhost:1313/authors/vnd">VND</a>
-                                            
-                                        
-                                    
-                                        </p>
-                                <span class="box-card-bottom">
-                                    
+                    <a href="/mods/zt1/texture-mods/sea-otter-patch/">
+                        <img src="https://cdn.goosifer.io/2.0//mods/zt1/texture-mods/sea-otter-patch/images/ReleaseThumbnail_hu_5ebe32932dc74bf0.webp" alt="Sea Otter Patch" loading="lazy" decoding="async">
+                    </a>
+                </div>
+                <div class="box-card-mods-content">
+                    <p>
+                    
+                        <a href="/mods/zt1/tags/all/">Zoo Tycoon 1</a>
+                    
+                    </p>
+                    <h2><a href="/mods/zt1/texture-mods/sea-otter-patch/">Sea Otter Patch</a></h2>
+                    <p>by
+                    
+                    
+                    
+                        
+                            
+                            
+                                <a href="/authors/vnd/">VND</a>
+                            
+                        
+                    
+                    </p>
+                    <span class="box-card-bottom">
+                        
 
 
 
@@ -836,42 +955,40 @@
     Texture Mods
 </span>
 
-                                    <span class="box-card-date">4 Oct 2026</span>
-                                </span>
-                            </div>
-                        </li>
+                        <span class="box-card-date">4 Oct 2026</span>
+                    </span>
+                </div>
+            </li>
+            
+            <li class="box-card-mods">
+                <div class="box-card-mods-img">
                     
-                        <li class="box-card-mods">
-                            <div class="box-card-mods-img">
-                                
-                                
-                                
                     
-                                <a href="/mods/zt1/texture-mods/palette-edits-grizzly-bear/">
-                                    <img src="https://cdn.goosifer.io/2.0//mods/zt1/texture-mods/palette-edits-grizzly-bear/images/thumb_hu_93bc503b7e1ac50d.webp" alt="Palette Edits: Grizzly Bear">
-                                </a>
-                            </div>
-                            <div class="box-card-mods-content">
-                                    <p>
-                                    
-                                        <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
-                                    
-                                                        </p>
-                                <h2><a href="/mods/zt1/texture-mods/palette-edits-grizzly-bear/">Palette Edits: Grizzly Bear</a></h2>
-                                <p>by 
-                                    
-                                        
-                                    
-                                        
-                                            
-                                            
-                                                <a href="http://localhost:1313/authors/vnd">VND</a>
-                                            
-                                        
-                                    
-                                        </p>
-                                <span class="box-card-bottom">
-                                    
+                    <a href="/mods/zt1/texture-mods/palette-edits-grizzly-bear/">
+                        <img src="https://cdn.goosifer.io/2.0//mods/zt1/texture-mods/palette-edits-grizzly-bear/images/thumb_hu_93bc503b7e1ac50d.webp" alt="Palette Edits: Grizzly Bear" loading="lazy" decoding="async">
+                    </a>
+                </div>
+                <div class="box-card-mods-content">
+                    <p>
+                    
+                        <a href="/mods/zt1/tags/all/">Zoo Tycoon 1</a>
+                    
+                    </p>
+                    <h2><a href="/mods/zt1/texture-mods/palette-edits-grizzly-bear/">Palette Edits: Grizzly Bear</a></h2>
+                    <p>by
+                    
+                    
+                    
+                        
+                            
+                            
+                                <a href="/authors/vnd/">VND</a>
+                            
+                        
+                    
+                    </p>
+                    <span class="box-card-bottom">
+                        
 
 
 
@@ -880,42 +997,40 @@
     Texture Mods
 </span>
 
-                                    <span class="box-card-date">4 Oct 2026</span>
-                                </span>
-                            </div>
-                        </li>
+                        <span class="box-card-date">4 Oct 2026</span>
+                    </span>
+                </div>
+            </li>
+            
+            <li class="box-card-mods">
+                <div class="box-card-mods-img">
                     
-                        <li class="box-card-mods">
-                            <div class="box-card-mods-img">
-                                
-                                
-                                
                     
-                                <a href="/mods/zt1/texture-mods/bluefin-tuna-patch/">
-                                    <img src="https://cdn.goosifer.io/2.0//mods/zt1/texture-mods/bluefin-tuna-patch/images/TunaThumbnail_hu_9ea77dc33d2a2dd7.gif" alt="Bluefin Tuna Patch">
-                                </a>
-                            </div>
-                            <div class="box-card-mods-content">
-                                    <p>
-                                    
-                                        <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
-                                    
-                                                        </p>
-                                <h2><a href="/mods/zt1/texture-mods/bluefin-tuna-patch/">Bluefin Tuna Patch</a></h2>
-                                <p>by 
-                                    
-                                        
-                                    
-                                        
-                                            
-                                            
-                                                <a href="http://localhost:1313/authors/vnd">VND</a> and <a href="http://localhost:1313/authors/buffzoo">Buffzoo</a>
-                                            
-                                        
-                                    
-                                        </p>
-                                <span class="box-card-bottom">
-                                    
+                    <a href="/mods/zt1/texture-mods/bluefin-tuna-patch/">
+                        <img src="https://cdn.goosifer.io/2.0//mods/zt1/texture-mods/bluefin-tuna-patch/images/TunaThumbnail_hu_9ea77dc33d2a2dd7.gif" alt="Bluefin Tuna Patch" loading="lazy" decoding="async">
+                    </a>
+                </div>
+                <div class="box-card-mods-content">
+                    <p>
+                    
+                        <a href="/mods/zt1/tags/all/">Zoo Tycoon 1</a>
+                    
+                    </p>
+                    <h2><a href="/mods/zt1/texture-mods/bluefin-tuna-patch/">Bluefin Tuna Patch</a></h2>
+                    <p>by
+                    
+                    
+                    
+                        
+                            
+                            
+                                <a href="/authors/vnd/">VND</a> and <a href="/authors/buffzoo/">Buffzoo</a>
+                            
+                        
+                    
+                    </p>
+                    <span class="box-card-bottom">
+                        
 
 
 
@@ -924,42 +1039,40 @@
     Texture Mods
 </span>
 
-                                    <span class="box-card-date">27 Sep 2026</span>
-                                </span>
-                            </div>
-                        </li>
+                        <span class="box-card-date">27 Sep 2026</span>
+                    </span>
+                </div>
+            </li>
+            
+            <li class="box-card-mods">
+                <div class="box-card-mods-img">
                     
-                        <li class="box-card-mods">
-                            <div class="box-card-mods-img">
-                                
-                                
-                                
                     
-                                <a href="/mods/zt1/texture-mods/palette-edits-american-bison/">
-                                    <img src="https://cdn.goosifer.io/2.0//mods/zt1/texture-mods/palette-edits-american-bison/images/BisonDimorphThumbnail_hu_3eb96d375360bf9f.png" alt="Palette Edits &amp; Dimorphism Hack: American Bison">
-                                </a>
-                            </div>
-                            <div class="box-card-mods-content">
-                                    <p>
-                                    
-                                        <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
-                                    
-                                                        </p>
-                                <h2><a href="/mods/zt1/texture-mods/palette-edits-american-bison/">Palette Edits &amp; Dimorphism Hack: American Bison</a></h2>
-                                <p>by 
-                                    
-                                        
-                                    
-                                        
-                                            
-                                            
-                                                <a href="http://localhost:1313/authors/vnd">VND</a>
-                                            
-                                        
-                                    
-                                        </p>
-                                <span class="box-card-bottom">
-                                    
+                    <a href="/mods/zt1/texture-mods/palette-edits-american-bison/">
+                        <img src="https://cdn.goosifer.io/2.0//mods/zt1/texture-mods/palette-edits-american-bison/images/BisonDimorphThumbnail_hu_3eb96d375360bf9f.png" alt="Palette Edits &amp; Dimorphism Hack: American Bison" loading="lazy" decoding="async">
+                    </a>
+                </div>
+                <div class="box-card-mods-content">
+                    <p>
+                    
+                        <a href="/mods/zt1/tags/all/">Zoo Tycoon 1</a>
+                    
+                    </p>
+                    <h2><a href="/mods/zt1/texture-mods/palette-edits-american-bison/">Palette Edits &amp; Dimorphism Hack: American Bison</a></h2>
+                    <p>by
+                    
+                    
+                    
+                        
+                            
+                            
+                                <a href="/authors/vnd/">VND</a>
+                            
+                        
+                    
+                    </p>
+                    <span class="box-card-bottom">
+                        
 
 
 
@@ -968,42 +1081,40 @@
     Texture Mods
 </span>
 
-                                    <span class="box-card-date">17 Sep 2026</span>
-                                </span>
-                            </div>
-                        </li>
+                        <span class="box-card-date">17 Sep 2026</span>
+                    </span>
+                </div>
+            </li>
+            
+            <li class="box-card-mods">
+                <div class="box-card-mods-img">
                     
-                        <li class="box-card-mods">
-                            <div class="box-card-mods-img">
-                                
-                                
-                                
                     
-                                <a href="/mods/zt1/hacks/underwater-thermals-hack/">
-                                    <img src="https://cdn.goosifer.io/2.0//mods/zt1/hacks/underwater-thermals-hack/images/thermals_hack_hu_49d433c689f2007f.webp" alt="Underwater Thermals Hack">
-                                </a>
-                            </div>
-                            <div class="box-card-mods-content">
-                                    <p>
-                                    
-                                        <a href="http://localhost:1313//mods/zt1/tags/all">Zoo Tycoon 1</a>
-                                    
-                                                        </p>
-                                <h2><a href="/mods/zt1/hacks/underwater-thermals-hack/">Underwater Thermals Hack</a></h2>
-                                <p>by 
-                                    
-                                        
-                                    
-                                        
-                                            
-                                            
-                                                <a href="http://localhost:1313/authors/vnd">VND</a>
-                                            
-                                        
-                                    
-                                        </p>
-                                <span class="box-card-bottom">
-                                    
+                    <a href="/mods/zt1/hacks/underwater-thermals-hack/">
+                        <img src="https://cdn.goosifer.io/2.0//mods/zt1/hacks/underwater-thermals-hack/images/thermals_hack_hu_49d433c689f2007f.webp" alt="Underwater Thermals Hack" loading="lazy" decoding="async">
+                    </a>
+                </div>
+                <div class="box-card-mods-content">
+                    <p>
+                    
+                        <a href="/mods/zt1/tags/all/">Zoo Tycoon 1</a>
+                    
+                    </p>
+                    <h2><a href="/mods/zt1/hacks/underwater-thermals-hack/">Underwater Thermals Hack</a></h2>
+                    <p>by
+                    
+                    
+                    
+                        
+                            
+                            
+                                <a href="/authors/vnd/">VND</a>
+                            
+                        
+                    
+                    </p>
+                    <span class="box-card-bottom">
+                        
 
 
 
@@ -1012,42 +1123,40 @@
     Hacks
 </span>
 
-                                    <span class="box-card-date">17 Sep 2026</span>
-                                </span>
-                            </div>
-                        </li>
+                        <span class="box-card-date">17 Sep 2026</span>
+                    </span>
+                </div>
+            </li>
+            
+            <li class="box-card-mods">
+                <div class="box-card-mods-img">
                     
-                        <li class="box-card-mods">
-                            <div class="box-card-mods-img">
-                                
-                                
-                                
                     
-                                <a href="/mods/zt2/remakes/animals/jaguar-remake-ii/">
-                                    <img src="https://cdn.goosifer.io/2.0//mods/zt2/remakes/animals/jaguar-remake-ii/images/aBefore_hu_35d94698e4f88321.webp" alt="Jaguar Remake II">
-                                </a>
-                            </div>
-                            <div class="box-card-mods-content">
-                                    <p>
-                                    
-                                        <a href="http://localhost:1313//mods/zt2/tags/all">Zoo Tycoon 2</a>
-                                    
-                                                        </p>
-                                <h2><a href="/mods/zt2/remakes/animals/jaguar-remake-ii/">Jaguar Remake II</a></h2>
-                                <p>by 
-                                    
-                                        
-                                    
-                                        
-                                            
-                                            
-                                                <a href="http://localhost:1313/authors/vnd">VND</a>
-                                            
-                                        
-                                    
-                                        </p>
-                                <span class="box-card-bottom">
-                                    
+                    <a href="/mods/zt2/remakes/animals/jaguar-remake-ii/">
+                        <img src="https://cdn.goosifer.io/2.0//mods/zt2/remakes/animals/jaguar-remake-ii/images/aBefore_hu_35d94698e4f88321.webp" alt="Jaguar Remake II" loading="lazy" decoding="async">
+                    </a>
+                </div>
+                <div class="box-card-mods-content">
+                    <p>
+                    
+                        <a href="/mods/zt2/tags/all/">Zoo Tycoon 2</a>
+                    
+                    </p>
+                    <h2><a href="/mods/zt2/remakes/animals/jaguar-remake-ii/">Jaguar Remake II</a></h2>
+                    <p>by
+                    
+                    
+                    
+                        
+                            
+                            
+                                <a href="/authors/vnd/">VND</a>
+                            
+                        
+                    
+                    </p>
+                    <span class="box-card-bottom">
+                        
 
 
 
@@ -1056,84 +1165,14 @@
     Remakes
 </span>
 
-                                    <span class="box-card-date">22 Jun 2024</span>
-                                </span>
-                            </div>
-                        </li>
-                    
-                </ul>
-                
-            </p>
-        </div>
-        
-        <div class="sidebar_r-a">
-        
-                    <div class="sidebar_r-inner">
-                
-                    <span class="sidebar_r-title">Languages</span>
-                    <div class="side-ul filter-tags">
-                            
-Not Applicable
-
-                    </div>
-                
-                <span class="sidebar_r-title">Published On</span>
-                <div class="side-ul filter-tags">
-                    
-                        <a class="badge-default" href="/archives/northern-skies">Northern Skies</a>
-                    
-                        <a class="badge-default" href="/archives/zooberry">ZooBerry</a>
-                    
+                        <span class="box-card-date">22 Jun 2024</span>
+                    </span>
                 </div>
-                
-                    <span class="sidebar_r-title">Previous Collaborators</span>
-                    <div class="side-ul filter-tags">
-                        
-                            <a class="badge-default" href="/authors/buffzoo">Buffzoo</a>
-                        
-                    </div>
-                
-                <span class="sidebar_r-title">Years Active</span>
-                <div class="side-ul filter-tags">
-                    
-                    
-                        <span class="badge-default" href="/years/2011" style="margin: 0 0.18rem;">2011</span>
-                    
-                        <span class="badge-default" href="/years/2026" style="margin: 0 0.18rem;">2026</span>
-                    
-                </div>
-                
-                    <span class="sidebar_r-title">Zoo Tycoon 1 Tags</span>
-                    <div class="side-ul filter-tags">
-                        
-                            <a class="badge-default" href="/mods/zt1/tags/animals">Animals</a>
-                        
-                            <a class="badge-default" href="/mods/zt1/tags/hack">Hack</a>
-                        
-                            <a class="badge-default" href="/mods/zt1/tags/hacks">Hacks</a>
-                        
-                            <a class="badge-default" href="/mods/zt1/tags/living">Living</a>
-                        
-                            <a class="badge-default" href="/mods/zt1/tags/prehistoric">Prehistoric</a>
-                        
-                            <a class="badge-default" href="/mods/zt1/tags/texture-mods">Texture Mods</a>
-                        
-                    </div>
-                
-                
-                    <span class="sidebar_r-title">Zoo Tycoon 2 Tags</span>
-                    <div class="side-ul filter-tags">
-                        
-                            <a class="badge-default" href="/mods/zt2/tags/all-remakes">All Remakes</a>
-                        
-                            <a class="badge-default" href="/mods/zt2/tags/animal-remakes">Animal Remakes</a>
-                        
-                    </div>
-                
-            </div>
-        </div>
+            </li>
+            
+        </ul>
         
-    </div>
+    </section>
 </div>
 
           </main>

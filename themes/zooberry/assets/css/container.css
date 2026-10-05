@@ -206,6 +206,7 @@ pre code {
   background: var(--thead-bg);  
   padding: 1rem 2rem;
   margin: -0.5rem 0 1rem 0;
+  border-radius: 0.5rem;
 }
 
 .main-wrapper {
@@ -264,10 +265,12 @@ pre code {
   div.filter-bar-content {
     grid-template-columns: repeat(2, 1fr); /* 2 columns for tablets */
     padding: 1.5rem;
+    border-radius: 0.5rem;
   }
 
   div.filter-bar-button {
     padding: 0 !important;
+    border-radius: 0.5rem;
   }
 
 }

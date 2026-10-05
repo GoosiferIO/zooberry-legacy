@@ -5,6 +5,7 @@
     font-size: 0.8rem;
     border: 1px solid var(--secondary-border);
     width: max-content;
+    border-radius: 0.3rem;
 }
 
 .badge-animals {

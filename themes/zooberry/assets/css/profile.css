@@ -1,0 +1,178 @@
+.profile-page {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    width: 100%;
+    margin: 2rem 0;
+    min-width: 0;
+}
+
+.profile-card {
+    background: var(--thead-bg);
+    border: 1px solid var(--secondary-border);
+    padding: 2rem;
+    border-radius: 0.5rem;
+}
+
+.profile-head {
+    margin-bottom: 1.75rem;
+}
+
+.profile-name {
+    margin: 0;
+    font-size: 2.25rem;
+    line-height: 1.15;
+}
+
+.profile-summary {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 1.25rem;
+    margin: 0.5rem 0 0;
+    opacity: 0.9;
+}
+
+.profile-facts {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1.25rem 2rem;
+    margin: 0;
+}
+
+.profile-more {
+    margin-top: 0.4rem;
+}
+
+.profile-more summary {
+    cursor: pointer;
+    font-size: 0.85rem;
+    opacity: 0.85;
+}
+
+.profile-more[open] summary {
+    margin-bottom: 0.4rem;
+}
+
+.profile-fact dt {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    opacity: 0.75;
+    margin-bottom: 0.35rem;
+}
+
+.profile-fact dd {
+    margin: 0;
+}
+
+.profile-fact-count {
+    display: block;
+    margin-bottom: 0.4rem;
+}
+
+.profile-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+}
+
+.profile-section-title {
+    margin: 0 0 1rem;
+    font-size: 1.25rem;
+}
+
+.profile-section-title span {
+    font-weight: 400;
+    opacity: 0.7;
+}
+
+/* Highlights: four tiles (2 x 2 on tablets), sized close to the 300x200 thumbnails */
+.profile-highlights {
+    margin-bottom: 1.75rem;
+}
+
+.profile-highlight-list {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.profile-highlight[hidden] {
+    display: none;
+}
+
+.profile-highlight a {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background: var(--tbody-bg);
+    color: var(--font-color);
+    overflow: hidden;
+    transition: filter 0.3s ease;
+    border-radius: 0.5rem;
+}
+
+.profile-highlight a:hover {
+    filter: brightness(1.15);
+    color: var(--font-color);
+}
+
+.profile-highlight img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+}
+
+.profile-highlight-text {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+}
+
+.profile-highlight-title {
+    padding: 0.7rem 0.8rem 0.15rem;
+    font-weight: 700;
+    line-height: 1.3;
+}
+
+.profile-highlight-meta {
+    padding: 0 0.8rem 0.8rem;
+    font-size: 0.8rem;
+    opacity: 0.8;
+}
+
+.profile-mods .box-card-list {
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+}
+
+@media screen and (max-width: 1000px) {
+    .profile-highlight-list {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .profile-card {
+        padding: 1.25rem;
+    }
+    .profile-name {
+        font-size: 1.75rem;
+    }
+    .profile-highlight-list {
+        grid-template-columns: minmax(0, 1fr);
+    }
+    .profile-highlight a {
+        flex-direction: row;
+        align-items: center;
+    }
+    .profile-highlight img {
+        width: 120px;
+        flex: 0 0 120px;
+    }
+}

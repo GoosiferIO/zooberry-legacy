@@ -21,10 +21,12 @@
     background-color: var(--tbody-bg);
     padding: 2rem;
     margin-top: 2rem;
+    border-radius: 0.5rem;
 }
 
 .filter-bar-content button {
     background-color: var(--secondary-bg) !important;
+    border-radius: 0.5rem;
 }
 
 .mod-badges {
@@ -61,6 +63,7 @@
         text-align: center;
         padding: 0;
     }
+    border-radius: 0.5rem;
 }
 
 .filter-bar-button:hover {

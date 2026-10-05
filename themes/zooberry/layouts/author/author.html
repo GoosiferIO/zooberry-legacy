@@ -2,141 +2,157 @@
 {{ $key := .Title | urlize }}
 {{ $idx := partialCached "mod-index.html" . "mod-index" }}
 {{ $modsByAuthor := index $idx.byAuthor $key | default slice }}
-{{ $f := partialCached "mod-facets.html" (dict "mods" $modsByAuthor "exclude" $key) (printf "author-%s" $key) }}
 {{ $modCount := len $modsByAuthor }}
-{{ $languagesByAuthor := $f.languages }}
-{{ $websitesPublishedOn := $f.websites }}
-{{ $collaborators := $f.collaborators }}
-{{ $yearsActive := $f.years }}
-{{ $allTagsAssociatedZT1 := $f.zt1tags }}
-{{ $allTagsAssociatedZT2 := $f.zt2tags }}
+{{ $f := partialCached "mod-facets.html" (dict "mods" $modsByAuthor "exclude" $key) (printf "author-%s" $key) }}
 
-{{ $imageFromShuffledMod := "" }}
-{{ with $modsByAuthor }}
-    {{ $pick := index . (mod (hash.FNV32a $key) (len .)) }}
-    {{ with $pick.Resources.GetMatch "images/*" }}
-        {{ $imageFromShuffledMod = .RelPermalink }}
+{{ $zt1Mods := where $modsByAuthor "Params.game" "Zoo Tycoon 1" }}
+{{ $zt2Mods := where $modsByAuthor "Params.game" "Zoo Tycoon 2" }}
+{{ $games := slice }}
+{{ with $zt1Mods }}{{ $games = $games | append (dict "name" "Zoo Tycoon 1" "short" "ZT1" "slug" "zt1" "mods" . "tags" $f.zt1tags) }}{{ end }}
+{{ with $zt2Mods }}{{ $games = $games | append (dict "name" "Zoo Tycoon 2" "short" "ZT2" "slug" "zt2" "mods" . "tags" $f.zt2tags) }}{{ end }}
+
+{{ $withImages := slice }}
+{{ range $modsByAuthor }}{{ if partialCached "mod-thumb.html" . .RelPermalink }}{{ $withImages = $withImages | append . }}{{ end }}{{ end }}
+{{ $highlights := slice }}
+{{ with $withImages }}
+    {{ $start := mod (hash.FNV32a $key) (len .) }}
+    {{ range $i := seq 0 (sub (math.Min 4 (len .)) 1) }}
+        {{ $highlights = $highlights | append (index $withImages (mod (add $start $i) (len $withImages))) }}
     {{ end }}
 {{ end }}
-<div style="display: flex; flex-direction: column; margin: 2rem 0; width:100%;">
+{{ $showHighlights := and (gt $modCount 4) (ge (len $highlights) 4) }}
+
+<div class="profile-page">
     {{ partial "breadcrumbs.html" . }}
-    <h1 style="margin:0;">{{ .Title }}</h1>
-    <p style="margin:0;padding:0;"><i class="material-icons icon">extension</i> {{ $modCount }} Mods Published</p>
 
-    <div class="banner-box" style="margin: 2rem 0; width: 100%; background: center center / cover no-repeat url('{{ .Site.Params.cdn }}{{ $imageFromShuffledMod }}'); height: 300px;">
-
-    </div>
-    <div style="display: flex; flex-direction: row;width: 100%;">
-        <div style="margin-right: 2rem;">
-
-            <p><h1 style="margin-top:-1rem;padding:0;">Mods Published</h1> 
-                {{ $paginator := .Paginate $modsByAuthor (site.Params.modsPerPage | default 30) }}
-                {{ template "_internal/pagination.html" (dict "paginator" $paginator "page" .) }}
-
-                <ul class="box-card-list">
-                    {{ range $paginator.Pages }}
-                        <li class="box-card-mods">
-                            <div class="box-card-mods-img">
-                                {{/*  get first image from images folder in this bundle */}}
-                                {{ $thumbnail := "" }}
-                                {{ with partialCached "mod-thumb.html" . .RelPermalink }}{{ $thumbnail = .RelPermalink }}{{ end }}
-                    
-                                <a href="{{ .RelPermalink }}">
-                                    <img src="{{ .Site.Params.cdn }}{{ $thumbnail }}" alt="{{ .LinkTitle }}">
-                                </a>
-                            </div>
-                            <div class="box-card-mods-content">
-                                    <p>
-                                    {{ if eq .Params.game "Zoo Tycoon 1" }}
-                                        <a href="{{ .Site.BaseURL }}/mods/zt1/tags/all">{{ .Params.game }}</a>
-                                    {{ else if eq .Params.game "Zoo Tycoon 2" }}
-                                        <a href="{{ .Site.BaseURL }}/mods/zt2/tags/all">{{ .Params.game }}</a>
-                                    {{ else }}
-                                        <a href="{{ .Site.BaseURL }}mods/assets">Assets</a>
-                                    {{ end }}
-                                                        </p>
-                                <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-                                <p>by 
-                                    {{ $authors := .Params.author }}
-                                    {{ $siteBaseURL := .Site.BaseURL }}    
-                                    {{ with .Params.team }}
-                                        <a href="{{ $siteBaseURL }}teams/{{ . | urlize }}">{{ . }}</a>
-                                    {{ else }}
-                                        {{ with $authors }}
-                                            {{ $len := len $authors }}
-                                            {{ if eq $len 1 }}
-                                                <a href="{{ $siteBaseURL }}authors/{{ index $authors 0 | urlize }}">{{ index $authors 0 }}</a>
-                                            {{ else if eq $len 2 }}
-                                                <a href="{{ $siteBaseURL }}authors/{{ index $authors 0 | urlize }}">{{ index $authors 0 }}</a> and <a href="{{ $siteBaseURL }}authors/{{ index $authors 1 | urlize }}">{{ index $authors 1 }}</a>
-                                            {{ else }}
-                                                <a href="{{ $siteBaseURL }}authors/{{ index $authors 0 | urlize }}">{{ index $authors 0 }}</a>, <a href="{{ $siteBaseURL }}authors/{{ index $authors 1 | urlize }}">{{ index $authors 1 }}</a> and {{ sub $len 2 }} more
-                                            {{ end }}
-                                        {{ end }}
-                                    {{ end }}
-                                        </p>
-                                <span class="box-card-bottom">
-                                    {{ partial "class-badges.html" . }}
-                                    <span class="box-card-date">{{ .Date.Format "2 Jan 2006" }}</span>
-                                </span>
-                            </div>
-                        </li>
-                    {{ end }}
-                </ul>
-                {{ template "_internal/pagination.html" (dict "paginator" $paginator "page" .) }}
+    <section class="profile-card" aria-labelledby="profile-name">
+        <header class="profile-head">
+            <h1 id="profile-name" class="profile-name">{{ .Title }}</h1>
+            <p class="profile-summary">
+                <span><strong>{{ $modCount }}</strong> {{ cond (eq $modCount 1) "mod" "mods" }}</span>
+                {{ with $f.years }}<span>Active {{ index . 0 }}{{ if gt (len .) 1 }}–{{ index . (sub (len .) 1) }}{{ end }}</span>{{ end }}
+                {{ range $games }}<span>{{ .short }} <strong>{{ len .mods }}</strong></span>{{ end }}
             </p>
-        </div>
-        {{ if ne .Type "mods" }}
-        <div class="sidebar_r-a">
-        {{ else }}
-        <div class="sidebar_r">
+        </header>
+
+        {{ if $showHighlights }}
+        <section class="profile-highlights" aria-labelledby="highlights-title">
+            <h2 id="highlights-title" class="profile-section-title">Featured</h2>
+            <ul class="profile-highlight-list" data-highlights>
+                {{ range $i, $m := $highlights }}
+                {{ $thumb := partialCached "mod-thumb.html" $m $m.RelPermalink }}
+                <li class="profile-highlight" {{ if ge $i 4 }}hidden{{ end }}>
+                    <a href="{{ $m.RelPermalink }}">
+                        <img src="{{ $.Site.Params.cdn }}{{ $thumb.RelPermalink }}" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}" alt="" loading="lazy" decoding="async">
+                        <span class="profile-highlight-text">
+                            <span class="profile-highlight-title">{{ $m.LinkTitle }}</span>
+                            <span class="profile-highlight-meta">{{ with $m.Params.game }}{{ . }}{{ end }}{{ with $m.Params.orig_rel_date }} · {{ substr (printf "%v" .) 0 4 }}{{ end }}</span>
+                        </span>
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+            <script>
+                (function () {
+                    var list = document.querySelector('[data-highlights]');
+                    if (!list) return;
+                    var items = Array.prototype.slice.call(list.children);
+                    for (var i = items.length - 1; i > 0; i--) {
+                        var j = Math.floor(Math.random() * (i + 1));
+                        var t = items[i]; items[i] = items[j]; items[j] = t;
+                    }
+                    items.forEach(function (li, n) { li.hidden = n >= 4; list.appendChild(li); });
+                })();
+            </script>
+        </section>
         {{ end }}
-                    <div class="sidebar_r-inner">
-                {{ if not (eq (len $languagesByAuthor) 0) }}
-                    <span class="sidebar_r-title">Languages</span>
-                    <div class="side-ul filter-tags">
-                            {{ partial "class-languages.html" . }}
-                    </div>
-                {{ end }}
-                <span class="sidebar_r-title">Published On</span>
-                <div class="side-ul filter-tags">
-                    {{ range $websitesPublishedOn }}
-                        <a class="badge-default" href="/archives/{{ . | urlize }}">{{ . }}</a>
+
+        <dl class="profile-facts">
+            {{ range $games }}
+            <div class="profile-fact">
+                <dt>{{ .name }}</dt>
+                <dd>
+                    <span class="profile-fact-count">{{ len .mods }} {{ cond (eq (len .mods) 1) "mod" "mods" }}{{ if le (len .mods) 3 }}: {{ range $i, $m := .mods }}{{ if $i }}, {{ end }}<a href="{{ $m.RelPermalink }}">{{ $m.LinkTitle }}</a>{{ end }}{{ end }}</span>
+                    {{ $slug := .slug }}
+                    {{ with .tags }}
+                    <span class="profile-tags">{{ range . }}<a class="badge-default" href="/mods/{{ $slug }}/tags/{{ . | urlize }}/">{{ . }}</a>{{ end }}</span>
                     {{ end }}
-                </div>
-                {{ if not (eq (len $collaborators) 0) }}
-                    <span class="sidebar_r-title">Previous Collaborators</span>
-                    <div class="side-ul filter-tags">
-                        {{ range $collaborators }}
-                            <a class="badge-default" href="/authors/{{ . | urlize }}">{{ . }}</a>
-                        {{ end }}
-                    </div>
-                {{ end }}
-                <span class="sidebar_r-title">Years Active</span>
-                <div class="side-ul filter-tags">
-                    {{ $yearsActive = sort $yearsActive }}
-                    {{ range $yearsActive }}
-                        <span class="badge-default" href="/years/{{ . | urlize }}" style="margin: 0 0.18rem;">{{ . }}</span>
-                    {{ end }}
-                </div>
-                {{ with $allTagsAssociatedZT1 }}
-                    <span class="sidebar_r-title">Zoo Tycoon 1 Tags</span>
-                    <div class="side-ul filter-tags">
-                        {{ range . }}
-                            <a class="badge-default" href="/mods/zt1/tags/{{ . | urlize }}">{{ . }}</a>
-                        {{ end }}
-                    </div>
-                {{ end }}
-                {{ with $allTagsAssociatedZT2 }}
-                    <span class="sidebar_r-title">Zoo Tycoon 2 Tags</span>
-                    <div class="side-ul filter-tags">
-                        {{ range . }}
-                            <a class="badge-default" href="/mods/zt2/tags/{{ . | urlize }}">{{ . }}</a>
-                        {{ end }}
-                    </div>
-                {{ end }}
+                </dd>
             </div>
-        </div>
-        
-    </div>
+            {{ end }}
+            {{ with $f.websites }}
+            <div class="profile-fact">
+                <dt>Originally on</dt>
+                <dd>{{ partial "badge-list.html" (dict "items" . "base" "/archives/") }}</dd>
+            </div>
+            {{ end }}
+            {{ with $f.collaborators }}
+            <div class="profile-fact">
+                <dt>Collaborators</dt>
+                <dd>{{ partial "badge-list.html" (dict "items" . "base" "/authors/") }}</dd>
+            </div>
+            {{ end }}
+            {{ with $f.languages }}
+            <div class="profile-fact">
+                <dt>Languages</dt>
+                <dd class="profile-tags">{{ range . }}<span class="badge-default">{{ . }}</span>{{ end }}</dd>
+            </div>
+            {{ end }}
+        </dl>
+    </section>
+
+    <section class="profile-mods" aria-labelledby="mods-title">
+        <h2 id="mods-title" class="profile-section-title">All mods <span>({{ $modCount }})</span></h2>
+        {{ $paginator := .Paginate $modsByAuthor (site.Params.modsPerPage | default 24) }}
+        {{ template "_internal/pagination.html" (dict "paginator" $paginator "page" .) }}
+        <ul class="box-card-list">
+            {{ range $paginator.Pages }}
+            <li class="box-card-mods">
+                <div class="box-card-mods-img">
+                    {{ $thumbnail := "" }}
+                    {{ with partialCached "mod-thumb.html" . .RelPermalink }}{{ $thumbnail = .RelPermalink }}{{ end }}
+                    <a href="{{ .RelPermalink }}">
+                        <img src="{{ .Site.Params.cdn }}{{ $thumbnail }}" alt="{{ .LinkTitle }}" loading="lazy" decoding="async">
+                    </a>
+                </div>
+                <div class="box-card-mods-content">
+                    <p>
+                    {{ if eq .Params.game "Zoo Tycoon 1" }}
+                        <a href="/mods/zt1/tags/all/">{{ .Params.game }}</a>
+                    {{ else if eq .Params.game "Zoo Tycoon 2" }}
+                        <a href="/mods/zt2/tags/all/">{{ .Params.game }}</a>
+                    {{ else }}
+                        <a href="/mods/assets/">Assets</a>
+                    {{ end }}
+                    </p>
+                    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+                    <p>by
+                    {{ $authors := .Params.author }}
+                    {{ if and $authors (not (reflect.IsSlice $authors)) }}{{ $authors = slice $authors }}{{ end }}
+                    {{ with .Params.team }}
+                        <a href="/teams/{{ . | urlize }}/">{{ . }}</a>
+                    {{ else }}
+                        {{ with $authors }}
+                            {{ $len := len $authors }}
+                            {{ if eq $len 1 }}
+                                <a href="/authors/{{ index $authors 0 | urlize }}/">{{ index $authors 0 }}</a>
+                            {{ else if eq $len 2 }}
+                                <a href="/authors/{{ index $authors 0 | urlize }}/">{{ index $authors 0 }}</a> and <a href="/authors/{{ index $authors 1 | urlize }}/">{{ index $authors 1 }}</a>
+                            {{ else }}
+                                <a href="/authors/{{ index $authors 0 | urlize }}/">{{ index $authors 0 }}</a>, <a href="/authors/{{ index $authors 1 | urlize }}/">{{ index $authors 1 }}</a> and {{ sub $len 2 }} more
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                    </p>
+                    <span class="box-card-bottom">
+                        {{ partial "class-badges.html" . }}
+                        <span class="box-card-date">{{ .Date.Format "2 Jan 2006" }}</span>
+                    </span>
+                </div>
+            </li>
+            {{ end }}
+        </ul>
+        {{ template "_internal/pagination.html" (dict "paginator" $paginator "page" .) }}
+    </section>
 </div>
 {{ end }}

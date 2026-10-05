@@ -5,6 +5,7 @@
     margin-bottom: 1rem;
     background: var(--shade-bg);
     padding: 0.5rem 2rem;
+    border-radius: 0.5rem;
 }
 
 .breadcrumbs a::after {

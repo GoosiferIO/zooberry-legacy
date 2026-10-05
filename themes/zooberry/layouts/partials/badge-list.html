@@ -1,0 +1,10 @@
+{{- $items := .items -}}
+{{- $base := .base -}}
+{{- $limit := .limit | default 10 -}}
+<span class="profile-tags">{{ range first $limit $items }}<a class="badge-default" href="{{ $base }}{{ . | urlize }}/">{{ . }}</a>{{ end }}</span>
+{{- if gt (len $items) $limit }}
+<details class="profile-more">
+    <summary>+{{ sub (len $items) $limit }} more</summary>
+    <span class="profile-tags">{{ range after $limit $items }}<a class="badge-default" href="{{ $base }}{{ . | urlize }}/">{{ . }}</a>{{ end }}</span>
+</details>
+{{- end }}

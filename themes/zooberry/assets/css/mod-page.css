@@ -12,6 +12,7 @@
     margin: 1rem 0;
     background: var(--thead-bg);
     padding: 2rem;
+    border-radius: 0.5rem;
 }
 
 .mod-header h1 {
@@ -99,23 +100,17 @@ span.author-meta a.badge-default {
 }
 
 .mod-deets {
-    margin: 2rem 0 0.5rem;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    background-color: var(--tbody-bg);
     i {
-        padding: 0 0.5rem;
+        padding: 0 0.5rem 0 0;
     }
 }
 
 .mod-deets div {
-    padding: 1rem 2rem 1rem 1rem;
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
     width: 100%;
     color: var(--font-color);
 }
@@ -129,15 +124,16 @@ span.author-meta a.badge-default {
 .mod-deets span {
     padding: 0;
     flex: 0 0 auto;
+    font-size: 0.9rem;
     i {
         padding: 0;
         margin: 0;
     }
+    opacity: 0.8;
 }
 
 .mod-deets div:first-child,
 .mod-deets div:nth-child(2) {
-    border-right: 1px solid var(--secondary-border);
 }
 
 .mod-page-title {
@@ -154,6 +150,7 @@ span.author-meta a.badge-default {
     justify-content:center;
     align-items: center;
     width: 40%;
+    border-radius: 0.5rem;
 }
 
 .mod-info-links ul {
@@ -283,6 +280,7 @@ div.post-subheader i {
 .mod-description-content {
     padding: 2rem;
     background: var(--thead-bg);
+    border-radius: 0.5rem;
 }
 
 .mod-files {

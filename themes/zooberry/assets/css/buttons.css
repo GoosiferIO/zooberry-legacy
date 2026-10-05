@@ -9,6 +9,7 @@
     width: max-content;
     white-space: nowrap;
     flex-shrink: 0;
+    border-radius: 0.5rem;
   }
   
   .button-dft:hover {

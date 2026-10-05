@@ -26,6 +26,7 @@ li.page-item a {
   background-color: var(--shade-bg);
   margin-right: 0.25rem;
   border: 1px solid var(--shade-bg);
+  border-radius: 0.25rem;
 }
 
 li.disabled a {

@@ -3,6 +3,12 @@
 
 <div class="mod-post-info">
   <h1>{{.Title}}</h1>
+  <div class="mod-deets">
+    {{/*  <div><i class="material-icons icon">download</i> <span>10</span></div>
+    <div><i class="material-icons icon">visibility</i> <span>10</span></div>  */}}
+    <div><span>{{ .Date.Format "2 Jan 2006" }}</span></div>
+  </div>
+
   <p>{{ .Summary }}</p> 
     <span class="author-meta">
       <p>Created By</p>
@@ -31,12 +37,6 @@
         {{ warnf "No author specified for %s" .RelPermalink }}
       {{ end }}
           </span>
-    <div class="mod-deets">
-      {{/*  <div><i class="material-icons icon">download</i> <span>10</span></div>
-      <div><i class="material-icons icon">visibility</i> <span>10</span></div>  */}}
-      <div><i class="material-icons icon">calendar_month</i> <span>{{ .Date.Format "2 Jan 2006" }}</span></div>
-    </div>
-
     <div class="sidebar_r-inner">
       {{ if gt $fileCount 1 }}
         <a class="button-dft" href="#files" onclick="openTab('tab-files')">
