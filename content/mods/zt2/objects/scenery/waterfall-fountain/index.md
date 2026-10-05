@@ -2,7 +2,7 @@
 title: "Waterfall Fountain"
 has_author: true
 author: 
-- ShenTIrag
+- ShenTirag
 game: Zoo Tycoon 2
 exp_req: 
 - MM2

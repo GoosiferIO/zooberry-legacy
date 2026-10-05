@@ -17,7 +17,7 @@ alt_text:
 languages:
 - English
 summary: "Perenties are fairly large lizards in the monitor family."
-zt1tags: ["All", "Animals", "Reptiles", "Australian"]
+zt1tags: ["All", "ZT1", "Living", "Animals", "Reptiles", "Australian"]
 ---
 The Perentie is a fairly large Australian lizard in the monitor family.
 

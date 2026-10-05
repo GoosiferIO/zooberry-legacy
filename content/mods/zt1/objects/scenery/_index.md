@@ -9,7 +9,7 @@ alt_text: "Scenery"
 summary: "Objects that are designed to just sit there and look pretty!"
 is_category: true
 cascade:
-    zt2tags: ["All", "ZT1", "Objects", "Scenery"]
+    zt1tags: ["All", "ZT1", "Objects", "Scenery"]
 ---
 
 Objects that are designed to just sit there and look pretty!
