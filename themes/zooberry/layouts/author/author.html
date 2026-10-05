@@ -2,8 +2,7 @@
 {{ $key := .Title | urlize }}
 {{ $idx := partialCached "mod-index.html" . "mod-index" }}
 {{ $modsByAuthor := index $idx.byAuthor $key | default slice }}
-{{ $f := partial "mod-facets.html" (dict "mods" $modsByAuthor "exclude" $key) }}
-
+{{ $f := partialCached "mod-facets.html" (dict "mods" $modsByAuthor "exclude" $key) (printf "author-%s" $key) }}
 {{ $modCount := len $modsByAuthor }}
 {{ $languagesByAuthor := $f.languages }}
 {{ $websitesPublishedOn := $f.websites }}

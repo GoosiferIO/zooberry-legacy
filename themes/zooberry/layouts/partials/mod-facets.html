@@ -1,25 +1,31 @@
-{{- $langs := slice }}{{ $sites := slice }}{{ $years := slice }}
-{{- $zt1 := slice }}{{ $zt2 := slice }}{{ $tags := slice }}{{ $people := slice -}}
+{{- $langs := newScratch }}{{ $sites := newScratch }}{{ $years := newScratch -}}
+{{- $zt1 := newScratch }}{{ $zt2 := newScratch }}{{ $tags := newScratch }}{{ $people := newScratch -}}
+
 {{- range .mods -}}
-  {{- with .Params.languages }}{{ $langs = $langs | append . }}{{ end -}}
-  {{- with .Params.orig_rel_at }}{{ $sites = $sites | append . }}{{ end -}}
-  {{- with .Params.zt1tags }}{{ $zt1 = $zt1 | append . }}{{ end -}}
-  {{- with .Params.zt2tags }}{{ $zt2 = $zt2 | append . }}{{ end -}}
-  {{- with .Params.tags }}{{ $tags = $tags | append . }}{{ end -}}
-  {{- with .Params.author }}{{ $people = $people | append . }}{{ end -}}
-  {{- with .Params.orig_rel_date }}{{ $years = $years | append (substr (printf "%v" .) 0 4) }}{{ end -}}
+  {{- range (slice | append (.Params.languages   | default slice)) }}{{ $langs.Set . true }}{{ end -}}
+  {{- range (slice | append (.Params.orig_rel_at | default slice)) }}{{ $sites.Set . true }}{{ end -}}
+  {{- range (slice | append (.Params.zt1tags     | default slice)) }}{{ $zt1.Set . true }}{{ end -}}
+  {{- range (slice | append (.Params.zt2tags     | default slice)) }}{{ $zt2.Set . true }}{{ end -}}
+  {{- range (slice | append (.Params.tags        | default slice)) }}{{ $tags.Set . true }}{{ end -}}
+  {{- range (slice | append (.Params.author      | default slice)) }}{{ $k := urlize . }}{{ if not ($people.Get $k) }}{{ $people.Set $k . }}{{ end }}{{ end -}}
+  {{- with .Params.orig_rel_date }}{{ $years.Set (substr (printf "%v" .) 0 4) true }}{{ end -}}
+{{- end -}}
+
+{{- $out := dict -}}
+{{- range $name, $s := dict "languages" $langs "websites" $sites "years" $years "zt1tags" $zt1 "zt2tags" $zt2 "tags" $tags -}}
+  {{- $list := slice }}{{ range $k, $_ := $s.Values }}{{ $list = $list | append $k }}{{ end -}}
+  {{- $out = merge $out (dict $name $list) -}}
 {{- end -}}
 
 {{- $collaborators := slice -}}
-{{- $seen := slice -}}
-{{- range $people }}{{ $k := urlize . }}{{ if and (ne $k $.exclude) (not (in $seen $k)) }}{{ $seen = $seen | append $k }}{{ $collaborators = $collaborators | append . }}{{ end }}{{ end -}}
+{{- range $k, $name := $people.Values }}{{ if ne $k $.exclude }}{{ $collaborators = $collaborators | append $name }}{{ end }}{{ end -}}
 
 {{- return dict
-      "languages"     ($langs | uniq | sort)
-      "websites"      ($sites | uniq | sort)
-      "years"         ($years | uniq | sort)
-      "zt1tags"       (complement (slice "All" "ZT1") ($zt1 | uniq | sort))
-      "zt2tags"       (complement (slice "All" "ZT2") ($zt2 | uniq | sort))
-      "tags"          (complement (slice "all") ($tags | uniq | sort))
-      "collaborators" ($collaborators | sort)
+      "languages"     $out.languages
+      "websites"      $out.websites
+      "years"         $out.years
+      "zt1tags"       (complement (slice "All" "ZT1") $out.zt1tags)
+      "zt2tags"       (complement (slice "All" "ZT2") $out.zt2tags)
+      "tags"          (complement (slice "all") $out.tags)
+      "collaborators" $collaborators
 -}}

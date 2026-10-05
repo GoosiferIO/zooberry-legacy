@@ -54,7 +54,7 @@
         {{ $siteMods := index $idx.bySite (.Title | urlize) | default slice }}
         {{ $modCount := len $siteMods }}
         {{ $paginate := .Paginate $siteMods (site.Params.modsPerPage | default 24) }}
-        {{ $f := partial "mod-facets.html" (dict "mods" $siteMods) }}
+        {{ $f := partialCached "mod-facets.html" (dict "mods" $siteMods) (printf "site-%s" (.Title | urlize)) }}
         <div style="display: flex; flex-direction: column; margin: 2rem 0; width:100%;">
             <h1 style="margin:0;">{{ .Title }}</h1>
             <p style="margin:0;padding:0;"><i class="material-icons icon">extension</i> {{ $modCount }} Mods Published</p>
