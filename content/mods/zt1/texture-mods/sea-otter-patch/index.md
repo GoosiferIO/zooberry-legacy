@@ -15,7 +15,7 @@ license: 'Yes'
 languages:
 - English
 summary: "A mod that edits the palette and various related graphics for the Southern sea otter to resemble the real animal, with two approaches to continue using the original brown palette."
-thumbnail: images/ReleaseThumbnail.webp
+thumbnail: "images/ReleaseThumbnail.webp"
 mod_list:
   - name: vnd NorthernSeaOtter
     title: Northern Sea Otter

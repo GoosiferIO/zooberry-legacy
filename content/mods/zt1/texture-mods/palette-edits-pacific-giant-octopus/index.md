@@ -15,7 +15,7 @@ license: 'Yes'
 languages:
 - English
 summary: "A small mod that edits the palette and various related graphics for the Pacific giant octopus, changing its default yellow palette to a red palette resembling the real animal."
-thumbnail: images/OctoThumb.gif
+thumbnail: "images/OctoThumb.gif"
 mod_list:
   - name: vnPalEdits[Octopus]
     title: vnPalEdits[Octopus].zip

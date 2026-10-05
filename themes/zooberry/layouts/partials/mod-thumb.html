@@ -1,0 +1,19 @@
+
+{{- $p := . -}}
+{{- $img := false -}}
+{{- with $p.Params.thumbnail -}}
+  {{- $name := path.Base . -}}
+  {{- $img = or ($p.Resources.GetMatch .) ($p.Resources.GetMatch (printf "images/%s" $name)) ($p.Resources.GetMatch (printf "**/%s" $name)) -}}
+  {{- if not $img -}}
+    {{- warnf "Thumbnail %q not found in %s - falling back to the first image" . $p.RelPermalink -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $img }}{{ $img = $p.Resources.GetMatch "images/*" }}{{ end -}}
+
+{{- $out := false -}}
+{{- with $img -}}
+  {{- $opts := "300x200 center" -}}
+  {{- if and (eq .MediaType.SubType "webp") (not hugo.IsExtended) }}{{ $opts = "300x200 center jpg q85" }}{{ end -}}
+  {{- $out = .Fill $opts -}}
+{{- end -}}
+{{- return $out -}}

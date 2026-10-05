@@ -13,7 +13,7 @@ license: 'Yes'
 languages:
 - English
 summary: "A small mod that edits the palette and various related graphics for the grizzly bear, removing the yellow-green hue of the original for a more natural look."
-thumbnail: images/grizzlythumb.jpg
+thumbnail: "images/grizzlythumb.jpg"
 mod_list:
   - name: vnPalEdits[Grizzly]
     title: vnPalEdits[Grizzly].zip

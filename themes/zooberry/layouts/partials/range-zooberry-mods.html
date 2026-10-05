@@ -3,7 +3,7 @@
     <li class="box-card-mods">
         <div class="box-card-mods-img">
             {{/*  get first image from images folder in this bundle */}}
-            {{ $thumbnail := "" }}
+            {{ with partialCached "mod-thumb.html" . .RelPermalink }}{{ $thumbnail = .RelPermalink }}{{ end }}
             {{ with (.Resources.GetMatch "images/*") }}
                 {{ $processedImage := .Fill "300x200 center" }} <!-- Adjust dimensions as needed -->
                 {{ $thumbnail = $processedImage.RelPermalink }}
