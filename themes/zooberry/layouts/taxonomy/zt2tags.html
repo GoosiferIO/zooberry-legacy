@@ -69,7 +69,7 @@
         
         {{ $removeCategories := where .Pages "Params.is_category" "!=" true }}
         {{ $removeZt1 := where $removeCategories "Params.major" "!=" "zt1" }}
-        {{ $paginator := .Paginate $removeZt1 }}
+        {{ $paginator := .Paginate $removeZt1 (site.Params.modsPerPage | default 30) }}
 
         {{ template "_internal/pagination.html" (dict "Paginator" $paginator "page" .) }}
         <ul class="box-card-list">

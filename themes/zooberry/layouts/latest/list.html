@@ -7,7 +7,7 @@
 
     {{/*  Generate the list of mods as cards */}}
     {{ .Scratch.Set "filter" .Params.layout }}
-    {{ $pagination := .Paginate (where .Site.RegularPages "Section" "mods") }}
+    {{ $pagination := .Paginate (where .Site.RegularPages "Section" "mods") (site.Params.modsPerPage | default 30) }}
     {{ template "_internal/pagination.html" . }}
 
     <ul class="box-card-list">

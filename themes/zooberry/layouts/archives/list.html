@@ -53,7 +53,7 @@
         {{ $idx := partialCached "mod-index.html" . "mod-index" }}
         {{ $siteMods := index $idx.bySite (.Title | urlize) | default slice }}
         {{ $modCount := len $siteMods }}
-        {{ $paginate := .Paginate $siteMods 30 }}
+        {{ $paginate := .Paginate $siteMods (site.Params.modsPerPage | default 24) }}
         {{ $f := partial "mod-facets.html" (dict "mods" $siteMods) }}
         <div style="display: flex; flex-direction: column; margin: 2rem 0; width:100%;">
             <h1 style="margin:0;">{{ .Title }}</h1>

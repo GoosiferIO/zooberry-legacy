@@ -1,6 +1,6 @@
 
 <ul class="box-card-list">
-    {{ range (where .Site.RegularPages "Section" "mods") | first 9 }}
+    {{ range (where .Site.RegularPages "Section" "mods") | first (site.Params.homeMods | default 12) }}
     <li class="box-card-mods">
         <div class="box-card-mods-img">
             {{/*  get first image from images folder in this bundle */}}
