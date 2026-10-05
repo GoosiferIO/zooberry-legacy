@@ -1,5 +1,6 @@
 {{- $mods := (where site.RegularPages "Type" "mods").ByDate.Reverse -}}
 {{- $byAuthor := newScratch }}{{ $byTeam := newScratch }}{{ $bySite := newScratch }}{{ $names := newScratch -}}
+{{- $authorSpelling := newScratch -}}
 {{- range $mods -}}
   {{- $mod := . -}}
 
@@ -10,7 +11,10 @@
   {{- $sites := .Params.orig_rel_at | default slice -}}
   {{- if not (reflect.IsSlice $sites) }}{{ $sites = slice $sites }}{{ end -}}
 
-  {{- range $authors }}{{ $k := urlize . }}{{ $byAuthor.Add $k (slice $mod) }}{{ if not ($names.Get $k) }}{{ $names.Set $k . }}{{ end }}{{ end -}}
+  {{- if and .Params.zt1tags (ne .Params.game "Zoo Tycoon 1") (not .Params.is_category) }}{{ warnf "%s has zt1tags but game = %q" .RelPermalink .Params.game }}{{ end -}}
+  {{- if and .Params.zt2tags (ne .Params.game "Zoo Tycoon 2") (not .Params.is_category) }}{{ warnf "%s has zt2tags but game = %q" .RelPermalink .Params.game }}{{ end -}}
+
+  {{- range $authors }}{{ $n := . }}{{ $k := urlize $n }}{{ $byAuthor.Add $k (slice $mod) }}{{ if not ($names.Get $k) }}{{ $names.Set $k $n }}{{ end }}{{ with $authorSpelling.Get $k }}{{ if ne . $n }}{{ warnf "Authors %q and %q share one profile, /authors/%s/ (seen in %s)" . $n $k $mod.RelPermalink }}{{ end }}{{ else }}{{ $authorSpelling.Set $k $n }}{{ end }}{{ end -}}
   {{- range $teams   }}{{ $k := urlize . }}{{ $byTeam.Add   $k (slice $mod) }}{{ if not ($names.Get $k) }}{{ $names.Set $k . }}{{ end }}{{ end -}}
   {{- range $sites   }}{{ $k := urlize . }}{{ $bySite.Add   $k (slice $mod) }}{{ if not ($names.Get $k) }}{{ $names.Set $k . }}{{ end }}{{ end -}}
 {{- end -}}

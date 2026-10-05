@@ -4,8 +4,8 @@
 {{- range .mods -}}
   {{- range (slice | append (.Params.languages   | default slice)) }}{{ $langs.Set . true }}{{ end -}}
   {{- range (slice | append (.Params.orig_rel_at | default slice)) }}{{ $sites.Set . true }}{{ end -}}
-  {{- range (slice | append (.Params.zt1tags     | default slice)) }}{{ $zt1.Set . true }}{{ end -}}
-  {{- range (slice | append (.Params.zt2tags     | default slice)) }}{{ $zt2.Set . true }}{{ end -}}
+  {{- if eq .Params.game "Zoo Tycoon 1" }}{{- range (slice | append (.Params.zt1tags     | default slice)) }}{{ $zt1.Set . true }}{{ end -}}{{ end -}}
+  {{- if eq .Params.game "Zoo Tycoon 2" }}{{- range (slice | append (.Params.zt2tags     | default slice)) }}{{ $zt2.Set . true }}{{ end -}}{{ end -}}
   {{- range (slice | append (.Params.tags        | default slice)) }}{{ $tags.Set . true }}{{ end -}}
   {{- range (slice | append (.Params.author      | default slice)) }}{{ $k := urlize . }}{{ if not ($people.Get $k) }}{{ $people.Set $k . }}{{ end }}{{ end -}}
   {{- with .Params.orig_rel_date }}{{ $years.Set (substr (printf "%v" .) 0 4) true }}{{ end -}}

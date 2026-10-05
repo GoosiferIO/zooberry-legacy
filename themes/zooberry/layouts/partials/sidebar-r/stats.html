@@ -8,43 +8,22 @@ zt1 mods, zt2 mods, blog posts */}}
 {{ $zt2Mods := len (where $idx.mods "Params.game" "Zoo Tycoon 2") }}
 {{ $modCount := add $zt1Mods $zt2Mods }}
 
-<div class="sidebar_r-inner-a">
-    <table class="tb-df">
-        <thead class="tb-th">
-            <tr>
-                <th>Stats</th>
-            </tr>
-        </thead>
-        <tbody>
-        <tr class="tb-tr">
-            <td class="tb-td">
-                <span>Authors</span> <code>{{ $authors }}</code>
-            </td>
+<section class="stats-box" aria-labelledby="stats-title">
+    <a class="stats-hero" href="/latest/">
+        <span class="stats-hero-value">{{ lang.FormatNumberCustom 0 $modCount }}</span>
+        <span class="stats-hero-label">mods</span>
+    </a>
+    <ul class="stats-grid">
+        <li><a class="stats-tile" href="/mods/zt1/tags/all/"><span class="stats-value">{{ lang.FormatNumberCustom 0 $zt1Mods }}</span><span class="stats-label">Zoo Tycoon 1</span></a></li>
+        <li><a class="stats-tile" href="/mods/zt2/tags/all/"><span class="stats-value">{{ lang.FormatNumberCustom 0 $zt2Mods }}</span><span class="stats-label">Zoo Tycoon 2</span></a></li>
+        <li><a class="stats-tile" href="/authors/"><span class="stats-value">{{ lang.FormatNumberCustom 0 $authors }}</span><span class="stats-label">Authors</span></a></li>
+        <li><a class="stats-tile" href="/archives/"><span class="stats-value">{{ lang.FormatNumberCustom 0 $archivedWebsites }}</span><span class="stats-label">Websites archived</span></a></li>
+    </ul>
+    {{ with index $idx.mods 0 }}
+    <p class="stats-latest">Newest: <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> <span>· {{ .Date.Format "2 Jan 2006" }}</span></p>
+    {{ end }}
+</section>
 
-        </tr>
-        <tr class="tb-tr">
-            <td class="tb-td">
-                <span>Archived Websites</span> <code>{{ $archivedWebsites }}</code>
-            </td>
-        </tr>
-        <tr class="tb-tr">
-            <td class="tb-td">
-                <span>ZT1 Mods</span> <code>{{ $zt1Mods }}</code>
-            </td>
-        </tr>
-        <tr class="tb-tr">
-            <td class="tb-td">
-                <span>ZT2 Mods</span> <code>{{ $zt2Mods }}</code>
-            </td>
-        </tr>
-        <tr class="tb-tr">
-            <td class="tb-td">
-                <span>Total Mods Archived</span> <code>{{ $modCount }}</code>
-            </td>
-        </tr>
-    </table>
-</div>
- 
 <a class="sidebar_r-discord" href="https://discord.gg/g5FvNrRQGC" target="_blank" rel="noopener">
     <img src="{{ .Site.Params.cdn }}images/discord-mark-white.svg" alt="Discord" /> <span>Join our Discord</span>   
 </a>
