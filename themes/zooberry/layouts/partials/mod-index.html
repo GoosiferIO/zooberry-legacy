@@ -13,6 +13,8 @@
 
   {{- if and .Params.zt1tags (ne .Params.game "Zoo Tycoon 1") (not .Params.is_category) }}{{ warnf "%s has zt1tags but game = %q" .RelPermalink .Params.game }}{{ end -}}
   {{- if and .Params.zt2tags (ne .Params.game "Zoo Tycoon 2") (not .Params.is_category) }}{{ warnf "%s has zt2tags but game = %q" .RelPermalink .Params.game }}{{ end -}}
+  {{- $folder := "" }}{{ if hasPrefix .RelPermalink "/mods/zt1/" }}{{ $folder = "Zoo Tycoon 1" }}{{ else if hasPrefix .RelPermalink "/mods/zt2/" }}{{ $folder = "Zoo Tycoon 2" }}{{ end -}}
+  {{- if and $folder (ne .Params.game $folder) (not .Params.is_category) }}{{ warnf "%s is filed under %s but game = %q" .RelPermalink $folder .Params.game }}{{ end -}}
 
   {{- range $authors }}{{ $n := . }}{{ $k := urlize $n }}{{ $byAuthor.Add $k (slice $mod) }}{{ if not ($names.Get $k) }}{{ $names.Set $k $n }}{{ end }}{{ with $authorSpelling.Get $k }}{{ if ne . $n }}{{ warnf "Authors %q and %q share one profile, /authors/%s/ (seen in %s)" . $n $k $mod.RelPermalink }}{{ end }}{{ else }}{{ $authorSpelling.Set $k $n }}{{ end }}{{ end -}}
   {{- range $teams   }}{{ $k := urlize . }}{{ $byTeam.Add   $k (slice $mod) }}{{ if not ($names.Get $k) }}{{ $names.Set $k . }}{{ end }}{{ end -}}
