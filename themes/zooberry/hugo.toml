@@ -17,6 +17,10 @@ name = 'Tags'
 pageRef = '/tags'
 weight = 30
 
+[params]
+  modsPerPage = 30
+  homeMods = 15
+
 [module]
   [module.hugoVersion]
     extended = false

@@ -28,19 +28,8 @@
     <li class="box-card-mods">
         <div class="box-card-mods-img">
             {{/*  get spepcified image in thumbnail field, else first image from images folder in this bundle */}}
+            {{ $thumbnail := "" }}
             {{ with partialCached "mod-thumb.html" . .RelPermalink }}{{ $thumbnail = .RelPermalink }}{{ end }}
-            {{ if .Params.thumbnail }}
-                {{ $image := .Resources.GetMatch .Params.thumbnail }}
-                {{ with $image }}
-                    {{ $processedImage := .Fill "300x200 center" }}
-                    {{ $thumbnail = $processedImage.RelPermalink }}
-                {{ end }}
-            {{ else }}
-                {{ with .Resources.GetMatch "images/*" }}
-                    {{ $processedImage := .Fill "300x200 center" }}
-                    {{ $thumbnail = $processedImage.RelPermalink }}
-                {{ end }}
-            {{ end }}
 
             <a href="{{ .RelPermalink }}">
                 <img src="{{ .Site.Params.cdn }}{{ $thumbnail }}" alt="{{ .LinkTitle }}">

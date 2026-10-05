@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TopCatDk on ZooBerry</title><link>https://www.zooberry.org/authors/topcatdk/</link><description>Recent content in TopCatDk on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 12 Jan 2025 05:00:00 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/topcatdk/index.xml" rel="self" type="application/rss+xml"/><item><title>Better Trainer</title><link>https://www.zooberry.org/mods/zt2/hacks/better-trainer/</link><pubDate>Sun, 12 Jan 2025 05:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/hacks/better-trainer/</guid><description>Improves training efficiency for marina animals.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TopCatDk on ZooBerry</title>
+    <link>http://localhost:1313/authors/topcatdk/</link>
+    <description>Recent content in TopCatDk on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jan 2025 05:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/topcatdk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Better Trainer</title>
+      <link>http://localhost:1313/mods/zt2/hacks/better-trainer/</link>
+      <pubDate>Sun, 12 Jan 2025 05:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/hacks/better-trainer/</guid>
+      <description>Improves training efficiency for marina animals.</description>
+    </item>
+  </channel>
+</rss>

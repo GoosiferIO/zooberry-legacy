@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sirenians on ZooBerry</title><link>https://www.zooberry.org/mods/zt2/tags/sirenians/</link><description>Recent content in Sirenians on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 15:26:52 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/mods/zt2/tags/sirenians/index.xml" rel="self" type="application/rss+xml"/><item><title>Dugong</title><link>https://www.zooberry.org/mods/zt2/animals/living/dugong/</link><pubDate>Mon, 01 Jan 2024 15:26:52 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/dugong/</guid><description>The dugong (sometimes refered to as a sea cow) is a mammal- that is, it suckles its young.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sirenians on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt2/tags/sirenians/</link>
+    <description>Recent content in Sirenians on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 15:26:52 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mods/zt2/tags/sirenians/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dugong</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/dugong/</link>
+      <pubDate>Mon, 01 Jan 2024 15:26:52 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/dugong/</guid>
+      <description>The dugong (sometimes refered to as a sea cow) is a mammal- that is, it suckles its young.</description>
+    </item>
+  </channel>
+</rss>

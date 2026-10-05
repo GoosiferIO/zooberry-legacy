@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Maks on ZooBerry</title><link>https://www.zooberry.org/authors/maks/</link><description>Recent content in Maks on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 18 Nov 2024 11:25:55 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/authors/maks/index.xml" rel="self" type="application/rss+xml"/><item><title>Jungle Escape</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/jungle-escape/</link><pubDate>Mon, 18 Nov 2024 11:25:55 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/jungle-escape/</guid><description>Add an UXP containing several birds from different tropical regions. Objects fit perfectly with the default jungle theme.</description></item><item><title>Koi Carp</title><link>https://www.zooberry.org/mods/zt2/animals/living/koi-carp/</link><pubDate>Sat, 18 Nov 2023 04:21:07 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/koi-carp/</guid><description>A domesticated cyprinid known for their wide range of color morphs.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maks on ZooBerry</title>
+    <link>http://localhost:1313/authors/maks/</link>
+    <description>Recent content in Maks on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Nov 2024 11:25:55 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/maks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jungle Escape</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/jungle-escape/</link>
+      <pubDate>Mon, 18 Nov 2024 11:25:55 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/jungle-escape/</guid>
+      <description>Add an UXP containing several birds from different tropical regions. Objects fit perfectly with the default jungle theme.</description>
+    </item>
+    <item>
+      <title>Koi Carp</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/koi-carp/</link>
+      <pubDate>Sat, 18 Nov 2023 04:21:07 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/koi-carp/</guid>
+      <description>A domesticated cyprinid known for their wide range of color morphs.</description>
+    </item>
+  </channel>
+</rss>

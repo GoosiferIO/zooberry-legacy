@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shadow and Flame on ZooBerry</title><link>https://www.zooberry.org/authors/shadow-and-flame/</link><description>Recent content in Shadow and Flame on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2024 16:00:00 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/authors/shadow-and-flame/index.xml" rel="self" type="application/rss+xml"/><item><title>Eevee</title><link>https://www.zooberry.org/mods/zt2/animals/fictional/eevee/</link><pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/fictional/eevee/</guid><description>Adorable Eevee for your zoo.</description></item><item><title>Silver Eevee</title><link>https://www.zooberry.org/mods/zt2/animals/fictional/silver-eevee/</link><pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/fictional/silver-eevee/</guid><description>Another Eevee variant for your zoo.</description></item><item><title>Tigers</title><link>https://www.zooberry.org/mods/zt2/animals/living/tigers/</link><pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/tigers/</guid><description>Bengal tiger pack with four natural coat variations.</description></item><item><title>Umbreon and Blue Umbreon</title><link>https://www.zooberry.org/mods/zt2/animals/fictional/umbreon-and-blue-umbreon/</link><pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/fictional/umbreon-and-blue-umbreon/</guid><description>A pair of interbreeding Pokemon species.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shadow and Flame on ZooBerry</title>
+    <link>http://localhost:1313/authors/shadow-and-flame/</link>
+    <description>Recent content in Shadow and Flame on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Nov 2024 16:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/shadow-and-flame/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eevee</title>
+      <link>http://localhost:1313/mods/zt2/animals/fictional/eevee/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/fictional/eevee/</guid>
+      <description>Adorable Eevee for your zoo.</description>
+    </item>
+    <item>
+      <title>Silver Eevee</title>
+      <link>http://localhost:1313/mods/zt2/animals/fictional/silver-eevee/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/fictional/silver-eevee/</guid>
+      <description>Another Eevee variant for your zoo.</description>
+    </item>
+    <item>
+      <title>Tigers</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/tigers/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/tigers/</guid>
+      <description>Bengal tiger pack with four natural coat variations.</description>
+    </item>
+    <item>
+      <title>Umbreon and Blue Umbreon</title>
+      <link>http://localhost:1313/mods/zt2/animals/fictional/umbreon-and-blue-umbreon/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/fictional/umbreon-and-blue-umbreon/</guid>
+      <description>A pair of interbreeding Pokemon species.</description>
+    </item>
+  </channel>
+</rss>

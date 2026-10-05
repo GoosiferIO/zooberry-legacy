@@ -1,1 +1,103 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Equids on ZooBerry</title><link>https://www.zooberry.org/mods/zt2/tags/equids/</link><description>Recent content in Equids on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2025 11:00:53 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/mods/zt2/tags/equids/index.xml" rel="self" type="application/rss+xml"/><item><title>Somali Wild Ass</title><link>https://www.zooberry.org/mods/zt2/animals/living/somali-wild-ass/</link><pubDate>Tue, 28 Jan 2025 11:00:53 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/somali-wild-ass/</guid><description>The Somali wild ass is a critically endangered subspecies of African wild ass native to the arid regions of the Horn of Africa.</description></item><item><title>Fire and Ice Unicorn</title><link>https://www.zooberry.org/mods/zt2/animals/fictional/fire-and-ice-unicorn/</link><pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/fictional/fire-and-ice-unicorn/</guid><description>A fiery and icy unicorn duo for your zoo.</description></item><item><title>Party Zebra</title><link>https://www.zooberry.org/mods/zt2/animals/fictional/party-zebra/</link><pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/fictional/party-zebra/</guid><description>A festive addition to celebrate ATW4.</description></item><item><title>Quagga</title><link>https://www.zooberry.org/mods/zt2/animals/extinct/quagga/</link><pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/extinct/quagga/</guid><description>A beautiful extinct subspecies of Plains Zebra.</description></item><item><title>Norwegian Fjord Pony</title><link>https://www.zooberry.org/mods/zt2/animals/living/norwegian-fjord-pony/</link><pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/norwegian-fjord-pony/</guid><description>A domesticated pony, one of the oldest horse breeds known to mankind.</description></item><item><title>Grant's Zebra</title><link>https://www.zooberry.org/mods/zt2/animals/living/grants-zebra/</link><pubDate>Sat, 22 Jun 2024 21:28:07 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/grants-zebra/</guid><description>This is a Grant&amp;rsquo;s Zebra mod for Zoo Tycoon 2, created by DutchDesigns.</description></item><item><title>Desert Pack</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/desert-pack/</link><pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/desert-pack/</guid><description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description></item><item><title>Grassland Pack</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/grassland-pack/</link><pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/grassland-pack/</guid><description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description></item><item><title>Savannah Pack</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/savannah-pack/</link><pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/savannah-pack/</guid><description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description></item><item><title>Exmoor Pony</title><link>https://www.zooberry.org/mods/zt2/animals/living/exmoor-pony/</link><pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/exmoor-pony/</guid><description>The Exmoor Pony is a hardy, sturdy breed of semi-feral pony, one of many of the mountain and moorland ponies of the British Isles.</description></item><item><title>Zebroid</title><link>https://www.zooberry.org/mods/zt2/animals/living/zebroid/</link><pubDate>Sat, 30 Dec 2023 00:33:45 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/zebroid/</guid><description>A zebroid is a cross between a zebra and any other equid: essentially, a zebra hybrid.</description></item><item><title>Miniature Pony</title><link>https://www.zooberry.org/mods/zt2/animals/living/miniature-pony/</link><pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/miniature-pony/</guid><description>A miniature pony! for your zoo! =D</description></item><item><title>Kiang</title><link>https://www.zooberry.org/mods/zt2/animals/living/kiang/</link><pubDate>Tue, 18 Jul 2023 23:04:46 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/kiang/</guid><description>This Asian equid lives in the desert biome, and is a light sandy colour.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Equids on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt2/tags/equids/</link>
+    <description>Recent content in Equids on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2025 11:00:53 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/mods/zt2/tags/equids/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Somali Wild Ass</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/somali-wild-ass/</link>
+      <pubDate>Tue, 28 Jan 2025 11:00:53 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/somali-wild-ass/</guid>
+      <description>The Somali wild ass is a critically endangered subspecies of African wild ass native to the arid regions of the Horn of Africa.</description>
+    </item>
+    <item>
+      <title>Fire and Ice Unicorn</title>
+      <link>http://localhost:1313/mods/zt2/animals/fictional/fire-and-ice-unicorn/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/fictional/fire-and-ice-unicorn/</guid>
+      <description>A fiery and icy unicorn duo for your zoo.</description>
+    </item>
+    <item>
+      <title>Party Zebra</title>
+      <link>http://localhost:1313/mods/zt2/animals/fictional/party-zebra/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/fictional/party-zebra/</guid>
+      <description>A festive addition to celebrate ATW4.</description>
+    </item>
+    <item>
+      <title>Quagga</title>
+      <link>http://localhost:1313/mods/zt2/animals/extinct/quagga/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/extinct/quagga/</guid>
+      <description>A beautiful extinct subspecies of Plains Zebra.</description>
+    </item>
+    <item>
+      <title>Norwegian Fjord Pony</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/norwegian-fjord-pony/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/norwegian-fjord-pony/</guid>
+      <description>A domesticated pony, one of the oldest horse breeds known to mankind.</description>
+    </item>
+    <item>
+      <title>Grant&#39;s Zebra</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/grants-zebra/</link>
+      <pubDate>Sat, 22 Jun 2024 21:28:07 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/grants-zebra/</guid>
+      <description>This is a Grant&amp;rsquo;s Zebra mod for Zoo Tycoon 2, created by DutchDesigns.</description>
+    </item>
+    <item>
+      <title>Desert Pack</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/desert-pack/</link>
+      <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/desert-pack/</guid>
+      <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
+    </item>
+    <item>
+      <title>Grassland Pack</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/grassland-pack/</link>
+      <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/grassland-pack/</guid>
+      <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
+    </item>
+    <item>
+      <title>Savannah Pack</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/savannah-pack/</link>
+      <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/savannah-pack/</guid>
+      <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
+    </item>
+    <item>
+      <title>Exmoor Pony</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/exmoor-pony/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/exmoor-pony/</guid>
+      <description>The Exmoor Pony is a hardy, sturdy breed of semi-feral pony, one of many of the mountain and moorland ponies of the British Isles.</description>
+    </item>
+    <item>
+      <title>Zebroid</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/zebroid/</link>
+      <pubDate>Sat, 30 Dec 2023 00:33:45 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/zebroid/</guid>
+      <description>A zebroid is a cross between a zebra and any other equid: essentially, a zebra hybrid.</description>
+    </item>
+    <item>
+      <title>Miniature Pony</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/miniature-pony/</link>
+      <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/miniature-pony/</guid>
+      <description>A miniature pony! for your zoo! =D</description>
+    </item>
+    <item>
+      <title>Kiang</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/kiang/</link>
+      <pubDate>Tue, 18 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/kiang/</guid>
+      <description>This Asian equid lives in the desert biome, and is a light sandy colour.</description>
+    </item>
+  </channel>
+</rss>

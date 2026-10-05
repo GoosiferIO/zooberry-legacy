@@ -1,1 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Prehistoric on ZooBerry</title><link>https://www.zooberry.org/mods/zt2/tags/prehistoric/</link><description>Recent content in Prehistoric on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2024 21:30:00 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/mods/zt2/tags/prehistoric/index.xml" rel="self" type="application/rss+xml"/><item><title>Scutosaurus</title><link>https://www.zooberry.org/mods/zt2/animals/extinct/scutosaurus/</link><pubDate>Mon, 25 Nov 2024 21:30:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/extinct/scutosaurus/</guid><description>A prehistoric animal that lived around 250 million years ago, created by Papa Panda.</description></item><item><title>Pterosaur Pack North America</title><link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/pterosaur-pack-na/</link><pubDate>Tue, 25 Jun 2024 09:09:08 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/pterosaur-pack-na/</guid><description>A collection of pterosaurs from North America.</description></item><item><title>Prehistoric Sharks and Biome Mini-Pack</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/prehistoric-sharks-and-biome-pack/</link><pubDate>Fri, 21 Jun 2024 22:04:13 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/prehistoric-sharks-and-biome-pack/</guid><description>A pack with two animals and a new biome.</description></item><item><title>Pterosaur Remakes Pack 1</title><link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/pterosaur-pack-1/</link><pubDate>Thu, 20 Jun 2024 18:36:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/pterosaur-pack-1/</guid><description>Two pterosaurs by Andrew12 and PrimevalRaptor, and a remake of the Quetzalcoatlus by Hendrix.</description></item><item><title>Pterosaur Remakes Pack 2</title><link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/pterosaur-pack-2/</link><pubDate>Thu, 20 Jun 2024 18:36:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/pterosaur-pack-2/</guid><description>Six pterosaurs by Andrew12.</description></item><item><title>Dicynodont Pack</title><link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/dicynodont-pack/</link><pubDate>Sat, 18 Nov 2023 18:09:48 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/dicynodont-pack/</guid><description>A pack of four dicynodonts, which are a group of therapsids the Permian and Triassic.</description></item><item><title>Hexaprotodon Pack</title><link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/hexaprotodon-pack/</link><pubDate>Sat, 18 Nov 2023 18:09:48 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/hexaprotodon-pack/</guid><description>Three extinct hippopotamids from the genus Hexaprotodon.</description></item><item><title>Megafauna Pack</title><link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/megafauna-pack/</link><pubDate>Mon, 24 Jul 2023 18:26:34 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/megafauna-pack/</guid><description>A megafauna pack made by Zooasaurus.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prehistoric on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt2/tags/prehistoric/</link>
+    <description>Recent content in Prehistoric on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2024 21:30:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mods/zt2/tags/prehistoric/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scutosaurus</title>
+      <link>http://localhost:1313/mods/zt2/animals/extinct/scutosaurus/</link>
+      <pubDate>Mon, 25 Nov 2024 21:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/extinct/scutosaurus/</guid>
+      <description>A prehistoric animal that lived around 250 million years ago, created by Papa Panda.</description>
+    </item>
+    <item>
+      <title>Pterosaur Pack North America</title>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/pterosaur-pack-na/</link>
+      <pubDate>Tue, 25 Jun 2024 09:09:08 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/pterosaur-pack-na/</guid>
+      <description>A collection of pterosaurs from North America.</description>
+    </item>
+    <item>
+      <title>Prehistoric Sharks and Biome Mini-Pack</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/prehistoric-sharks-and-biome-pack/</link>
+      <pubDate>Fri, 21 Jun 2024 22:04:13 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/prehistoric-sharks-and-biome-pack/</guid>
+      <description>A pack with two animals and a new biome.</description>
+    </item>
+    <item>
+      <title>Pterosaur Remakes Pack 1</title>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/pterosaur-pack-1/</link>
+      <pubDate>Thu, 20 Jun 2024 18:36:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/pterosaur-pack-1/</guid>
+      <description>Two pterosaurs by Andrew12 and PrimevalRaptor, and a remake of the Quetzalcoatlus by Hendrix.</description>
+    </item>
+    <item>
+      <title>Pterosaur Remakes Pack 2</title>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/pterosaur-pack-2/</link>
+      <pubDate>Thu, 20 Jun 2024 18:36:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/pterosaur-pack-2/</guid>
+      <description>Six pterosaurs by Andrew12.</description>
+    </item>
+    <item>
+      <title>Dicynodont Pack</title>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/dicynodont-pack/</link>
+      <pubDate>Sat, 18 Nov 2023 18:09:48 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/dicynodont-pack/</guid>
+      <description>A pack of four dicynodonts, which are a group of therapsids the Permian and Triassic.</description>
+    </item>
+    <item>
+      <title>Hexaprotodon Pack</title>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/hexaprotodon-pack/</link>
+      <pubDate>Sat, 18 Nov 2023 18:09:48 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/hexaprotodon-pack/</guid>
+      <description>Three extinct hippopotamids from the genus Hexaprotodon.</description>
+    </item>
+    <item>
+      <title>Megafauna Pack</title>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/megafauna-pack/</link>
+      <pubDate>Mon, 24 Jul 2023 18:26:34 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/megafauna-pack/</guid>
+      <description>A megafauna pack made by Zooasaurus.</description>
+    </item>
+  </channel>
+</rss>

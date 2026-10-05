@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biomes on ZooBerry</title><link>https://www.zooberry.org/mods/zt2/biomes/</link><description>Recent content in Biomes on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 14 Jan 2024 01:51:12 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/mods/zt2/biomes/index.xml" rel="self" type="application/rss+xml"/><item><title>Montane Forest</title><link>https://www.zooberry.org/mods/zt2/biomes/montane-forest/</link><pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/biomes/montane-forest/</guid><description>Montane forests are a type of tropical moist forest that exist at higher elevations.</description></item><item><title>Moorland</title><link>https://www.zooberry.org/mods/zt2/biomes/moorland/</link><pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/biomes/moorland/</guid><description>Moorland is an upland habitat covered in low lying vegetation, such as hardy grasses and thick carpets of heather.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biomes on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt2/biomes/</link>
+    <description>Recent content in Biomes on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2024 01:51:12 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mods/zt2/biomes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Montane Forest</title>
+      <link>http://localhost:1313/mods/zt2/biomes/montane-forest/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/biomes/montane-forest/</guid>
+      <description>Montane forests are a type of tropical moist forest that exist at higher elevations.</description>
+    </item>
+    <item>
+      <title>Moorland</title>
+      <link>http://localhost:1313/mods/zt2/biomes/moorland/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/biomes/moorland/</guid>
+      <description>Moorland is an upland habitat covered in low lying vegetation, such as hardy grasses and thick carpets of heather.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yellowrose on ZooBerry</title><link>https://www.zooberry.org/authors/yellowrose/</link><description>Recent content in Yellowrose on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2025 15:00:00 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/yellowrose/index.xml" rel="self" type="application/rss+xml"/><item><title>LangZA03.dll</title><link>https://www.zooberry.org/mods/zt1/tools-utilities/langza03/</link><pubDate>Tue, 07 Jan 2025 15:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt1/tools-utilities/langza03/</guid><description>LangZA03.dll consolidates and replaces several dll files, updating building messages and resolving conflicts for Zoo Admin releases up to January 2020.</description></item><item><title>YR ZT 2 Path Pack 1</title><link>https://www.zooberry.org/mods/zt2/objects/paths/yr-zt2-path-pack-1/</link><pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/paths/yr-zt2-path-pack-1/</guid><description>A pack of nine paths to beautify your zoos.</description></item><item><title>YR St Patty's Day Path</title><link>https://www.zooberry.org/mods/zt2/objects/paths/yr-st-pattys-day-path/</link><pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/paths/yr-st-pattys-day-path/</guid><description>A St. Patty&amp;rsquo;s Day path.</description></item><item><title>Alpine Pack</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/alpine-pack/</link><pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/alpine-pack/</guid><description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description></item><item><title>Tundra Pack</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/tundra-pack/</link><pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/tundra-pack/</guid><description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yellowrose on ZooBerry</title>
+    <link>http://localhost:1313/authors/yellowrose/</link>
+    <description>Recent content in Yellowrose on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2025 15:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/yellowrose/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LangZA03.dll</title>
+      <link>http://localhost:1313/mods/zt1/tools-utilities/langza03/</link>
+      <pubDate>Tue, 07 Jan 2025 15:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt1/tools-utilities/langza03/</guid>
+      <description>LangZA03.dll consolidates and replaces several dll files, updating building messages and resolving conflicts for Zoo Admin releases up to January 2020.</description>
+    </item>
+    <item>
+      <title>YR ZT 2 Path Pack 1</title>
+      <link>http://localhost:1313/mods/zt2/objects/paths/yr-zt2-path-pack-1/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/paths/yr-zt2-path-pack-1/</guid>
+      <description>A pack of nine paths to beautify your zoos.</description>
+    </item>
+    <item>
+      <title>YR St Patty&#39;s Day Path</title>
+      <link>http://localhost:1313/mods/zt2/objects/paths/yr-st-pattys-day-path/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/paths/yr-st-pattys-day-path/</guid>
+      <description>A St. Patty&amp;rsquo;s Day path.</description>
+    </item>
+    <item>
+      <title>Alpine Pack</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/alpine-pack/</link>
+      <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/alpine-pack/</guid>
+      <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
+    </item>
+    <item>
+      <title>Tundra Pack</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/tundra-pack/</link>
+      <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/tundra-pack/</guid>
+      <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Adam1990 on ZooBerry</title><link>https://www.zooberry.org/authors/adam1990/</link><description>Recent content in Adam1990 on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2025 11:00:00 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/adam1990/index.xml" rel="self" type="application/rss+xml"/><item><title>Flamingo Frenzy Zoo Save File</title><link>https://www.zooberry.org/mods/zt2/save-files/flamingo-frenzy-zoo/</link><pubDate>Tue, 28 Jan 2025 11:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/save-files/flamingo-frenzy-zoo/</guid><description>This is a 2 and a half star zoo that contains 6 different kinds of flamingos, one being the greater flamingo.</description></item><item><title>Komodo Falls Zoo Save File</title><link>https://www.zooberry.org/mods/zt2/save-files/komodo-falls-zoo/</link><pubDate>Tue, 28 Jan 2025 11:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/save-files/komodo-falls-zoo/</guid><description>This is a 5 star zoo that has 3 waterfalls (2 huge ones) and many rare animals including the Giant Panda, Florida Panther, and the Ethiopian Wolf. There is also a sky tram. You need the AA and ES expansions for this zoo to work. I hope you enjoy the Komodo Falls Zoo!</description></item><item><title>Wallaroo</title><link>https://www.zooberry.org/mods/zt2/animals/living/wallaroo/</link><pubDate>Fri, 21 Jul 2023 17:24:54 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/wallaroo/</guid><description>It is one star, main biome is scrub, but it also likes alpine.</description></item><item><title>Dwarf Panda</title><link>https://www.zooberry.org/mods/zt2/animals/extinct/dwarf-panda/</link><pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/extinct/dwarf-panda/</guid><description>An extinct version of the giant panda, about half its size.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adam1990 on ZooBerry</title>
+    <link>http://localhost:1313/authors/adam1990/</link>
+    <description>Recent content in Adam1990 on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2025 11:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/adam1990/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flamingo Frenzy Zoo Save File</title>
+      <link>http://localhost:1313/mods/zt2/save-files/flamingo-frenzy-zoo/</link>
+      <pubDate>Tue, 28 Jan 2025 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/save-files/flamingo-frenzy-zoo/</guid>
+      <description>This is a 2 and a half star zoo that contains 6 different kinds of flamingos, one being the greater flamingo.</description>
+    </item>
+    <item>
+      <title>Komodo Falls Zoo Save File</title>
+      <link>http://localhost:1313/mods/zt2/save-files/komodo-falls-zoo/</link>
+      <pubDate>Tue, 28 Jan 2025 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/save-files/komodo-falls-zoo/</guid>
+      <description>This is a 5 star zoo that has 3 waterfalls (2 huge ones) and many rare animals including the Giant Panda, Florida Panther, and the Ethiopian Wolf.  There is also a sky tram. You need the  AA and ES expansions for this zoo to work.  I hope you enjoy the Komodo Falls Zoo!</description>
+    </item>
+    <item>
+      <title>Wallaroo</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/wallaroo/</link>
+      <pubDate>Fri, 21 Jul 2023 17:24:54 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/wallaroo/</guid>
+      <description>It is one star, main biome is scrub, but it also likes alpine.</description>
+    </item>
+    <item>
+      <title>Dwarf Panda</title>
+      <link>http://localhost:1313/mods/zt2/animals/extinct/dwarf-panda/</link>
+      <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/extinct/dwarf-panda/</guid>
+      <description>An extinct version of the giant panda, about half its size.</description>
+    </item>
+  </channel>
+</rss>

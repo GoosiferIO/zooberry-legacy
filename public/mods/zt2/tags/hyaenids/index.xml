@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hyaenids on ZooBerry</title><link>https://www.zooberry.org/mods/zt2/tags/hyaenids/</link><description>Recent content in Hyaenids on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2024 04:00:00 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/mods/zt2/tags/hyaenids/index.xml" rel="self" type="application/rss+xml"/><item><title>Spotted Hyena II</title><link>https://www.zooberry.org/mods/zt2/animals/living/spotted-hyena-ii/</link><pubDate>Mon, 25 Nov 2024 04:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/spotted-hyena-ii/</guid><description>The Spotted Hyena requires the Endangered Species and African Adventure expansions to use.</description></item><item><title>Aardwolf</title><link>https://www.zooberry.org/mods/zt2/animals/living/aardwolf/</link><pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/aardwolf/</guid><description>Here is the Aardwolf! This African insectivore is coded by Penguinman and recolored by Exitree. Enjoy!</description></item><item><title>Spotted Hyena</title><link>https://www.zooberry.org/mods/zt2/animals/living/spotted-hyena/</link><pubDate>Fri, 24 Nov 2023 04:01:47 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/spotted-hyena/</guid><description>Spotted hyenas are the largest member of the family Hyaenidae. This family also includes three other hyena species.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hyaenids on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt2/tags/hyaenids/</link>
+    <description>Recent content in Hyaenids on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2024 04:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mods/zt2/tags/hyaenids/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spotted Hyena II</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/spotted-hyena-ii/</link>
+      <pubDate>Mon, 25 Nov 2024 04:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/spotted-hyena-ii/</guid>
+      <description>The Spotted Hyena requires the Endangered Species and African Adventure expansions to use.</description>
+    </item>
+    <item>
+      <title>Aardwolf</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/aardwolf/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/aardwolf/</guid>
+      <description>Here is the Aardwolf! This African insectivore is coded by Penguinman and recolored by Exitree. Enjoy!</description>
+    </item>
+    <item>
+      <title>Spotted Hyena</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/spotted-hyena/</link>
+      <pubDate>Fri, 24 Nov 2023 04:01:47 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/spotted-hyena/</guid>
+      <description>Spotted hyenas are the largest member of the family Hyaenidae. This family also includes three other hyena species.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cheats on ZooBerry</title><link>https://www.zooberry.org/mods/zt1/tags/cheats/</link><description>Recent content in Cheats on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 21 Mar 2024 21:03:09 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/mods/zt1/tags/cheats/index.xml" rel="self" type="application/rss+xml"/><item><title>Invisible Fences Cheat Code</title><link>https://www.zooberry.org/mods/zt1/hacks/invisible-fences-easter-egg/</link><pubDate>Thu, 21 Mar 2024 21:03:09 -0700</pubDate><guid>https://www.zooberry.org/mods/zt1/hacks/invisible-fences-easter-egg/</guid><description>Use cheat codes to make fences invisible!</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheats on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt1/tags/cheats/</link>
+    <description>Recent content in Cheats on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Mar 2024 21:03:09 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/mods/zt1/tags/cheats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Invisible Fences Cheat Code</title>
+      <link>http://localhost:1313/mods/zt1/hacks/invisible-fences-easter-egg/</link>
+      <pubDate>Thu, 21 Mar 2024 21:03:09 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt1/hacks/invisible-fences-easter-egg/</guid>
+      <description>Use cheat codes to make fences invisible!</description>
+    </item>
+  </channel>
+</rss>

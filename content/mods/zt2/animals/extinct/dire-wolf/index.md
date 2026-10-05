@@ -13,7 +13,7 @@ date: 2023-07-18T23:04:46-08:00
 orig_rel_at: 
 - ZooMania
 draft: false
-thumbnail: vuxzanpire_direwolf_thumb.jpg
+thumbnail: dire-wolf_thumb.jpg
 alt_text: 
 license: Unknown
 languages:

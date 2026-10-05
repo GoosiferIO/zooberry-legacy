@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Horse14t on ZooBerry</title><link>https://www.zooberry.org/authors/horse14t/</link><description>Recent content in Horse14t on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 07 Oct 2024 01:09:23 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/authors/horse14t/index.xml" rel="self" type="application/rss+xml"/><item><title>Dinosaur Digs Marketing Beta Pack</title><link>https://www.zooberry.org/mods/zt1/expansive-packs/dinosaur-digs-marketing-beta-pack/</link><pubDate>Mon, 07 Oct 2024 01:09:23 +0000</pubDate><guid>https://www.zooberry.org/mods/zt1/expansive-packs/dinosaur-digs-marketing-beta-pack/</guid><description>A pack that converts content from the Dinosaur Digs marketing beta to the retail version of the game.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Horse14t on ZooBerry</title>
+    <link>http://localhost:1313/authors/horse14t/</link>
+    <description>Recent content in Horse14t on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Oct 2024 01:09:23 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/horse14t/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dinosaur Digs Marketing Beta Pack</title>
+      <link>http://localhost:1313/mods/zt1/expansive-packs/dinosaur-digs-marketing-beta-pack/</link>
+      <pubDate>Mon, 07 Oct 2024 01:09:23 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt1/expansive-packs/dinosaur-digs-marketing-beta-pack/</guid>
+      <description>A pack that converts content from the Dinosaur Digs marketing beta to the retail version of the game.</description>
+    </item>
+  </channel>
+</rss>

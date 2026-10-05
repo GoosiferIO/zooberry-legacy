@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ZooTycoonFanic on ZooBerry</title><link>https://www.zooberry.org/authors/zootycoonfanic/</link><description>Recent content in ZooTycoonFanic on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 25 Jan 2025 03:00:00 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/zootycoonfanic/index.xml" rel="self" type="application/rss+xml"/><item><title>Desert Oasis AA Template Map</title><link>https://www.zooberry.org/mods/zt2/maps/desert-oasis-aa-map/</link><pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/maps/desert-oasis-aa-map/</guid><description>This is my version of desert oasis. Please do not get this mixed up with the ES version.</description></item><item><title>Egg Island Template Map</title><link>https://www.zooberry.org/mods/zt2/maps/egg-island/</link><pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/maps/egg-island/</guid><description>A grassland zoo with an egg in the center. Everything else is water. Expansions required none.</description></item><item><title>Mysterious Creature Zoo</title><link>https://www.zooberry.org/mods/zt2/maps/mysterious-creature-zoo/</link><pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/maps/mysterious-creature-zoo/</guid><description>What Creature was here? Using grassland biome water footprints show up randomly around the zoo. No expansions are required.</description></item><item><title>Ocean City Template Map</title><link>https://www.zooberry.org/mods/zt2/maps/ocean-city/</link><pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/maps/ocean-city/</guid><description>This is my ZT2 version of the salt water zoo in ZT1. It uses Tropical Rainforest for the biome and no expansions are required.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZooTycoonFanic on ZooBerry</title>
+    <link>http://localhost:1313/authors/zootycoonfanic/</link>
+    <description>Recent content in ZooTycoonFanic on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jan 2025 03:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/zootycoonfanic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Desert Oasis AA Template Map</title>
+      <link>http://localhost:1313/mods/zt2/maps/desert-oasis-aa-map/</link>
+      <pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/maps/desert-oasis-aa-map/</guid>
+      <description>This is my version of desert oasis. Please do not get this mixed up with the ES version.</description>
+    </item>
+    <item>
+      <title>Egg Island Template Map</title>
+      <link>http://localhost:1313/mods/zt2/maps/egg-island/</link>
+      <pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/maps/egg-island/</guid>
+      <description>A grassland zoo with an egg in the center. Everything else is water. Expansions required none.</description>
+    </item>
+    <item>
+      <title>Mysterious Creature Zoo</title>
+      <link>http://localhost:1313/mods/zt2/maps/mysterious-creature-zoo/</link>
+      <pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/maps/mysterious-creature-zoo/</guid>
+      <description>What Creature was here? Using grassland biome water footprints show up randomly around the zoo. No expansions are required.</description>
+    </item>
+    <item>
+      <title>Ocean City Template Map</title>
+      <link>http://localhost:1313/mods/zt2/maps/ocean-city/</link>
+      <pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/maps/ocean-city/</guid>
+      <description>This is my ZT2 version of the salt water zoo in ZT1. It uses Tropical Rainforest for the biome and no expansions are required.</description>
+    </item>
+  </channel>
+</rss>

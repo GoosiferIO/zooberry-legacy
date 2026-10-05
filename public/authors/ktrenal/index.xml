@@ -1,1 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ktrenal on ZooBerry</title><link>https://www.zooberry.org/authors/ktrenal/</link><description>Recent content in Ktrenal on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 12 Nov 2023 02:05:55 -0800</lastBuildDate><atom:link href="https://www.zooberry.org/authors/ktrenal/index.xml" rel="self" type="application/rss+xml"/><item><title>Scimitar Horned Oryx Variants</title><link>https://www.zooberry.org/mods/zt2/texture-mods/variants/scimitar-horned-oryx-variants/</link><pubDate>Sun, 12 Nov 2023 02:05:55 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/scimitar-horned-oryx-variants/</guid><description>Two new variants to add variety to your herd of Scimitar Horned Oryxes.</description></item><item><title>Camel Variants II</title><link>https://www.zooberry.org/mods/zt2/texture-mods/variants/camel-variants-kt/</link><pubDate>Sun, 12 Nov 2023 02:05:12 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/camel-variants-kt/</guid><description>This bundle includes three Dromedary Camel variant skins made by Ktrenal.</description></item><item><title>Bengal Tiger Variants</title><link>https://www.zooberry.org/mods/zt2/texture-mods/variants/bengal-tiger-variants-kt/</link><pubDate>Mon, 30 Oct 2023 20:36:32 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/bengal-tiger-variants-kt/</guid><description>Four bengal tiger variants made by Ktrenal.</description></item><item><title>Fennec Fox Variants</title><link>https://www.zooberry.org/mods/zt2/texture-mods/variants/fennec-fox-variants-kt/</link><pubDate>Mon, 30 Oct 2023 20:32:43 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/fennec-fox-variants-kt/</guid><description>Included are three fennec fox variants made by Ktrenal.</description></item><item><title>Velociraptor Variants</title><link>https://www.zooberry.org/mods/zt2/texture-mods/variants/velociraptor-variants-kt/</link><pubDate>Thu, 28 Sep 2023 00:30:57 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/velociraptor-variants-kt/</guid><description>Summary of the Velociraptor Variants Kt project</description></item><item><title>Striped Hyena Variants</title><link>https://www.zooberry.org/mods/zt2/texture-mods/variants/striped-hyena-variants-kt/</link><pubDate>Thu, 28 Sep 2023 00:27:06 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/striped-hyena-variants-kt/</guid><description>Two new striped hyena variants by Ktrenal.</description></item><item><title>African Spurred Tortoise Variants</title><link>https://www.zooberry.org/mods/zt2/texture-mods/variants/african-spurred-tort-vars-ktrenal/</link><pubDate>Mon, 25 Sep 2023 12:35:52 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/african-spurred-tort-vars-ktrenal/</guid><description>A pack of six African spurred tortoise variants by Ktrenal.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ktrenal on ZooBerry</title>
+    <link>http://localhost:1313/authors/ktrenal/</link>
+    <description>Recent content in Ktrenal on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Nov 2023 02:05:55 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/ktrenal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scimitar Horned Oryx Variants</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/variants/scimitar-horned-oryx-variants/</link>
+      <pubDate>Sun, 12 Nov 2023 02:05:55 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/variants/scimitar-horned-oryx-variants/</guid>
+      <description>Two new variants to add variety to your herd of Scimitar Horned Oryxes.</description>
+    </item>
+    <item>
+      <title>Camel Variants II</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/variants/camel-variants-kt/</link>
+      <pubDate>Sun, 12 Nov 2023 02:05:12 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/variants/camel-variants-kt/</guid>
+      <description>This bundle includes three Dromedary Camel variant skins made by Ktrenal.</description>
+    </item>
+    <item>
+      <title>Bengal Tiger Variants</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/variants/bengal-tiger-variants-kt/</link>
+      <pubDate>Mon, 30 Oct 2023 20:36:32 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/variants/bengal-tiger-variants-kt/</guid>
+      <description>Four bengal tiger variants made by Ktrenal.</description>
+    </item>
+    <item>
+      <title>Fennec Fox Variants</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/variants/fennec-fox-variants-kt/</link>
+      <pubDate>Mon, 30 Oct 2023 20:32:43 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/variants/fennec-fox-variants-kt/</guid>
+      <description>Included are three fennec fox variants made by Ktrenal.</description>
+    </item>
+    <item>
+      <title>Velociraptor Variants</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/variants/velociraptor-variants-kt/</link>
+      <pubDate>Thu, 28 Sep 2023 00:30:57 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/variants/velociraptor-variants-kt/</guid>
+      <description>Summary of the Velociraptor Variants Kt project</description>
+    </item>
+    <item>
+      <title>Striped Hyena Variants</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/variants/striped-hyena-variants-kt/</link>
+      <pubDate>Thu, 28 Sep 2023 00:27:06 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/variants/striped-hyena-variants-kt/</guid>
+      <description>Two new striped hyena variants by Ktrenal.</description>
+    </item>
+    <item>
+      <title>African Spurred Tortoise Variants</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/variants/african-spurred-tort-vars-ktrenal/</link>
+      <pubDate>Mon, 25 Sep 2023 12:35:52 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/variants/african-spurred-tort-vars-ktrenal/</guid>
+      <description>A pack of six African spurred tortoise variants by Ktrenal.</description>
+    </item>
+  </channel>
+</rss>

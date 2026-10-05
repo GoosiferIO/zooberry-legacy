@@ -1,1 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tools and Utilities on ZooBerry</title><link>https://www.zooberry.org/mods/zt2/tools-utilities/</link><description>Recent content in Tools and Utilities on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2024 20:00:00 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/mods/zt2/tools-utilities/index.xml" rel="self" type="application/rss+xml"/><item><title>Gooey Party Pack</title><link>https://www.zooberry.org/mods/zt2/tools-utilities/gooey-party-pack/</link><pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/tools-utilities/gooey-party-pack/</guid><description>A colorful pack of Gooeys with bonus features.</description></item><item><title>Gooey Party Pack 2</title><link>https://www.zooberry.org/mods/zt2/tools-utilities/gooey-party-pack-2/</link><pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/tools-utilities/gooey-party-pack-2/</guid><description>A follow-up to the original Gooey Party Pack with new Gooeys and extras.</description></item><item><title>Gooey Party Pack 3</title><link>https://www.zooberry.org/mods/zt2/tools-utilities/gooey-party-pack-3/</link><pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/tools-utilities/gooey-party-pack-3/</guid><description>The third installment in the Gooey Party Pack series with Marine Mania compatibility.</description></item><item><title>Dependency Master File</title><link>https://www.zooberry.org/mods/zt2/tools-utilities/dependency-master-file/</link><pubDate>Wed, 26 Jun 2024 14:38:31 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/tools-utilities/dependency-master-file/</guid><description>This is a compilation of common dependencies (required downloads) for ZT2 usermade animals.</description></item><item><title>EA zBiome Shell</title><link>https://www.zooberry.org/mods/zt2/tools-utilities/ea-zbiome-shell/</link><pubDate>Sun, 23 Jun 2024 14:48:29 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/tools-utilities/ea-zbiome-shell/</guid><description>Extinct Animals zBiome Shell with support for Ambients in User-made Biomes</description></item><item><title>Domesticated Status</title><link>https://www.zooberry.org/mods/zt2/tools-utilities/domesticated-status/</link><pubDate>Sun, 23 Jun 2024 00:48:21 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/tools-utilities/domesticated-status/</guid><description>Adds support for a &amp;ldquo;domesticated&amp;rdquo; status to animals in Zoo Tycoon 2.</description></item><item><title>Lego's Revamped Biome System</title><link>https://www.zooberry.org/mods/zt2/tools-utilities/legos-revamped-biome-system/</link><pubDate>Fri, 19 Jan 2024 14:38:31 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/tools-utilities/legos-revamped-biome-system/</guid><description>This is the second version of the biome system, which allows designers to create biomes with different codenames, instead of using a pre-defined and numbered registry.</description></item><item><title>Biome Shell</title><link>https://www.zooberry.org/mods/zt2/tools-utilities/biome-shell/</link><pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/tools-utilities/biome-shell/</guid><description>Alternatives have been released over the years, but this was the original modified biome system for Zoo Tycoon 2.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools and Utilities on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt2/tools-utilities/</link>
+    <description>Recent content in Tools and Utilities on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Nov 2024 20:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mods/zt2/tools-utilities/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gooey Party Pack</title>
+      <link>http://localhost:1313/mods/zt2/tools-utilities/gooey-party-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/tools-utilities/gooey-party-pack/</guid>
+      <description>A colorful pack of Gooeys with bonus features.</description>
+    </item>
+    <item>
+      <title>Gooey Party Pack 2</title>
+      <link>http://localhost:1313/mods/zt2/tools-utilities/gooey-party-pack-2/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/tools-utilities/gooey-party-pack-2/</guid>
+      <description>A follow-up to the original Gooey Party Pack with new Gooeys and extras.</description>
+    </item>
+    <item>
+      <title>Gooey Party Pack 3</title>
+      <link>http://localhost:1313/mods/zt2/tools-utilities/gooey-party-pack-3/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/tools-utilities/gooey-party-pack-3/</guid>
+      <description>The third installment in the Gooey Party Pack series with Marine Mania compatibility.</description>
+    </item>
+    <item>
+      <title>Dependency Master File</title>
+      <link>http://localhost:1313/mods/zt2/tools-utilities/dependency-master-file/</link>
+      <pubDate>Wed, 26 Jun 2024 14:38:31 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/tools-utilities/dependency-master-file/</guid>
+      <description>This is a compilation of common dependencies (required downloads) for ZT2 usermade animals.</description>
+    </item>
+    <item>
+      <title>EA zBiome Shell</title>
+      <link>http://localhost:1313/mods/zt2/tools-utilities/ea-zbiome-shell/</link>
+      <pubDate>Sun, 23 Jun 2024 14:48:29 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/tools-utilities/ea-zbiome-shell/</guid>
+      <description>Extinct Animals zBiome Shell with support for Ambients in User-made Biomes</description>
+    </item>
+    <item>
+      <title>Domesticated Status</title>
+      <link>http://localhost:1313/mods/zt2/tools-utilities/domesticated-status/</link>
+      <pubDate>Sun, 23 Jun 2024 00:48:21 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/tools-utilities/domesticated-status/</guid>
+      <description>Adds support for a &amp;ldquo;domesticated&amp;rdquo; status to animals in Zoo Tycoon 2.</description>
+    </item>
+    <item>
+      <title>Lego&#39;s Revamped Biome System</title>
+      <link>http://localhost:1313/mods/zt2/tools-utilities/legos-revamped-biome-system/</link>
+      <pubDate>Fri, 19 Jan 2024 14:38:31 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/tools-utilities/legos-revamped-biome-system/</guid>
+      <description>This is the second version of the biome system, which allows designers to create biomes with different codenames, instead of using a pre-defined and numbered registry.</description>
+    </item>
+    <item>
+      <title>Biome Shell</title>
+      <link>http://localhost:1313/mods/zt2/tools-utilities/biome-shell/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/tools-utilities/biome-shell/</guid>
+      <description>Alternatives have been released over the years, but this was the original modified biome system for Zoo Tycoon 2.</description>
+    </item>
+  </channel>
+</rss>

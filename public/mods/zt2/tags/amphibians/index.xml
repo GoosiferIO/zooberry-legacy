@@ -1,1 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Amphibians on ZooBerry</title><link>https://www.zooberry.org/mods/zt2/tags/amphibians/</link><description>Recent content in Amphibians on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2024 20:00:00 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/mods/zt2/tags/amphibians/index.xml" rel="self" type="application/rss+xml"/><item><title>Valentine Pack</title><link>https://www.zooberry.org/mods/zt2/objects/theme-packs/valentine-pack/</link><pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/theme-packs/valentine-pack/</guid><description>A Valentine-themed pack featuring paths, balloons, a gazebo, animals, and more.</description></item><item><title>Golden Dart Frog</title><link>https://www.zooberry.org/mods/zt2/animals/living/golden-dart-frog/</link><pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/golden-dart-frog/</guid><description>The Golden Dart Frog is a bright yellow tropical amphibian, native to rainforests.</description></item><item><title>Alpine Pack</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/alpine-pack/</link><pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/alpine-pack/</guid><description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description></item><item><title>Painted Reed Frog Pack</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/painted-reed-frog-pack/</link><pubDate>Mon, 01 Jan 2024 15:26:52 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/painted-reed-frog-pack/</guid><description>A pack containing a wetlands mushroom, a painted reed frog and an information board.</description></item><item><title>Blue Poison Dart Frog</title><link>https://www.zooberry.org/mods/zt2/animals/living/blue-poison-dart-frog/</link><pubDate>Sat, 30 Dec 2023 00:33:45 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/blue-poison-dart-frog/</guid><description>These little frogs are easily recognized by their blue color, which is generally darker on the limbs and belly and overlaid with black spots or patches.</description></item><item><title>Red Eyed Tree Frog</title><link>https://www.zooberry.org/mods/zt2/animals/living/red-eyed-tree-frog/</link><pubDate>Sat, 30 Dec 2023 00:33:45 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/red-eyed-tree-frog/</guid><description>A vibrant tree frog native to Central and South America, known for its bright red eyes.</description></item><item><title>Strawberry Dart Frog</title><link>https://www.zooberry.org/mods/zt2/animals/living/strawberry-dart-frog/</link><pubDate>Sat, 30 Dec 2023 00:33:45 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/strawberry-dart-frog/</guid><description>The strawberry poison dart frog is common in the Atlantic lowland tropical forests of Central America.</description></item><item><title>Fire-bellied Toad</title><link>https://www.zooberry.org/mods/zt2/animals/living/fire-bellied-toad/</link><pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/fire-bellied-toad/</guid><description>Despite the remarkably vivid coloring of its underbelly, the Oriental fire-bellied toad merges perfectly with its surroundings.</description></item><item><title>European Expeditions [Realistic]</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/european-expeditions/</link><pubDate>Mon, 06 Nov 2023 02:33:26 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/european-expeditions/</guid><description>A user-made expansion pack made by Hendrix!</description></item><item><title>REPTILIA</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/reptilia-abc/</link><pubDate>Fri, 03 Nov 2023 21:34:57 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/reptilia-abc/</guid><description>Reptilia is a new expansion pack made by ZT ABC!</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amphibians on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt2/tags/amphibians/</link>
+    <description>Recent content in Amphibians on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Nov 2024 20:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mods/zt2/tags/amphibians/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Valentine Pack</title>
+      <link>http://localhost:1313/mods/zt2/objects/theme-packs/valentine-pack/</link>
+      <pubDate>Thu, 28 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/theme-packs/valentine-pack/</guid>
+      <description>A Valentine-themed pack featuring paths, balloons, a gazebo, animals, and more.</description>
+    </item>
+    <item>
+      <title>Golden Dart Frog</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/golden-dart-frog/</link>
+      <pubDate>Sun, 24 Nov 2024 01:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/golden-dart-frog/</guid>
+      <description>The Golden Dart Frog is a bright yellow tropical amphibian, native to rainforests.</description>
+    </item>
+    <item>
+      <title>Alpine Pack</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/alpine-pack/</link>
+      <pubDate>Wed, 17 Jan 2024 13:28:26 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/alpine-pack/</guid>
+      <description>This is part of a set of eight biome packs that were made by the Zoo Admin Design Team many years ago.</description>
+    </item>
+    <item>
+      <title>Painted Reed Frog Pack</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/painted-reed-frog-pack/</link>
+      <pubDate>Mon, 01 Jan 2024 15:26:52 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/painted-reed-frog-pack/</guid>
+      <description>A pack containing a wetlands mushroom, a painted reed frog and an information board.</description>
+    </item>
+    <item>
+      <title>Blue Poison Dart Frog</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/blue-poison-dart-frog/</link>
+      <pubDate>Sat, 30 Dec 2023 00:33:45 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/blue-poison-dart-frog/</guid>
+      <description>These little frogs are easily recognized by their blue color, which is generally darker on the limbs and belly and overlaid with black spots or patches.</description>
+    </item>
+    <item>
+      <title>Red Eyed Tree Frog</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/red-eyed-tree-frog/</link>
+      <pubDate>Sat, 30 Dec 2023 00:33:45 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/red-eyed-tree-frog/</guid>
+      <description>A vibrant tree frog native to Central and South America, known for its bright red eyes.</description>
+    </item>
+    <item>
+      <title>Strawberry Dart Frog</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/strawberry-dart-frog/</link>
+      <pubDate>Sat, 30 Dec 2023 00:33:45 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/strawberry-dart-frog/</guid>
+      <description>The strawberry poison dart frog is common in the Atlantic lowland tropical forests of Central America.</description>
+    </item>
+    <item>
+      <title>Fire-bellied Toad</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/fire-bellied-toad/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/fire-bellied-toad/</guid>
+      <description>Despite the remarkably vivid coloring of its underbelly, the Oriental fire-bellied toad merges perfectly with its surroundings.</description>
+    </item>
+    <item>
+      <title>European Expeditions [Realistic]</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/european-expeditions/</link>
+      <pubDate>Mon, 06 Nov 2023 02:33:26 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/european-expeditions/</guid>
+      <description>A user-made expansion pack made by Hendrix!</description>
+    </item>
+    <item>
+      <title>REPTILIA</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/reptilia-abc/</link>
+      <pubDate>Fri, 03 Nov 2023 21:34:57 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/reptilia-abc/</guid>
+      <description>Reptilia is a new expansion pack made by ZT ABC!</description>
+    </item>
+  </channel>
+</rss>

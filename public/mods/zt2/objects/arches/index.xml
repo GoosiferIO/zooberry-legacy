@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Arches on ZooBerry</title><link>https://www.zooberry.org/mods/zt2/objects/arches/</link><description>Recent content in Arches on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 27 Nov 2024 20:00:00 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/mods/zt2/objects/arches/index.xml" rel="self" type="application/rss+xml"/><item><title>Zoo Admin Anniversary Arch Large</title><link>https://www.zooberry.org/mods/zt2/objects/arches/zoo-admin-anniversary-arch-large/</link><pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/arches/zoo-admin-anniversary-arch-large/</guid><description>A large-sized arch for Zoo Admin&amp;rsquo;s 5th Anniversary.</description></item><item><title>Zoo Admin Anniversary Arch Regular</title><link>https://www.zooberry.org/mods/zt2/objects/arches/zoo-admin-anniversary-arch-reg/</link><pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/arches/zoo-admin-anniversary-arch-reg/</guid><description>A regular-sized arch for Zoo Admin&amp;rsquo;s 5th Anniversary.</description></item><item><title>ZooXotic Arch</title><link>https://www.zooberry.org/mods/zt2/objects/arches/zooxotic-arch/</link><pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/arches/zooxotic-arch/</guid><description>A decorative arch for your zoo.</description></item><item><title>Ibex Arch</title><link>https://www.zooberry.org/mods/zt2/objects/arches/ibex-arch/</link><pubDate>Sat, 05 Aug 2023 13:58:19 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/arches/ibex-arch/</guid><description>Ibex arch designed by badisbadis101.hugo</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arches on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt2/objects/arches/</link>
+    <description>Recent content in Arches on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Nov 2024 20:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mods/zt2/objects/arches/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zoo Admin Anniversary Arch Large</title>
+      <link>http://localhost:1313/mods/zt2/objects/arches/zoo-admin-anniversary-arch-large/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/arches/zoo-admin-anniversary-arch-large/</guid>
+      <description>A large-sized arch for Zoo Admin&amp;rsquo;s 5th Anniversary.</description>
+    </item>
+    <item>
+      <title>Zoo Admin Anniversary Arch Regular</title>
+      <link>http://localhost:1313/mods/zt2/objects/arches/zoo-admin-anniversary-arch-reg/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/arches/zoo-admin-anniversary-arch-reg/</guid>
+      <description>A regular-sized arch for Zoo Admin&amp;rsquo;s 5th Anniversary.</description>
+    </item>
+    <item>
+      <title>ZooXotic Arch</title>
+      <link>http://localhost:1313/mods/zt2/objects/arches/zooxotic-arch/</link>
+      <pubDate>Wed, 27 Nov 2024 20:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/arches/zooxotic-arch/</guid>
+      <description>A decorative arch for your zoo.</description>
+    </item>
+    <item>
+      <title>Ibex Arch</title>
+      <link>http://localhost:1313/mods/zt2/objects/arches/ibex-arch/</link>
+      <pubDate>Sat, 05 Aug 2023 13:58:19 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/arches/ibex-arch/</guid>
+      <description>Ibex arch designed by badisbadis101.hugo</description>
+    </item>
+  </channel>
+</rss>

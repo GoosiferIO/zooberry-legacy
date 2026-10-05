@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>J3nni on ZooBerry</title><link>https://www.zooberry.org/authors/j3nni/</link><description>Recent content in J3nni on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 12 Jan 2025 05:00:00 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/j3nni/index.xml" rel="self" type="application/rss+xml"/><item><title>Moveable Everything for ES and AA</title><link>https://www.zooberry.org/mods/zt2/hacks/moveabe-everything-es-aa/</link><pubDate>Sun, 12 Jan 2025 05:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/hacks/moveabe-everything-es-aa/</guid><description>Allows all in-game items to be moveable.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J3nni on ZooBerry</title>
+    <link>http://localhost:1313/authors/j3nni/</link>
+    <description>Recent content in J3nni on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jan 2025 05:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/j3nni/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moveable Everything for ES and AA</title>
+      <link>http://localhost:1313/mods/zt2/hacks/moveabe-everything-es-aa/</link>
+      <pubDate>Sun, 12 Jan 2025 05:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/hacks/moveabe-everything-es-aa/</guid>
+      <description>Allows all in-game items to be moveable.</description>
+    </item>
+  </channel>
+</rss>

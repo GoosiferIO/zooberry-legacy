@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nintendo_6444 on ZooBerry</title><link>https://www.zooberry.org/authors/nintendo_6444/</link><description>Recent content in Nintendo_6444 on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 22 Mar 2024 08:20:40 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/nintendo_6444/index.xml" rel="self" type="application/rss+xml"/><item><title>Endangered Picnic Table</title><link>https://www.zooberry.org/mods/zt2/objects/zootilities/endangered-themed-table/</link><pubDate>Fri, 22 Mar 2024 08:20:40 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/zootilities/endangered-themed-table/</guid><description>An endangered-themed picnic table.</description></item><item><title>Blue Roo</title><link>https://www.zooberry.org/mods/zt2/animals/fictional/blue-roo/</link><pubDate>Sat, 30 Dec 2023 00:33:45 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/fictional/blue-roo/</guid><description>The Blue Kangaroo live in Tasmania and Australia and is happy in many biomes.</description></item><item><title>Fire-bellied Toad</title><link>https://www.zooberry.org/mods/zt2/animals/living/fire-bellied-toad/</link><pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/fire-bellied-toad/</guid><description>Despite the remarkably vivid coloring of its underbelly, the Oriental fire-bellied toad merges perfectly with its surroundings.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nintendo_6444 on ZooBerry</title>
+    <link>http://localhost:1313/authors/nintendo_6444/</link>
+    <description>Recent content in Nintendo_6444 on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Mar 2024 08:20:40 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/nintendo_6444/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Endangered Picnic Table</title>
+      <link>http://localhost:1313/mods/zt2/objects/zootilities/endangered-themed-table/</link>
+      <pubDate>Fri, 22 Mar 2024 08:20:40 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/zootilities/endangered-themed-table/</guid>
+      <description>An endangered-themed picnic table.</description>
+    </item>
+    <item>
+      <title>Blue Roo</title>
+      <link>http://localhost:1313/mods/zt2/animals/fictional/blue-roo/</link>
+      <pubDate>Sat, 30 Dec 2023 00:33:45 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/fictional/blue-roo/</guid>
+      <description>The Blue Kangaroo live in Tasmania and Australia and is happy in many biomes.</description>
+    </item>
+    <item>
+      <title>Fire-bellied Toad</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/fire-bellied-toad/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/fire-bellied-toad/</guid>
+      <description>Despite the remarkably vivid coloring of its underbelly, the Oriental fire-bellied toad merges perfectly with its surroundings.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DinoBoy on ZooBerry</title><link>https://www.zooberry.org/authors/dinoboy/</link><description>Recent content in DinoBoy on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 30 Dec 2023 17:10:39 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/authors/dinoboy/index.xml" rel="self" type="application/rss+xml"/><item><title>Lesser Flamingo</title><link>https://www.zooberry.org/mods/zt2/animals/living/lesser-flamingo/</link><pubDate>Sat, 30 Dec 2023 17:10:39 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/lesser-flamingo/</guid><description>The lesser flamingo is herbivorous, feeding solely on a blue-green algae growing within a very limited range of pH.</description></item><item><title>Ornate Box Turtle</title><link>https://www.zooberry.org/mods/zt2/animals/living/box-turtle/</link><pubDate>Sat, 30 Dec 2023 17:10:39 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/box-turtle/</guid><description>The ornate box turtle is one of two turtle species on the Great Plains that are terrestrial.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DinoBoy on ZooBerry</title>
+    <link>http://localhost:1313/authors/dinoboy/</link>
+    <description>Recent content in DinoBoy on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Dec 2023 17:10:39 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/dinoboy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lesser Flamingo</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/lesser-flamingo/</link>
+      <pubDate>Sat, 30 Dec 2023 17:10:39 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/lesser-flamingo/</guid>
+      <description>The lesser flamingo is herbivorous, feeding solely on a blue-green algae growing within a very limited range of pH.</description>
+    </item>
+    <item>
+      <title>Ornate Box Turtle</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/box-turtle/</link>
+      <pubDate>Sat, 30 Dec 2023 17:10:39 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/box-turtle/</guid>
+      <description>The ornate box turtle is one of two turtle species on the Great Plains that are terrestrial.</description>
+    </item>
+  </channel>
+</rss>

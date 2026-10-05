@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Silesian Tomcat on ZooBerry</title><link>https://www.zooberry.org/authors/silesian-tomcat/</link><description>Recent content in Silesian Tomcat on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 21 Jul 2023 17:30:54 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/silesian-tomcat/index.xml" rel="self" type="application/rss+xml"/><item><title>Waterbuck</title><link>https://www.zooberry.org/mods/zt2/animals/living/waterbuck/</link><pubDate>Fri, 21 Jul 2023 17:30:54 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/waterbuck/</guid><description>Here&amp;rsquo;s a waterbuck for your zoo.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Silesian Tomcat on ZooBerry</title>
+    <link>http://localhost:1313/authors/silesian-tomcat/</link>
+    <description>Recent content in Silesian Tomcat on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Jul 2023 17:30:54 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/silesian-tomcat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Waterbuck</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/waterbuck/</link>
+      <pubDate>Fri, 21 Jul 2023 17:30:54 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/waterbuck/</guid>
+      <description>Here&amp;rsquo;s a waterbuck for your zoo.</description>
+    </item>
+  </channel>
+</rss>

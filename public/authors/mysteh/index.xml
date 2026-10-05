@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mysteh on ZooBerry</title><link>https://www.zooberry.org/authors/mysteh/</link><description>Recent content in Mysteh on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2024 16:00:00 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/authors/mysteh/index.xml" rel="self" type="application/rss+xml"/><item><title>Pampas Fox</title><link>https://www.zooberry.org/mods/zt2/animals/living/pampas-fox/</link><pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/pampas-fox/</guid><description>A South American fox species for your zoo.</description></item><item><title>Tasmanian Devil</title><link>https://www.zooberry.org/mods/zt2/animals/living/tasmanian-devil/</link><pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/tasmanian-devil/</guid><description>A wonderful Tasmanian Devil for your zoo.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mysteh on ZooBerry</title>
+    <link>http://localhost:1313/authors/mysteh/</link>
+    <description>Recent content in Mysteh on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Nov 2024 16:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/mysteh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pampas Fox</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/pampas-fox/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/pampas-fox/</guid>
+      <description>A South American fox species for your zoo.</description>
+    </item>
+    <item>
+      <title>Tasmanian Devil</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/tasmanian-devil/</link>
+      <pubDate>Thu, 28 Nov 2024 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/tasmanian-devil/</guid>
+      <description>A wonderful Tasmanian Devil for your zoo.</description>
+    </item>
+  </channel>
+</rss>

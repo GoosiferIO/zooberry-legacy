@@ -68,22 +68,20 @@
             </div>  
         {{ end }}
         
-        {{ $paginator := .Paginate .Pages }}
+        {{ $mods := where .Pages "Params.is_category" "!=" true }}
+        {{ $paginator := .Paginate $mods.ByTitle (site.Params.modsPerPage | default 30) }}
         {{ $pagination := dict "Paginator" $paginator "page" . }}
 
         {{ template "_internal/pagination.html" $pagination }}
 
         <ul class="box-card-list">
-            {{ range $paginator.Pages.ByTitle }}
+            {{ range $paginator.Pages }}
                 {{ if not (.Params.is_category) }}
                     <li class="box-card-mods">
                         <div class="box-card-mods-img">
                             {{/*  get first image from images folder in this bundle */}}
+                            {{ $thumbnail := "" }}
                             {{ with partialCached "mod-thumb.html" . .RelPermalink }}{{ $thumbnail = .RelPermalink }}{{ end }}
-                            {{ with (.Resources.GetMatch "images/*") }}
-                                {{ $processedImage := .Fill "300x200 center" }} <!-- Adjust dimensions as needed -->
-                                {{ $thumbnail = $processedImage.RelPermalink }}
-                            {{ end }}
 
                             <a href="{{ .RelPermalink }}">
                                 <img src="{{ .Site.Params.cdn }}{{ $thumbnail }}" alt="{{ .LinkTitle }}">

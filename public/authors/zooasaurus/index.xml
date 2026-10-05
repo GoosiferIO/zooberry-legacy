@@ -1,1 +1,96 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Zooasaurus on ZooBerry</title><link>https://www.zooberry.org/authors/zooasaurus/</link><description>Recent content in Zooasaurus on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 15:26:52 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/authors/zooasaurus/index.xml" rel="self" type="application/rss+xml"/><item><title>Albino Pack</title><link>https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-pack/</link><pubDate>Mon, 01 Jan 2024 15:26:52 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/albino-pack/</guid><description>A pack of eight albino variants, one each for eight different animals, made by Zooasaurus and bundled together.</description></item><item><title>Wooly Mammoth</title><link>https://www.zooberry.org/mods/zt2/animals/extinct/wooly-mammoth/</link><pubDate>Sat, 30 Dec 2023 00:52:38 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/extinct/wooly-mammoth/</guid><description>Mammoth remains have been found in Europe, Africa, Asia, and North America.</description></item><item><title>Cassowary</title><link>https://www.zooberry.org/mods/zt2/animals/living/cassowary/</link><pubDate>Sat, 30 Dec 2023 00:33:45 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/cassowary/</guid><description>Cassowaries are very large flightless birds native to the tropical forests of New Guinea and northeastern Australia.</description></item><item><title>Crocodile Monitor</title><link>https://www.zooberry.org/mods/zt2/animals/living/crocodile-monitor/</link><pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/crocodile-monitor/</guid><description>Generally arboreal, or tree dwelling. Crocodile monitors inhabit rainforests and adjacent savannas.</description></item><item><title>Jurrasic Bench</title><link>https://www.zooberry.org/mods/zt2/objects/zootilities/jurrasic-bench/</link><pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/zootilities/jurrasic-bench/</guid><description>This bench will go perfectly alongside your Jurassic period species.</description></item><item><title>Wahoo Ambient</title><link>https://www.zooberry.org/mods/zt2/animals/ambients/wahoo/</link><pubDate>Sun, 12 Nov 2023 02:07:38 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/ambients/wahoo/</guid><description>The Wahoo is a game fish, found in the open see, and is related to the Marlin and Mackerel.</description></item><item><title>Alpine Viewing Area</title><link>https://www.zooberry.org/mods/zt2/objects/canopies/alpine-viewing-area/</link><pubDate>Sat, 05 Aug 2023 14:54:11 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/canopies/alpine-viewing-area/</guid><description>The Alpine Viewing Area was designed by Zooasaurus</description></item><item><title>Shark Pack 2</title><link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/shark-pack-2/</link><pubDate>Thu, 03 Aug 2023 06:26:19 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/shark-pack-2/</guid><description>Includes 6 new sharks.</description></item><item><title>Shark Pack 1</title><link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/shark-pack-1/</link><pubDate>Thu, 03 Aug 2023 06:21:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/shark-pack-1/</guid><description>Includes 4 sharks.</description></item><item><title>Megafauna Pack</title><link>https://www.zooberry.org/mods/zt2/animals/animal-bundles/megafauna-pack/</link><pubDate>Mon, 24 Jul 2023 18:26:34 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/animal-bundles/megafauna-pack/</guid><description>A megafauna pack made by Zooasaurus.</description></item><item><title>Dall Sheep</title><link>https://www.zooberry.org/mods/zt2/animals/living/dall-sheep/</link><pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/dall-sheep/</guid><description>First animal Ive ever made</description></item><item><title>Sarcosuchus</title><link>https://www.zooberry.org/mods/zt2/animals/extinct/sarcosuchus/</link><pubDate>Tue, 18 Jul 2023 23:04:46 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/extinct/sarcosuchus/</guid><description>Sarcosuchus was a giant crocodilian.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zooasaurus on ZooBerry</title>
+    <link>http://localhost:1313/authors/zooasaurus/</link>
+    <description>Recent content in Zooasaurus on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 15:26:52 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/zooasaurus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Albino Pack</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/variants/albino-pack/</link>
+      <pubDate>Mon, 01 Jan 2024 15:26:52 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/variants/albino-pack/</guid>
+      <description>A pack of eight albino variants, one each for eight different animals, made by Zooasaurus and bundled together.</description>
+    </item>
+    <item>
+      <title>Wooly Mammoth</title>
+      <link>http://localhost:1313/mods/zt2/animals/extinct/wooly-mammoth/</link>
+      <pubDate>Sat, 30 Dec 2023 00:52:38 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/extinct/wooly-mammoth/</guid>
+      <description>Mammoth remains have been found in Europe, Africa, Asia, and North America.</description>
+    </item>
+    <item>
+      <title>Cassowary</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/cassowary/</link>
+      <pubDate>Sat, 30 Dec 2023 00:33:45 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/cassowary/</guid>
+      <description>Cassowaries are very large flightless birds native to the tropical forests of New Guinea and northeastern Australia.</description>
+    </item>
+    <item>
+      <title>Crocodile Monitor</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/crocodile-monitor/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/crocodile-monitor/</guid>
+      <description>Generally arboreal, or tree dwelling. Crocodile monitors inhabit rainforests and adjacent savannas.</description>
+    </item>
+    <item>
+      <title>Jurrasic Bench</title>
+      <link>http://localhost:1313/mods/zt2/objects/zootilities/jurrasic-bench/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/zootilities/jurrasic-bench/</guid>
+      <description>This bench will go perfectly alongside your Jurassic period species.</description>
+    </item>
+    <item>
+      <title>Wahoo Ambient</title>
+      <link>http://localhost:1313/mods/zt2/animals/ambients/wahoo/</link>
+      <pubDate>Sun, 12 Nov 2023 02:07:38 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/ambients/wahoo/</guid>
+      <description>The Wahoo is a game fish, found in the open see, and is related to the Marlin and Mackerel.</description>
+    </item>
+    <item>
+      <title>Alpine Viewing Area</title>
+      <link>http://localhost:1313/mods/zt2/objects/canopies/alpine-viewing-area/</link>
+      <pubDate>Sat, 05 Aug 2023 14:54:11 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/canopies/alpine-viewing-area/</guid>
+      <description>The Alpine Viewing Area was designed by Zooasaurus</description>
+    </item>
+    <item>
+      <title>Shark Pack 2</title>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/shark-pack-2/</link>
+      <pubDate>Thu, 03 Aug 2023 06:26:19 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/shark-pack-2/</guid>
+      <description>Includes 6 new sharks.</description>
+    </item>
+    <item>
+      <title>Shark Pack 1</title>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/shark-pack-1/</link>
+      <pubDate>Thu, 03 Aug 2023 06:21:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/shark-pack-1/</guid>
+      <description>Includes 4 sharks.</description>
+    </item>
+    <item>
+      <title>Megafauna Pack</title>
+      <link>http://localhost:1313/mods/zt2/animals/animal-bundles/megafauna-pack/</link>
+      <pubDate>Mon, 24 Jul 2023 18:26:34 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/animal-bundles/megafauna-pack/</guid>
+      <description>A megafauna pack made by Zooasaurus.</description>
+    </item>
+    <item>
+      <title>Dall Sheep</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/dall-sheep/</link>
+      <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/dall-sheep/</guid>
+      <description>First animal Ive ever made</description>
+    </item>
+    <item>
+      <title>Sarcosuchus</title>
+      <link>http://localhost:1313/mods/zt2/animals/extinct/sarcosuchus/</link>
+      <pubDate>Tue, 18 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/extinct/sarcosuchus/</guid>
+      <description>Sarcosuchus was a giant crocodilian.</description>
+    </item>
+  </channel>
+</rss>

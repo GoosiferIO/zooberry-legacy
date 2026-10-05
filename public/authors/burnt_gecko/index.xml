@@ -1,1 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Burnt_Gecko on ZooBerry</title><link>https://www.zooberry.org/authors/burnt_gecko/</link><description>Recent content in Burnt_Gecko on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 25 Jun 2024 19:38:28 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/burnt_gecko/index.xml" rel="self" type="application/rss+xml"/><item><title>Asian Elephant Reskin</title><link>https://www.zooberry.org/mods/zt2/texture-mods/reskins/asian-elephant-reskin/</link><pubDate>Tue, 25 Jun 2024 19:38:28 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/reskins/asian-elephant-reskin/</guid><description>Asian Elephant Reskin is a texture mod for Zoo Tycoon 2 created by burnt_gecko.</description></item><item><title>Greater Kudu</title><link>https://www.zooberry.org/mods/zt2/animals/living/greater-kudu/</link><pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/greater-kudu/</guid><description>This is the Greater Kudu, the second largest antelope in Africa.</description></item><item><title>Bactrian Camel</title><link>https://www.zooberry.org/mods/zt2/animals/living/bactrian-camel/</link><pubDate>Mon, 01 Jan 2024 15:26:52 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/bactrian-camel/</guid><description>The Bactrian camel is a large even-toed ungulate native to the steppes of eastern Asia.</description></item><item><title>Wooly Mammoth</title><link>https://www.zooberry.org/mods/zt2/animals/extinct/wooly-mammoth/</link><pubDate>Sat, 30 Dec 2023 00:52:38 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/extinct/wooly-mammoth/</guid><description>Mammoth remains have been found in Europe, Africa, Asia, and North America.</description></item><item><title>Cassowary</title><link>https://www.zooberry.org/mods/zt2/animals/living/cassowary/</link><pubDate>Sat, 30 Dec 2023 00:33:45 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/cassowary/</guid><description>Cassowaries are very large flightless birds native to the tropical forests of New Guinea and northeastern Australia.</description></item><item><title>African Bullfrog</title><link>https://www.zooberry.org/mods/zt2/animals/ambients/african-bullfrog/</link><pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/ambients/african-bullfrog/</guid><description>A large species of frog from over a dozen African countries.</description></item><item><title>Short Faced Bear Variant</title><link>https://www.zooberry.org/mods/zt2/texture-mods/variants/short-faced-bear-variant-by-angilas44/</link><pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/short-faced-bear-variant-by-angilas44/</guid><description>This short-faced bear variant was designed by Angilas44 for the Extinct Variant Contest at ZT2DC.</description></item><item><title>Mountain Gorilla Reskin</title><link>https://www.zooberry.org/mods/zt2/texture-mods/reskins/mountain-gorilla-reskin/</link><pubDate>Sat, 05 Aug 2023 17:46:18 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/reskins/mountain-gorilla-reskin/</guid><description>A mountain gorilla reskin by Angilas44</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Burnt_Gecko on ZooBerry</title>
+    <link>http://localhost:1313/authors/burnt_gecko/</link>
+    <description>Recent content in Burnt_Gecko on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jun 2024 19:38:28 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/burnt_gecko/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asian Elephant Reskin</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/reskins/asian-elephant-reskin/</link>
+      <pubDate>Tue, 25 Jun 2024 19:38:28 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/reskins/asian-elephant-reskin/</guid>
+      <description>Asian Elephant Reskin is a texture mod for Zoo Tycoon 2 created by burnt_gecko.</description>
+    </item>
+    <item>
+      <title>Greater Kudu</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/greater-kudu/</link>
+      <pubDate>Sun, 14 Jan 2024 01:51:12 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/greater-kudu/</guid>
+      <description>This is the Greater Kudu, the second largest antelope in Africa.</description>
+    </item>
+    <item>
+      <title>Bactrian Camel</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/bactrian-camel/</link>
+      <pubDate>Mon, 01 Jan 2024 15:26:52 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/bactrian-camel/</guid>
+      <description>The Bactrian camel is a large even-toed ungulate native to the steppes of eastern Asia.</description>
+    </item>
+    <item>
+      <title>Wooly Mammoth</title>
+      <link>http://localhost:1313/mods/zt2/animals/extinct/wooly-mammoth/</link>
+      <pubDate>Sat, 30 Dec 2023 00:52:38 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/extinct/wooly-mammoth/</guid>
+      <description>Mammoth remains have been found in Europe, Africa, Asia, and North America.</description>
+    </item>
+    <item>
+      <title>Cassowary</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/cassowary/</link>
+      <pubDate>Sat, 30 Dec 2023 00:33:45 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/cassowary/</guid>
+      <description>Cassowaries are very large flightless birds native to the tropical forests of New Guinea and northeastern Australia.</description>
+    </item>
+    <item>
+      <title>African Bullfrog</title>
+      <link>http://localhost:1313/mods/zt2/animals/ambients/african-bullfrog/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/ambients/african-bullfrog/</guid>
+      <description>A large species of frog from over a dozen African countries.</description>
+    </item>
+    <item>
+      <title>Short Faced Bear Variant</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/variants/short-faced-bear-variant-by-angilas44/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/variants/short-faced-bear-variant-by-angilas44/</guid>
+      <description>This short-faced bear variant was designed by Angilas44 for the Extinct Variant Contest at ZT2DC.</description>
+    </item>
+    <item>
+      <title>Mountain Gorilla Reskin</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/reskins/mountain-gorilla-reskin/</link>
+      <pubDate>Sat, 05 Aug 2023 17:46:18 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/reskins/mountain-gorilla-reskin/</guid>
+      <description>A mountain gorilla reskin by Angilas44</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lady Alesandra on ZooBerry</title><link>https://www.zooberry.org/authors/lady-alesandra/</link><description>Recent content in Lady Alesandra on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2024 04:00:00 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/authors/lady-alesandra/index.xml" rel="self" type="application/rss+xml"/><item><title>Golden Tabby Variant</title><link>https://www.zooberry.org/mods/zt2/texture-mods/variants/golden-tabby-variant/</link><pubDate>Mon, 25 Nov 2024 04:00:00 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/golden-tabby-variant/</guid><description>A golden tabby variant for the base game Bengal Tiger.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lady Alesandra on ZooBerry</title>
+    <link>http://localhost:1313/authors/lady-alesandra/</link>
+    <description>Recent content in Lady Alesandra on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2024 04:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/lady-alesandra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Golden Tabby Variant</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/variants/golden-tabby-variant/</link>
+      <pubDate>Mon, 25 Nov 2024 04:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/variants/golden-tabby-variant/</guid>
+      <description>A golden tabby variant for the base game Bengal Tiger.</description>
+    </item>
+  </channel>
+</rss>

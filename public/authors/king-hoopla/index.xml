@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>King Hoopla on ZooBerry</title><link>https://www.zooberry.org/authors/king-hoopla/</link><description>Recent content in King Hoopla on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 05 Aug 2023 14:35:37 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/king-hoopla/index.xml" rel="self" type="application/rss+xml"/><item><title>Markhor Fountain</title><link>https://www.zooberry.org/mods/zt2/objects/scenery/markhor-fountain/</link><pubDate>Sat, 05 Aug 2023 14:35:37 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/scenery/markhor-fountain/</guid><description>The markhor fountain was designed by King Hoopla</description></item><item><title>Platyhystrix</title><link>https://www.zooberry.org/mods/zt2/animals/extinct/platyhystrix/</link><pubDate>Tue, 18 Jul 2023 23:04:46 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/extinct/platyhystrix/</guid><description>Platyhystrix, a little-known sailbacked amphibian from the permian, is now adoptable for your zoos!</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>King Hoopla on ZooBerry</title>
+    <link>http://localhost:1313/authors/king-hoopla/</link>
+    <description>Recent content in King Hoopla on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Aug 2023 14:35:37 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/king-hoopla/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markhor Fountain</title>
+      <link>http://localhost:1313/mods/zt2/objects/scenery/markhor-fountain/</link>
+      <pubDate>Sat, 05 Aug 2023 14:35:37 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/scenery/markhor-fountain/</guid>
+      <description>The markhor fountain was designed by King Hoopla</description>
+    </item>
+    <item>
+      <title>Platyhystrix</title>
+      <link>http://localhost:1313/mods/zt2/animals/extinct/platyhystrix/</link>
+      <pubDate>Tue, 18 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/extinct/platyhystrix/</guid>
+      <description>Platyhystrix, a little-known sailbacked amphibian from the permian, is now adoptable for your zoos!</description>
+    </item>
+  </channel>
+</rss>

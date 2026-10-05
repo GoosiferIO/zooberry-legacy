@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Zoohio on ZooBerry</title><link>https://www.zooberry.org/authors/zoohio/</link><description>Recent content in Zoohio on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2025 11:00:00 -0700</lastBuildDate><atom:link href="https://www.zooberry.org/authors/zoohio/index.xml" rel="self" type="application/rss+xml"/><item><title>Concrete Jungle Save File</title><link>https://www.zooberry.org/mods/zt2/save-files/concrete-jungle/</link><pubDate>Tue, 28 Jan 2025 11:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/save-files/concrete-jungle/</guid><description>This is the latest City Zoo from my show and tell. All the exhibits are complete with food, enrichment and shelters.</description></item><item><title>Emerald Grove Save File</title><link>https://www.zooberry.org/mods/zt2/save-files/emerald-grove/</link><pubDate>Tue, 28 Jan 2025 11:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/save-files/emerald-grove/</guid><description>This zoo is made on a large city map and has spacious exhibits and room for all the latest animal downloads. All the exhibits have shelters, food and enrichment. I have included a food court and five restaurants.</description></item><item><title>Eagle's View Template Map</title><link>https://www.zooberry.org/mods/zt2/maps/eagles-view-map/</link><pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/maps/eagles-view-map/</guid><description>I wanted to create a map with a waterfall as the focal point when entering the zoo.</description></item><item><title>Hastick Woods Template Map</title><link>https://www.zooberry.org/mods/zt2/maps/mastick-woods-map/</link><pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/maps/mastick-woods-map/</guid><description>This map has several waterfalls nestled through wooded areas. Also features two reflecting pools at the entrance and was designed on a large map.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zoohio on ZooBerry</title>
+    <link>http://localhost:1313/authors/zoohio/</link>
+    <description>Recent content in Zoohio on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2025 11:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/zoohio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Concrete Jungle Save File</title>
+      <link>http://localhost:1313/mods/zt2/save-files/concrete-jungle/</link>
+      <pubDate>Tue, 28 Jan 2025 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/save-files/concrete-jungle/</guid>
+      <description>This is the latest City Zoo from my show and tell. All the exhibits are complete with food, enrichment and shelters.</description>
+    </item>
+    <item>
+      <title>Emerald Grove Save File</title>
+      <link>http://localhost:1313/mods/zt2/save-files/emerald-grove/</link>
+      <pubDate>Tue, 28 Jan 2025 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/save-files/emerald-grove/</guid>
+      <description>This zoo is made on a large city map and has spacious exhibits and room for all the latest animal downloads. All the exhibits have shelters, food and enrichment. I have included a food court and five restaurants.</description>
+    </item>
+    <item>
+      <title>Eagle&#39;s View Template Map</title>
+      <link>http://localhost:1313/mods/zt2/maps/eagles-view-map/</link>
+      <pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/maps/eagles-view-map/</guid>
+      <description>I wanted to create a map with a waterfall as the focal point when entering the zoo.</description>
+    </item>
+    <item>
+      <title>Hastick Woods Template Map</title>
+      <link>http://localhost:1313/mods/zt2/maps/mastick-woods-map/</link>
+      <pubDate>Sat, 25 Jan 2025 03:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/maps/mastick-woods-map/</guid>
+      <description>This map has several waterfalls nestled through wooded areas. Also features two reflecting pools at the entrance and was designed on a large map.</description>
+    </item>
+  </channel>
+</rss>

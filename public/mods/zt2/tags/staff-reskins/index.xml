@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Staff Reskins on ZooBerry</title><link>https://www.zooberry.org/mods/zt2/tags/staff-reskins/</link><description>Recent content in Staff Reskins on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 30 Dec 2023 00:52:38 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/mods/zt2/tags/staff-reskins/index.xml" rel="self" type="application/rss+xml"/><item><title>The Christmas Pack</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/the-christmas-pack/</link><pubDate>Sat, 30 Dec 2023 00:52:38 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/the-christmas-pack/</guid><description>Merry Christmas! The Christmas Pack is a collection of mods for Zoo Tycoon 2 that expound a winter theme.</description></item><item><title>The Christmas Pack 2: 7 Reasons to Celebrate</title><link>https://www.zooberry.org/mods/zt2/expansive-packs/the-christmas-pack-2-7-reasons-to-celebrate/</link><pubDate>Sat, 30 Dec 2023 00:52:38 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/expansive-packs/the-christmas-pack-2-7-reasons-to-celebrate/</guid><description>Merry Christmas! The Christmas Pack - 7 Reasons to Celebrate is the sequel to the collection of mods for Zoo Tycoon 2 that expound a winter theme.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Staff Reskins on ZooBerry</title>
+    <link>http://localhost:1313/mods/zt2/tags/staff-reskins/</link>
+    <description>Recent content in Staff Reskins on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Dec 2023 00:52:38 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mods/zt2/tags/staff-reskins/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Christmas Pack</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/the-christmas-pack/</link>
+      <pubDate>Sat, 30 Dec 2023 00:52:38 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/the-christmas-pack/</guid>
+      <description>Merry Christmas! The Christmas Pack is a collection of mods for Zoo Tycoon 2 that expound a winter theme.</description>
+    </item>
+    <item>
+      <title>The Christmas Pack 2: 7 Reasons to Celebrate</title>
+      <link>http://localhost:1313/mods/zt2/expansive-packs/the-christmas-pack-2-7-reasons-to-celebrate/</link>
+      <pubDate>Sat, 30 Dec 2023 00:52:38 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/expansive-packs/the-christmas-pack-2-7-reasons-to-celebrate/</guid>
+      <description>Merry Christmas! The Christmas Pack - 7 Reasons to Celebrate is the sequel to the collection of mods for Zoo Tycoon 2 that expound a winter theme.</description>
+    </item>
+  </channel>
+</rss>

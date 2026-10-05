@@ -13,7 +13,7 @@ date: 2023-07-20T23:04:46-08:00
 orig_rel_at: 
 - ZooMania
 draft: false
-thumbnail: adam1990_dwarfpanda_thumb.jpg
+thumbnail: dwarf-panda_thumb.jpg
 alt_text: 
 license: Unknown
 languages:

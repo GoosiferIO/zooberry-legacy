@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Komodo 93 on ZooBerry</title><link>https://www.zooberry.org/authors/komodo-93/</link><description>Recent content in Komodo 93 on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 21 Nov 2023 02:12:58 -0800</lastBuildDate><atom:link href="https://www.zooberry.org/authors/komodo-93/index.xml" rel="self" type="application/rss+xml"/><item><title>Bat Eared Fox</title><link>https://www.zooberry.org/mods/zt2/animals/living/bat-eared-fox/</link><pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/bat-eared-fox/</guid><description>These foxes live in the scrub, savannah and grasslands of Africa.</description></item><item><title>Yacare Caiman</title><link>https://www.zooberry.org/mods/zt2/animals/living/yacare-caiman/</link><pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/yacare-caiman/</guid><description>The yacare caiman is found in a variety of habitat types, often associated with floating mats of vegetation.</description></item><item><title>Zoo History Board</title><link>https://www.zooberry.org/mods/zt2/objects/zootilities/zoo-history-board/</link><pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/zootilities/zoo-history-board/</guid><description>A board which shows the history of the zoo for guests to see.</description></item><item><title>Himalayan Tahr</title><link>https://www.zooberry.org/mods/zt2/animals/living/himalayan-tahr/</link><pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/himalayan-tahr/</guid><description>A large goat from the Himalayas.</description></item><item><title>Italian Wolf</title><link>https://www.zooberry.org/mods/zt2/animals/living/italian-wolf/</link><pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/italian-wolf/</guid><description>A subspecies of wolf from the Apennine Mountains in Italy.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Komodo 93 on ZooBerry</title>
+    <link>http://localhost:1313/authors/komodo-93/</link>
+    <description>Recent content in Komodo 93 on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Nov 2023 02:12:58 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/komodo-93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bat Eared Fox</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/bat-eared-fox/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/bat-eared-fox/</guid>
+      <description>These foxes live in the scrub, savannah and grasslands of Africa.</description>
+    </item>
+    <item>
+      <title>Yacare Caiman</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/yacare-caiman/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/yacare-caiman/</guid>
+      <description>The yacare caiman is found in a variety of habitat types, often associated with floating mats of vegetation.</description>
+    </item>
+    <item>
+      <title>Zoo History Board</title>
+      <link>http://localhost:1313/mods/zt2/objects/zootilities/zoo-history-board/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/zootilities/zoo-history-board/</guid>
+      <description>A board which shows the history of the zoo for guests to see.</description>
+    </item>
+    <item>
+      <title>Himalayan Tahr</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/himalayan-tahr/</link>
+      <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/himalayan-tahr/</guid>
+      <description>A large goat from the Himalayas.</description>
+    </item>
+    <item>
+      <title>Italian Wolf</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/italian-wolf/</link>
+      <pubDate>Thu, 20 Jul 2023 23:04:46 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/italian-wolf/</guid>
+      <description>A subspecies of wolf from the Apennine Mountains in Italy.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Samemo on ZooBerry</title><link>https://www.zooberry.org/authors/samemo/</link><description>Recent content in Samemo on ZooBerry</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 15:26:52 +0000</lastBuildDate><atom:link href="https://www.zooberry.org/authors/samemo/index.xml" rel="self" type="application/rss+xml"/><item><title>Shadow Wolf</title><link>https://www.zooberry.org/mods/zt2/texture-mods/variants/shadow-wolf/</link><pubDate>Mon, 01 Jan 2024 15:26:52 +0000</pubDate><guid>https://www.zooberry.org/mods/zt2/texture-mods/variants/shadow-wolf/</guid><description>Shadow Wolves are PURE black wolves that ONLY live on Princess royal island (the island of the Spirit Bear).</description></item><item><title>Bonobo</title><link>https://www.zooberry.org/mods/zt2/animals/living/bonobo/</link><pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/bonobo/</guid><description>Bonobos live in the forests located centrally in the Democratic Republic of the Congo (formerly Zaire).</description></item><item><title>Chacoan Peccary</title><link>https://www.zooberry.org/mods/zt2/animals/living/chacoan-peccary/</link><pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/living/chacoan-peccary/</guid><description>The Chacoan peccary&amp;rsquo;s bristly coat is a speckled charcoal or brownish-grey, interspersed with long guard hairs.</description></item><item><title>Mini Volcano</title><link>https://www.zooberry.org/mods/zt2/objects/scenery/mini-volcano/</link><pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/scenery/mini-volcano/</guid><description>Guests will love this mini form of the volcano, especially when it is erupting steam.</description></item><item><title>Piranha</title><link>https://www.zooberry.org/mods/zt2/animals/ambients/piranha/</link><pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate><guid>https://www.zooberry.org/mods/zt2/animals/ambients/piranha/</guid><description>These piranhas will form interesting schools in your jungle tanks.</description></item><item><title>AA Photo Stand</title><link>https://www.zooberry.org/mods/zt2/objects/zootilities/aa-photo-stand/</link><pubDate>Sat, 22 Jul 2023 08:16:07 -0700</pubDate><guid>https://www.zooberry.org/mods/zt2/objects/zootilities/aa-photo-stand/</guid><description>This stand contains photos of each of the 20 animals featured in the African Adventures expansion pack.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samemo on ZooBerry</title>
+    <link>http://localhost:1313/authors/samemo/</link>
+    <description>Recent content in Samemo on ZooBerry</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 15:26:52 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/samemo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shadow Wolf</title>
+      <link>http://localhost:1313/mods/zt2/texture-mods/variants/shadow-wolf/</link>
+      <pubDate>Mon, 01 Jan 2024 15:26:52 +0000</pubDate>
+      <guid>http://localhost:1313/mods/zt2/texture-mods/variants/shadow-wolf/</guid>
+      <description>Shadow Wolves are PURE black wolves that ONLY live on Princess royal island (the island of the Spirit Bear).</description>
+    </item>
+    <item>
+      <title>Bonobo</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/bonobo/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/bonobo/</guid>
+      <description>Bonobos live in the forests located centrally in the Democratic Republic of the Congo (formerly Zaire).</description>
+    </item>
+    <item>
+      <title>Chacoan Peccary</title>
+      <link>http://localhost:1313/mods/zt2/animals/living/chacoan-peccary/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/living/chacoan-peccary/</guid>
+      <description>The Chacoan peccary&amp;rsquo;s bristly coat is a speckled charcoal or brownish-grey, interspersed with long guard hairs.</description>
+    </item>
+    <item>
+      <title>Mini Volcano</title>
+      <link>http://localhost:1313/mods/zt2/objects/scenery/mini-volcano/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/scenery/mini-volcano/</guid>
+      <description>Guests will love this mini form of the volcano, especially when it is erupting steam.</description>
+    </item>
+    <item>
+      <title>Piranha</title>
+      <link>http://localhost:1313/mods/zt2/animals/ambients/piranha/</link>
+      <pubDate>Tue, 21 Nov 2023 02:12:58 -0800</pubDate>
+      <guid>http://localhost:1313/mods/zt2/animals/ambients/piranha/</guid>
+      <description>These piranhas will form interesting schools in your jungle tanks.</description>
+    </item>
+    <item>
+      <title>AA Photo Stand</title>
+      <link>http://localhost:1313/mods/zt2/objects/zootilities/aa-photo-stand/</link>
+      <pubDate>Sat, 22 Jul 2023 08:16:07 -0700</pubDate>
+      <guid>http://localhost:1313/mods/zt2/objects/zootilities/aa-photo-stand/</guid>
+      <description>This stand contains photos of each of the 20 animals featured in the African Adventures expansion pack.</description>
+    </item>
+  </channel>
+</rss>
