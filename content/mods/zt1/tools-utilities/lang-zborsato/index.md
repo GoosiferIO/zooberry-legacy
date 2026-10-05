@@ -5,7 +5,7 @@ author:
 - Borsato
 game: Zoo Tycoon 1
 orig_rel_date: 2024-10-03
-date: 2024-10-03 01:09:23
+date: 2024-10-03T01:09:23
 orig_rel_at:
 - ZooBerry
 draft: false
@@ -19,7 +19,7 @@ mod_list:
     title: LANG--ZBorsato.zip
     category: Files
     file_size: 24.9 KB
-    uploaded: 2026-09-24
+    uploaded: 2026-10-05
 zt1tags: ["All", "ZT1", "Tools & Utilities"]
 ---
 
@@ -74,6 +74,12 @@ For modders that want to use this language file for the new locations, you can u
 | 57481    | the Jurassic Park Food Kiosk |
 | 57482    | the Jurassic Park Gift Kiosk |
 | 57483    | the Ice Cave |
+
+# Notice
+
+This download may be made available at any site as a backup as long as the download is not modified and the information in this post is also included, including this information. The main location for this download is at the following ZooBerry link, which is where it would be updated before anywhere else:
+
+https://www.zooberry.org/mods/zt1/tools-utilities/lang-zborsato/
 
 # Updates
 
