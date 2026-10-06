@@ -15,8 +15,8 @@ languages:
 summary: "A language file for Zoo Tycoon 1 that adds new text strings to the game. This file is required for some mods to work properly."
 alt_text: null
 mod_list:
-  - name: LANG--ZBorsato
-    title: LANG--ZBorsato.zip
+  - name: LANG--ZBorsato-v10092006
+    title: LANG--ZBorsato-v10092006.zip
     category: Files
     file_size: 24.9 KB
     uploaded: 2026-10-05
