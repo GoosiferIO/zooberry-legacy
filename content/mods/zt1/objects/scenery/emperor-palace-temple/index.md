@@ -35,8 +35,3 @@ The two items from from Emperor, Water placeable, exhibit placeable. Animals don
 - Emperor Palace 1
 - Emperor Palace 2
 - Emperor Splendid Temple
-
-# Contents
-
-- Emperor Rock Cliff 1
-- Emperor Rock Cliff 2
