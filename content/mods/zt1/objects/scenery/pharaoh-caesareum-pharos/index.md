@@ -19,22 +19,17 @@ mod_list:
     category: Files
     file_size: 840 KB
     uploaded: 2026-10-04
-zt1tags: ["All", "ZT1", "Objects", "Scenery", "Pack"]
+zt1tags: ["All", "ZT1", "Objects", "Scenery"]
 contents:
 - Pharaoh Alexandria's Library
 - Pharaoh Caesareum
 - Pharaoh Pharos Lighthouse
 ---
 
-Water placeable, Exhibit placeable(Animals don't feel happy or unhappy)update:2012.11.09 
+Water placeable, Exhibit placeable(Animals don't feel happy or unhappy)update:2012.11.09
 
 # Contents
 
 - Pharaoh Alexandria's Library
 - Pharaoh Caesareum
 - Pharaoh Pharos Lighthouse
-
-# Contents
-
-- Emperor Rock Cliff 1
-- Emperor Rock Cliff 2

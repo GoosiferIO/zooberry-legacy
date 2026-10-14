@@ -1,23 +1,28 @@
 ---
 title: "AOE2 World Wonders"
 has_author: true
-author: 
+author:
 - RDingFT
 game: Zoo Tycoon 1
-exp_req:
-file_size: 4.22 MB
-file_date: 2014-01-03
 orig_rel_date: 2012-03-29
 date: 2023-07-24T11:37:37-07:00
-orig_rel_at: 
+orig_rel_at:
 - Northern Skies
 draft: false
-license: Unknown
-alt_text: 
+license: 'Unknown'
 languages:
 - English
 summary: "Scenery pack with buildings from around the world."
-zt1tags: ["All", "Objects", "ZT1", "Scenery", "Buildings"]
+file_size: 4.22 MB
+file_date: 2014-01-03
+alt_text: null
+mod_list:
+  - name: World Wonders AOE2
+    title: World Wonders AOE2.zip
+    category: Files
+    file_size: 4.12 MB
+    uploaded: 2023-07-24
+zt1tags: ["All", "ZT1", "Objects", "Scenery"]
 contents:
 - Aachen Cathedral
 - Temple of Heaven
@@ -38,9 +43,10 @@ contents:
 - Mausoleum of Theodoric
 - Taq-I Kisra Palace
 ---
+
 Part1
 
-1. I don't know the name XD (If you know please tell me thank you~ :) )
+1. Cathedral of Aachen
 2. Britons - Aachen Cathedral
 3. Chinese-Temple of Heaven
 4. Japanese-Todai-ji Temple

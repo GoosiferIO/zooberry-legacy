@@ -1,5 +1,5 @@
 ---
-title: "Pharoah Pyramid"
+title: "Pharaoh Pyramid"
 has_author: true
 author:
 - RDingFT
@@ -19,7 +19,7 @@ mod_list:
     category: Files
     file_size: 1005 KB
     uploaded: 2026-10-04
-zt1tags: ["All", "ZT1", "Objects", "Scenery", "Packs"]
+zt1tags: ["All", "ZT1", "Objects", "Scenery"]
 contents:
 - Pharaoh Bent Pyramid
 - Pharaoh Large Pyramid

@@ -17,12 +17,12 @@ languages:
 - English
 summary: "Adds new pterosaurs, non avians and extinct birds to your zoo!"
 mod_list:
-  - name: ZwUFOvolOne
-    title: ZwUFOvolOne.zip
+  - name: ZwUFOVI
+    title: ZwUFOVI.zip
     category: Files
     file_size: 44.3 MB
-    uploaded: 2026-10-04
-zt1tags: ["All", "ZT1", "Animal Bundles", "Packs", "Animals", "Birds", "Dinosaurs", "Reptiles", "Prehistoric", "Extinct", "North American", "South American", "Asian"]
+    uploaded: 2026-10-14
+zt1tags: ["All", "ZT1", "Animals", "Animal Bundles"]
 contents:
 - Argentavis
 - Baptornis
@@ -46,6 +46,10 @@ dependencies:
 ---
 
 Adds new pterosaurs, non avians and extinct birds to your zoo!
+
+# Known Issues
+
+- Graphic bugs on hatchling Tupandactylus.
 
 # Contents
 - Argentavis
@@ -71,3 +75,6 @@ Adds new pterosaurs, non avians and extinct birds to your zoo!
 - Yi qi made using *Tyranachu's* base animal.
 - Argentavis made using *Bunyupy & Iguano's* base animal.
 - Pelagornis made using *Zerosvalmont's* base model; reskin made by myself.
+
+# Updates
+10/14/2026 - bug fixes

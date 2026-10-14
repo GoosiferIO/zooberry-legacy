@@ -12,7 +12,7 @@ draft: false
 license: 'Unknown'
 languages:
 - English
-summary: "A big pack with 75 new plants made by Borsato."
+summary: "A big pack with 75 new plants made by Wolverale12"
 mod_list:
   - name: foliage of the world_crocWolv12
     title: Combined File
@@ -401,7 +401,7 @@ mod_list:
     category: Single Files
     file_size: 17.4 KB
     uploaded: 2026-09-03
-zt1tags: ["All", "ZT1", "Objects", "Foliage", "African", "Antarctica", "Asia", "Asian", "Australian", "Eurasia", "Eurasian", "European", "Mediterranean", "North American", "Oceania", "South American", "Aquatic", "Savannah", "Tropical Rainforest", "Living"]
+zt1tags: ["All", "ZT1", "Objects", "Foliage"]
 contents:
 - Abyssinian Fescue
 - African Fern Pine
@@ -479,14 +479,14 @@ contents:
 - Tussac Grass
 - Western Sword Fern
 dependencies:
-  - title: ui99.ztd
-    url: /mods/zt1/tools-utilities/ui99/
-    description: "Required for new location graphics & configs."
-    external: false
   - name: LANG--ZBorsato
     title: LANG-ZBorsato.dll
     url: /mods/zt1/tools-utilities/lang-zborsato/
     description: "Borsato language file with location strings."
+    external: false
+  - title: ui99.ztd
+    url: /mods/zt1/tools-utilities/ui99/
+    description: "Required for new location graphics & configs."
     external: false
 ---
 
