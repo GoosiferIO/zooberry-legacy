@@ -23,6 +23,7 @@ mod_list:
     file_size: 59.8 KB
     uploaded: 2026-10-18
 zt1tags: ["All", "ZT1", "Hacks"]
+thumbnail: "images/MovingThumbCoalesce.gif"
 ---
 
 By default, Zoo Tycoon only allows the carts and the gift stand to be moveable. This restriction makes sense from a game balancing/challenging perspective, but maybe you have played for 20 years and don’t want to lose all the pretty $$$ numbers when you bulldoze your profitable restaurant.

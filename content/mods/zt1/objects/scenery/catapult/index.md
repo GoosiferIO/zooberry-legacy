@@ -20,6 +20,7 @@ mod_list:
     file_size: 115 KB
     uploaded: 2026-10-18
 zt1tags: ["All", "ZT1", "Objects", "Scenery"]
+thumbnail: "images/CatapultThumbCoalesced.gif"
 ---
 
 The newest incarnation of the catapult is an engineering marvel, able to deliver its fiery gifts of warfare to even the most hidden of its foes. 
