@@ -53,11 +53,9 @@ Create custom corn mazes for your guests with new animated corn stalk foliage ti
 
 Also included is a special mystery item, which you may find at the end of your scenery menu.
 
-# Do you allow derivative works based on your mod? 
-
-Yes, with the caveat that the two 3D models have a CC Attribution license, so if any derivative works use my graphics for the Tractor or Flower Wagon, those models should remain credited.
-
 # Contents
+
+**VondellsFallFarmSet2026.zip**
 - Decorated Hay Bales
 - Decorative Fall Corn
 - Decorative Summer Corn
@@ -66,8 +64,14 @@ Yes, with the caveat that the two 3D models have a CC Attribution license, so if
 - Full Hay Wagon
 - Hay Bale Row
 - Scarecrow
+
+**Vondells2026HalloweenBonusItem.zip**
 - Halloween Bonus Item
 
 # Other Credits
 - [Old Tractor - Ferguson TE20 by Fredrik Johansen on Sketchfab](https://sketchfab.com/3d-models/old-tractor-ferguson-te20-604cb70b362846ba8a3e835bff65ae7b) (for Tractor)  
 - [Vintage Pickup Truck by CharlesNG on Sketchfab](https://sketchfab.com/3d-models/vintage-pickup-truck-a8236365c20f4574bcba177343ccadc8) (for Flower Wagon)
+
+# Do you allow derivative works based on your mod? 
+
+Yes, with the caveat that the two 3D models have a CC Attribution license, so if any derivative works use my graphics for the Tractor or Flower Wagon, those models should remain credited.
