@@ -53,6 +53,8 @@ Create custom corn mazes for your guests with new animated corn stalk foliage ti
 
 Also included is a special mystery item, which you may find at the end of your scenery menu.
 
+> **Note**: The Flower Wagon sells an item that reuses language strings from the ZKL dll, but uses a new graphic for the item. Because of this, if you happen to have another user-made building in your zoo that sells an item that uses the same name ID ("Flowers"), a guest using that building may receive the item graphic from this building in their inventory, or vice-versa. This is a compromise related to creating new sold items in this way; this is the only side-effect in gameplay.  
+
 # Contents
 
 **VondellsFallFarmSet2026.zip**
