@@ -6,7 +6,6 @@ is_category: true
 cascade:
   mainModCat: "Mods"
   galleria: true
-  zt2tags: ["All", "ZT2"]
   submenu:
   - name: "Home"
     url: "/mods/"
