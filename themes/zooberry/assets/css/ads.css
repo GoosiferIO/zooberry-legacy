@@ -1,0 +1,53 @@
+/* AdSense units */
+.ad {
+    margin: 2rem 0;
+}
+
+.ad-label {
+    display: block;
+    margin-bottom: 0.35rem;
+    font-size: 0.7rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    opacity: 0.6;
+}
+
+.ad--block ins,
+.ad--block .ad-placeholder {
+    min-height: 100px;
+}
+
+.ad--vertical ins,
+.ad--vertical .ad-placeholder {
+    min-height: 600px;
+}
+
+.ad-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px dashed var(--secondary-border);
+    background: repeating-linear-gradient(45deg, transparent 0 12px, rgba(127, 127, 127, 0.08) 12px 24px);
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    opacity: 0.8;
+}
+
+.sidebar_r .ad,
+.sidebar_r-a .ad {
+    margin: 0 0 1.2rem;
+}
+
+.box-card-list {
+    grid-auto-flow: row dense;
+}
+
+.box-card-list > .ad-row {
+    grid-column: 1 / -1;
+    list-style: none;
+}
+
+.box-card-list > .ad-row .ad {
+    margin: 0.5rem 0;
+}

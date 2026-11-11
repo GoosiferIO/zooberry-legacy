@@ -24,6 +24,7 @@
       <a href="/latest" class="button-dft margin-rt">More from Latest</a>
       <a href="/mods" class="button-dft margin-rt">Browse All Mods</a>
     </div>
+    {{ partial "ad.html" (dict "type" "block") }}
   <h1>Latest Blog Posts</h1>
   <p class="cat-blurb">Stay up to date with the latest news and updates from ZooBerry.</p>
     {{ partial "range-blogs.html" . }}

@@ -1,0 +1,25 @@
+{{- $ads := site.Params.ads -}}
+{{- $type := .type | default "block" -}}
+{{- with $ads -}}
+{{- $slot := index . $type -}}
+{{- if $slot -}}
+<aside class="ad ad--{{ $type }}" aria-label="Advertisement">
+    <span class="ad-label">Advertisement</span>
+    {{- if hugo.IsProduction }}
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="{{ $ads.client }}"
+         data-ad-slot="{{ $slot }}"
+         {{- if eq $type "vertical" }}
+         data-ad-format="vertical"
+         {{- else }}
+         data-ad-format="auto"
+         data-full-width-responsive="true"
+         {{- end }}></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    {{- else }}
+    <div class="ad-placeholder">{{ $type }} ad</div>
+    {{- end }}
+</aside>
+{{- end -}}
+{{- end -}}

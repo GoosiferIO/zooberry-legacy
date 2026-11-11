@@ -24,7 +24,8 @@
 {{ template "_internal/pagination.html" (dict "paginator" $paginator "page" .) }}
 
 <div class="box-card-list">
-    {{ range $paginator.Pages }}
+    {{ range $i, $_ := $paginator.Pages }}
+        {{ if and (eq $i 6) (gt (len $paginator.Pages) 9) }}<li class="ad-row">{{ partial "ad.html" (dict "type" "block") }}</li>{{ end }}
     <li class="box-card-mods">
         <div class="box-card-mods-img">
             {{/*  get spepcified image in thumbnail field, else first image from images folder in this bundle */}}

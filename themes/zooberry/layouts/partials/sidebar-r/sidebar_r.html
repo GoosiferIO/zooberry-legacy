@@ -19,6 +19,7 @@
         </ul>
         {{- end }}
     </div>
+    {{ partial "ad.html" (dict "type" "vertical") }}    
     <div class="sidebar_r-inner">
         <span class="sidebar_r-title">Related Projects</span>
         {{- with index site.Menus "mprelatedprojects" }}

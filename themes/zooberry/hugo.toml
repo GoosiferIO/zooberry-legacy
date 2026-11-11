@@ -21,6 +21,11 @@ weight = 30
   modsPerPage = 30
   homeMods = 15
 
+[params.ads]
+  client = "ca-pub-2832868556568295"
+  vertical = "5792572983"
+  block = "5760783393"
+
 [module]
   [module.hugoVersion]
     extended = false
